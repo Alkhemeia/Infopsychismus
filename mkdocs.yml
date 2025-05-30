@@ -2,12 +2,13 @@ docs_dir: docs
 site_name: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
 nav:
   - Home: README.md
-  - Book (English): Infopsychismus_Book.md
-  - Infopsychismus.txt: Infopsychismus.txt
-  - Deutsch:
-      - Buch: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
-      - Projektinfo: languages/de/README_DE.md
-      - Infopsychismus_DE.txt: languages/de/Infopsychismus_DE.txt
+  - Book: Infopsychismus_Book.md
+  - Infopsychismus Origins: Infopsychismus.txt
+  - Other Languages:
+      - Deutsch:
+          - Buch: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
+          - Projektinfo: languages/de/README_DE.md
+          - Infopsychismus_DE.txt: languages/de/Infopsychismus_DE.txt
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
   name: material
