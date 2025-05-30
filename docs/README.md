@@ -7,7 +7,19 @@ Infopsychismus is an integrative book project that combines classical philosophy
 
 ## Project Overview
 
-The heart of the project is the book [Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning](Infopsychismus_An_Integrative_Book.md), which summarizes all central topics, terms, and tasks in an accessible way.
+The heart of the project is the book [Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning](Infopsychismus_Book.md), which summarizes all central topics, terms, and tasks in an accessible way.
+
+**Quick Links:**
+
+- [Read the full book (English)](Infopsychismus_Book.md)
+- [Glossary](Infopsychismus_Book.md#glossary)
+- [FAQ](#faq--frequently-asked-questions)
+- [Contributors](Infopsychismus_Book.md#contributors)
+- [German version](languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md)
+
+[Zur deutschen Version](languages/de/README_DE.md)
+
+---
 
 **Key Topics:**
 

@@ -9,7 +9,17 @@ Infopsychismus ist ein integratives Buchprojekt, das klassische Philosophie, mod
 
 Die Welt besteht aus einem fundamentalen Netzwerk dynamischer Information, das weder rein physisch noch rein geistig ist, sondern beiden Aspekten zugrunde liegt. Schon die elementaren Informationseinheiten tragen proto-bewusste Eigenschaften, aus deren komplexer Vernetzung in größeren Systemen (z. B. Gehirnen) subjektives Erleben in hoher Ausprägung entsteht. So vereint dieses Modell die Kausalität physikalischer Gesetze mit der Realität bewusster Erfahrung und erklärt beides als Facetten ein und derselben Informationsstruktur.
 
-Das Herzstück des Projekts ist das Buch [Infopsychismus – Ein integratives Buch über Bewusstsein, Realität und Sinn](../Infopsychismus_Ein_Integratives_Buch_DE.md), das alle zentralen Themen, Begriffe und Aufgaben verständlich zusammenfasst.
+Das Herzstück des Projekts ist das Buch [Infopsychismus – Ein integratives Buch über Bewusstsein, Realität und Sinn](Infopsychismus_Ein_Integratives_Buch_DE.md), das alle zentralen Themen, Begriffe und Aufgaben verständlich zusammenfasst.
+
+**Schnellzugriff:**
+
+- [Zum vollständigen Buch (Deutsch)](Infopsychismus_Ein_Integratives_Buch_DE.md)
+- [Glossar](Infopsychismus_Ein_Integratives_Buch_DE.md#glossar)
+- [FAQ](#faq--häufig-gestellte-fragen)
+- [Mitwirkende](Infopsychismus_Ein_Integratives_Buch_DE.md#mitwirkende)
+- [Zur englischen Version](../../README.md)
+
+---
 
 **Zentrale Themen:**
 
@@ -42,7 +52,7 @@ Beide Begriffe spiegeln die Kernelemente der Einschätzung wider:
 
 ## Interne Verlinkung
 
-Das vollständige Buch findest du hier: [Infopsychismus – Ein integratives Buch über Bewusstsein, Realität und Sinn](../Infopsychismus_Ein_Integratives_Buch_DE.md)
+Das vollständige Buch findest du hier: [Infopsychismus – Ein integratives Buch über Bewusstsein, Realität und Sinn](Infopsychismus_Ein_Integratives_Buch_DE.md)
 
 ---
 

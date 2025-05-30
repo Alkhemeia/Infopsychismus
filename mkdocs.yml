@@ -1,10 +1,15 @@
+docs_dir: docs
 site_name: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
 nav:
   - Home: README.md
   - Book (English): Infopsychismus_Book.md
+  - Infopsychismus.txt: Infopsychismus.txt
+  - Test: test.md
   - Deutsch:
       - Buch: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
       - Projektinfo: languages/de/README_DE.md
+      - Infopsychismus_DE.pdf: languages/de/Infopsychismus_DE.pdf
+      - Infopsychismus_DE.txt: languages/de/Infopsychismus_DE.txt
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
   name: material
@@ -15,6 +20,8 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.annotate
+plugins:
+  - search
 markdown_extensions:
   - toc:
       permalink: true
@@ -35,3 +42,26 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/alkhemeia/Infopsychismus
+  meta:
+    - name: description
+      content: Infopsychismus is an integrative book exploring consciousness, reality, and meaning from philosophical, scientific, and psychological perspectives. Read online or download for free.
+    - property: og:title
+      content: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
+    - property: og:description
+      content: Infopsychismus is an integrative book exploring consciousness, reality, and meaning from philosophical, scientific, and psychological perspectives.
+    - property: og:type
+      content: website
+    - property: og:url
+      content: https://github.com/alkhemeia/Infopsychismus
+    - property: og:image
+      content: assets/images/favicon.png
+    - name: twitter:card
+      content: summary_large_image
+    - name: twitter:title
+      content: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
+    - name: twitter:description
+      content: Infopsychismus is an integrative book exploring consciousness, reality, and meaning from philosophical, scientific, and psychological perspectives.
+    - name: twitter:image
+      content: assets/images/favicon.png
+site_description: >-
+  Infopsychismus is an integrative book exploring consciousness, reality, and meaning from philosophical, scientific, and psychological perspectives. Read online or download for free.

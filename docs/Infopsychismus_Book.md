@@ -8,6 +8,8 @@ language: en
 
 # Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
 
+[Back to Overview](README.md)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -73,6 +75,8 @@ The insights lead to a new ethics in which responsibility, compassion, and creat
 
 ---
 
+---
+
 ## Glossary
 
 - **Consciousness:** The ability of a system to have subjective experiences.
@@ -84,15 +88,21 @@ The insights lead to a new ethics in which responsibility, compassion, and creat
 
 ---
 
+---
+
 ## Contributors
 
 This book is open for contributions! If you would like to participate, please contact the author or submit a pull request.
 
 ---
 
+---
+
 ## Change Log
 
 - 2025-05-30: Added chapter summaries, glossary, and contributors section.
+
+---
 
 ---
 

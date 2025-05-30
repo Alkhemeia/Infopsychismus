@@ -19,14 +19,16 @@ Verantwortung, Mitgefühl und schöpferische Gestaltung werden zu zentralen Aufg
 
 # Infopsychismus – Ein integratives Buch über Bewusstsein, Realität und Sinn
 
+[Zur Übersicht](README_DE.md)
+
 ## Inhaltsverzeichnis
 
 1. [Einleitung](#einleitung)
 2. [Die Frage nach der Existenz](#1-die-frage-nach-der-existenz)
-3. [Die Struktur der Realität](#2-die-struktur-der-realität)
+3. [Die Struktur der Realität](#die-struktur-der-realität)
 4. [Die Rolle des Bewusstseins](#3-die-rolle-des-bewusstseins)
 5. [Warum sind wir bewusste Wesen hier?](#4-warum-sind-wir-bewusste-wesen-hier)
-6. [Unsere tatsächliche Aufgabe](#5-unsere-tatsächliche-aufgabe)
+6. [Unsere tatsächliche Aufgabe](#unsere-tatsächliche-aufgabe)
 7. [Ausblick und ethische Implikationen](#6-ausblick-und-ethische-implikationen)
 8. [Literatur und Quellen](#literatur-und-quellen)
 
@@ -94,6 +96,8 @@ Die Erkenntnis, dass Bewusstsein und Information universelle Prinzipien sind, f�
 
 ---
 
+---
+
 ## Glossar
 
 - **Bewusstsein:** Die Fähigkeit eines Systems, subjektive Erfahrungen zu haben.
@@ -105,9 +109,13 @@ Die Erkenntnis, dass Bewusstsein und Information universelle Prinzipien sind, f�
 
 ---
 
+---
+
 ## Mitwirkende
 
 Dieses Buch ist offen für Beiträge! Wenn du mitwirken möchtest, kontaktiere bitte den/die Autor:in oder reiche einen Pull Request ein.
+
+---
 
 ---
 
