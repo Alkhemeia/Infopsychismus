@@ -5,10 +5,9 @@ nav:
   - Book: Infopsychismus_Book.md
   - Infopsychismus Origins: Infopsychismus.txt
   - Other Languages:
-      - Deutsch:
-          - Buch: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
-          - Projektinfo: languages/de/README_DE.md
-          - Infopsychismus_DE.txt: languages/de/Infopsychismus_DE.txt
+      - Deutsch (Buch): languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
+      - Deutsch (Projektinfo): languages/de/README_DE.md
+      - Deutsch (Text): languages/de/Infopsychismus_DE.txt
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
   name: material
