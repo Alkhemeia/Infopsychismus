@@ -4,11 +4,9 @@ nav:
   - Home: README.md
   - Book (English): Infopsychismus_Book.md
   - Infopsychismus.txt: Infopsychismus.txt
-  - Test: test.md
   - Deutsch:
       - Buch: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
       - Projektinfo: languages/de/README_DE.md
-      - Infopsychismus_DE.pdf: languages/de/Infopsychismus_DE.pdf
       - Infopsychismus_DE.txt: languages/de/Infopsychismus_DE.txt
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
