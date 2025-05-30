@@ -1,0 +1,37 @@
+site_name: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
+nav:
+  - Home: README.md
+  - Book (English): Infopsychismus_Book.md
+  - Deutsch:
+      - Buch: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
+      - Projektinfo: languages/de/README_DE.md
+repo_url: https://github.com/alkhemeia/Infopsychismus
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/alkhemeia/Infopsychismus
