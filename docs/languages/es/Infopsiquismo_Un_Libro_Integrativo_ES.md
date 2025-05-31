@@ -1,3 +1,24 @@
+## 12. Preguntas abiertas y futuras líneas de investigación
+
+El modelo integrador del Infopsiquismo abre un amplio abanico de preguntas para la exploración futura. A medida que se profundiza nuestra comprensión de la conciencia, la información y la realidad, surgen nuevas vías de investigación y desafíos filosóficos:
+
+**Preguntas sin resolver:**
+
+- ¿Cuáles son las condiciones necesarias y suficientes para que surja la conciencia en sistemas naturales y artificiales?
+- ¿Cómo podemos detectar o medir empíricamente la proto-conciencia en entidades no humanas o no biológicas?
+- ¿Cuáles son las implicaciones éticas de crear o encontrarse con nuevas formas de conciencia?
+- ¿Cómo pueden fundamentarse el sentido y el valor en un universo fundamentalmente informacional?
+
+**Investigación interdisciplinaria:**
+
+- La colaboración entre neurociencia, física, filosofía, informática y artes será esencial para avanzar en la comprensión de la conciencia y la información.
+- Se necesitarán nuevos paradigmas experimentales, modelos teóricos e innovaciones tecnológicas para poner a prueba y perfeccionar los principios del Infopsiquismo.
+
+**Invitación a la indagación:**
+Este libro no es la última palabra, sino un punto de partida para el diálogo y el descubrimiento continuos. Se anima a los lectores a cuestionar, criticar y contribuir a la conversación en evolución sobre la naturaleza de la existencia, la conciencia y el sentido.
+
+---
+
 ## 11. Infopsiquismo y el futuro del sentido
 
 De cara al futuro, el modelo integrador del Infopsiquismo ofrece un marco para navegar las incertidumbres y oportunidades venideras. La convergencia de la tecnología, la comunicación global y el descubrimiento científico está acelerando la evolución de la conciencia y la creación de nuevas formas de sentido.
