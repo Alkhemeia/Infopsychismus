@@ -123,6 +123,82 @@ nav:
           - Registro de cambios: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#registro-de-cambios
           - Referencias y fuentes: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#referencias-y-fuentes
       - Español (Proyecto): languages/es/README_ES.md
+      - 中文 (书籍):
+          - 前言: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#前言
+          - 目录: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#目录
+          - 存在之问: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#2-存在之问
+          - 现实的结构: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#3-现实的结构
+          - 意识的角色: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#4-意识的角色
+          - 我们为何是有意识的存在？: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#5-我们为何是有意识的存在
+          - 我们的实际任务: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#6-我们的实际任务
+          - 展望与伦理影响: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#7-展望与伦理影响
+          - 意识的未来：技术、社会与进化: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#8-意识的未来技术社会与进化
+          - 开放性问题与未来研究方向: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#9-开放性问题与未来研究方向
+          - 历史背景与思想渊源: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#10-历史背景与思想渊源
+          - 案例分析与应用: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#11-案例分析与应用
+          - 批评与反驳: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#12-批评与反驳
+          - 方法论与认识论: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#13-方法论与认识论
+          - 伦理的深入探讨: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#14-伦理的深入探讨
+          - 附录与延伸阅读: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#15-附录与延伸阅读
+          - 信息心理主义与人工智能：挑战与机遇: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#16-信息心理主义与人工智能挑战与机遇
+          - 信息心理主义与计算与模拟的极限: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#17-信息心理主义与计算与模拟的极限
+          - 信息心理主义与语言哲学: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#18-信息心理主义与语言哲学
+          - 意义的扩展思考: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#19-意义的扩展思考
+          - 术语表: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#术语表
+          - 贡献者: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#贡献者
+          - 变更日志: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#变更日志
+          - 参考文献: languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md#参考文献
+      - 中文 (项目信息): languages/zh/README_ZH.md
+      - Русский (Книга):
+          - Введение: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#введение
+          - Вопрос о существовании: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#2-вопрос-о-существовании
+          - Структура реальности: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#3-структура-реальности
+          - Роль сознания: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#4-роль-сознания
+          - Почему мы — сознательные существа?: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#5-почему-мы-сознательные-существа
+          - Наша реальная задача: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#6-наша-реальная-задача
+          - Перспективы и этические последствия: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#7-перспективы-и-этические-последствия
+          - Будущее сознания: технологии, общество и эволюция: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#8-будущее-сознания-технологии-общество-и-эволюция
+          - Открытые вопросы и направления будущих исследований: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#9-открытые-вопросы-и-направления-будущих-исследований
+          - Исторический контекст и интеллектуальные традиции: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#10-исторический-контекст-и-интеллектуальные-традиции
+          - Кейсы и практические применения: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#11-кейсы-и-практические-применения
+          - Критика и контраргументы: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#12-критика-и-контраргументы
+          - Методология и эпистемология: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#13-методология-и-эпистемология
+          - Углублённые этические размышления: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#14-углублённые-этические-размышления
+          - Приложения и дополнительная литература: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#15-приложения-и-дополнительная-литература
+          - Инфопсихизм и искусственный интеллект: вызовы и возможности: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#16-инфопсихизм-и-искусственный-интеллект-вызовы-и-возможности
+          - Инфопсихизм и пределы вычислений и симуляций: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#17-инфопсихизм-и-пределы-вычислений-и-симуляций
+          - Инфопсихизм и философия языка: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#18-инфопсихизм-и-философия-языка
+          - Расширенные размышления о смысле: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#19-расширенные-размышления-о-смысле
+          - Глоссарий: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#глоссарий
+          - Авторы: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#авторы
+          - Журнал изменений: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#журнал-изменений
+          - Ссылки и литература: languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md#ссылки-и-литература
+      - Русский (Проект): languages/ru/README_RU.md
+      - العربية (الكتاب):
+          - المقدمة: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#المقدمة
+          - سؤال الوجود: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#2-سؤال-الوجود
+          - بنية الواقع: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#3-بنية-الواقع
+          - دور الوعي: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#4-دور-الوعي
+          - لماذا نحن كائنات واعية هنا؟: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#5-لماذا-نحن-كائنات-واعية-هنا
+          - مهمتنا الفعلية: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#6-مهمتنا-الفعلية
+          - آفاق وتأثيرات أخلاقية: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#7-آفاق-وتأثيرات-أخلاقية
+          - مستقبل الوعي: التكنولوجيا والمجتمع والتطور: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#8-مستقبل-الوعي-التكنولوجيا-والمجتمع-والتطور
+          - أسئلة مفتوحة واتجاهات البحث المستقبلي: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#9-أسئلة-مفتوحة-واتجاهات-البحث-المستقبلي
+          - السياق التاريخي والتطور الفكري: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#10-السياق-التاريخي-والتطور-الفكري
+          - دراسات حالة وتطبيقات: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#11-دراسات-حالة-وتطبيقات
+          - الانتقادات والحجج المضادة: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#12-الانتقادات-والحجج-المضادة
+          - المنهجية والإبستمولوجيا: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#13-المنهجية-والإبستمولوجيا
+          - تأملات أخلاقية معمقة: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#14-تأملات-أخلاقية-معمقة
+          - ملاحق وقراءات إضافية: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#15-ملاحق-وقراءات-إضافية
+          - النفسيات المعلوماتية والذكاء الاصطناعي: التحديات والفرص: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#16-النفسيات-المعلوماتية-والذكاء-الاصطناعي-التحديات-والفرص
+          - النفسيات المعلوماتية وحدود الحساب والمحاكاة: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#17-النفسيات-المعلوماتية-وحدود-الحساب-والمحاكاة
+          - النفسيات المعلوماتية وفلسفة اللغة: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#18-النفسيات-المعلوماتية-وفلسفة-اللغة
+          - تأملات موسعة حول المعنى: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#19-تأملات-موسعة-حول-المعنى
+          - المصطلحات: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#المصطلحات
+          - المساهمون: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#المساهمون
+          - سجل التغييرات: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#سجل-التغييرات
+          - المراجع والمصادر: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#المراجع-والمصادر
+      - العربية (المشروع): languages/ar/README_AR.md
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
   name: material
