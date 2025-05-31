@@ -1,3 +1,19 @@
+---
+title: Infopsychisme – Un livre intégratif sur la conscience, la réalité et le sens
+description: Livre intégratif sur la conscience, la réalité et le sens. Relie philosophie, science, réalisme informationnel et panpsychisme en un modèle accessible de l'existence et de la conscience.
+keywords: conscience, réalité, sens, réalisme informationnel, panpsychisme, philosophie, métaphysique, existence, conscience de soi, éthique
+date: 2025-05-31
+language: fr
+---
+
+# Préface
+
+À une époque marquée par des mutations technologiques rapides, des défis mondiaux et une quête renouvelée de sens, les questions de conscience, de réalité et de valeur n'ont jamais été aussi pressantes. Ce livre est né du désir de combler le fossé entre philosophie et science, d'offrir un modèle à la fois rigoureux et accessible, et d'inviter des lecteurs de tous horizons à participer au dialogue continu sur l'existence et l'esprit.
+
+L'Infopsychisme n'est pas présenté comme une réponse définitive, mais comme un cadre vivant—ouvert à la critique, à la collaboration et à l'expansion créative. Que vous soyez philosophe, scientifique, artiste, technologue ou simplement un esprit curieux, j'espère que cet ouvrage vous inspirera à réfléchir, questionner et contribuer à la compréhension évolutive de la conscience et de la réalité.
+
+— L'Auteur / L'Auteure
+
 ## 22. Réflexions élargies sur le sens
 
 Le sens est un thème central de l'Infopsychisme, mais sa nature est complexe et évolutive. Les développements récents en IA, intelligence collective et culture numérique remettent en question les conceptions traditionnelles du sens et de la valeur.

@@ -1,3 +1,11 @@
+# Prólogo
+
+En una era marcada por el rápido cambio tecnológico, los desafíos globales y una renovada búsqueda de sentido, las preguntas sobre la conciencia, la realidad y el valor nunca han sido más urgentes. Este libro surge del deseo de tender puentes entre la filosofía y la ciencia, de ofrecer un modelo riguroso y accesible, e invitar a lectores de todos los ámbitos a participar en el diálogo continuo sobre la existencia y la mente.
+
+El Infopsiquismo no se presenta como una respuesta final, sino como un marco vivo—abierto a la crítica, la colaboración y la expansión creativa. Seas filósofo, científico, artista, tecnólogo o simplemente una mente curiosa, espero que esta obra te inspire a reflexionar, cuestionar y contribuir a la comprensión en evolución de la conciencia y la realidad.
+
+— El Autor / La Autora
+
 ## 22. Reflexiones ampliadas sobre el sentido
 
 El sentido es un tema central en el Infopsiquismo, pero su naturaleza es compleja y evoluciona. Los desarrollos recientes en IA, inteligencia colectiva y cultura digital desafían las visiones tradicionales del sentido y el valor.
