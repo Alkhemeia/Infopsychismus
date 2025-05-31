@@ -2,15 +2,103 @@ docs_dir: docs
 site_name: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
 nav:
   - Home: README.md
-  - Book: Infopsychismus_Book.md
+  - Book:
+      - Introduction: Infopsychismus_Book.md#introduction
+      - The Question of Existence: Infopsychismus_Book.md#1-the-question-of-existence
+      - The Structure of Reality: Infopsychismus_Book.md#2-the-structure-of-reality
+      - The Role of Consciousness: Infopsychismus_Book.md#3-the-role-of-consciousness
+      - Why Are We Conscious Beings Here?: Infopsychismus_Book.md#4-why-are-we-conscious-beings-here
+      - Our Actual Task: Infopsychismus_Book.md#5-our-actual-task
+      - The Future of Consciousness: Technology, Society, and Evolution: Infopsychismus_Book.md#7-the-future-of-consciousness-technology-society-and-evolution
+      - Outlook and Ethical Implications: Infopsychismus_Book.md#6-outlook-and-ethical-implications
+      - Open Questions and Future Research Directions: Infopsychismus_Book.md#11-open-questions-and-future-research-directions
+      - Historical Context and Intellectual Lineage: Infopsychismus_Book.md#12-historical-context-and-intellectual-lineage
+      - Case Studies and Real-World Applications: Infopsychismus_Book.md#13-case-studies-and-real-world-applications
+      - Criticisms and Counterarguments: Infopsychismus_Book.md#14-criticisms-and-counterarguments
+      - Methodology and Epistemology: Infopsychismus_Book.md#15-methodology-and-epistemology
+      - Deeper Exploration of Ethics: Infopsychismus_Book.md#16-deeper-exploration-of-ethics
+      - Appendices and Further Reading: Infopsychismus_Book.md#17-appendices-and-further-reading
+     - Infopsychismus and the Limits of Computation and Simulation: Infopsychismus_Book.md#19-infopsychismus-and-the-limits-of-computation-and-simulation
+     - Infopsychismus and the Philosophy of Language: Infopsychismus_Book.md#20-infopsychismus-and-the-philosophy-of-language
+     - Expanded Reflections on Meaning: Infopsychismus_Book.md#21-expanded-reflections-on-meaning
+      - Infopsychismus and the Future of Meaning: Infopsychismus_Book.md#10-infopsychismus-and-the-future-of-meaning
+      - The Practice of Infopsychismus: Living the Model: Infopsychismus_Book.md#9-the-practice-of-infopsychismus-living-the-model
+      - Toward Planetary and Cosmic Consciousness: Infopsychismus_Book.md#8-toward-planetary-and-cosmic-consciousness
+      - Glossary: Infopsychismus_Book.md#glossary
+      - Contributors: Infopsychismus_Book.md#contributors
+      - Change Log: Infopsychismus_Book.md#change-log
+      - References and Sources: Infopsychismus_Book.md#references-and-sources
   - Infopsychismus Origins: Infopsychismus.txt
   - Other Languages:
-      - Deutsch (Buch): languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
+      - Deutsch (Buch):
+          - Einleitung: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#einleitung
+          - Die Frage nach der Existenz: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#1-die-frage-nach-der-existenz
+          - Die Struktur der Realität: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#2-die-struktur-der-realität
+          - Die Rolle des Bewusstseins: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#3-die-rolle-des-bewusstseins
+          - Warum sind wir bewusste Wesen hier?: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#4-warum-sind-wir-bewusste-wesen-hier
+          - Unsere tatsächliche Aufgabe: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#5-unsere-tatsächliche-aufgabe
+          - Ausblick und ethische Implikationen: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#6-ausblick-und-ethische-implikationen
+          - Auf dem Weg zu planetarem und kosmischem Bewusstsein: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#8-auf-dem-weg-zu-planetarem-und-kosmischem-bewusstsein
+          - Die Praxis des Infopsychismus: Das Modell leben: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#10-die-praxis-des-infopsychismus-das-modell-leben
+          - Infopsychismus und die Zukunft des Sinns: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#11-infopsychismus-und-die-zukunft-des-sinns
+          - Offene Fragen und zukünftige Forschungsrichtungen: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#12-offene-fragen-und-zukünftige-forschungsrichtungen
+          - Historischer Kontext und intellektuelle Entwicklungslinien: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#13-historischer-kontext-und-intellektuelle-entwicklungslinien
+          - Fallbeispiele und Anwendungen: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#14-fallbeispiele-und-anwendungen
+          - Kritik und Gegenargumente: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#15-kritik-und-gegenargumente
+          - Methodik und Erkenntnistheorie: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#16-methodik-und-erkenntnistheorie
+          - Vertiefte ethische Betrachtungen: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#17-vertiefte-ethische-betrachtungen
+          - Anhang und weiterführende Literatur: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#18-anhang-und-weiterführende-literatur
+          - Glossar: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#glossar
+          - Mitwirkende: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#mitwirkende
+          - Change-Log: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#change-log
+          - Quellen und Literatur: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md#quellen-und-literatur
       - Deutsch (Projektinfo): languages/de/README_DE.md
       - Deutsch (Text): languages/de/Infopsychismus_DE.txt
-      - Français (Livre): languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md
+      - Français (Livre):
+          - Introduction: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#introduction
+          - La question de l'existence: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#1-la-question-de-lexistence
+          - La structure de la réalité: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#2-la-structure-de-la-réalité
+          - Le rôle de la conscience: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#3-le-rôle-de-la-conscience
+          - Pourquoi sommes-nous des êtres conscients ici ?: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#4-pourquoi-sommes-nous-des-êtres-conscients-ici
+          - Notre véritable tâche: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#5-notre-véritable-tâche
+          - Perspectives et implications éthiques: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#6-perspectives-et-implications-éthiques
+          - Vers une conscience planétaire et cosmique: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#8-vers-une-conscience-planétaire-et-cosmique
+          - La pratique de l'Infopsychisme : Vivre le modèle: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#10-la-pratique-de-linfopsychisme--vivre-le-modèle
+          - Infopsychisme et l'avenir du sens: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#11-infopsychisme-et-lavenir-du-sens
+          - Questions ouvertes et pistes de recherche futures: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#12-questions-ouvertes-et-pistes-de-recherche-futures
+          - Contexte historique et lignées intellectuelles: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#13-contexte-historique-et-lignées-intellectuelles
+          - Études de cas et applications concrètes: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#14-études-de-cas-et-applications-concrètes
+          - Critiques et contre-arguments: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#15-critiques-et-contre-arguments
+          - Méthodologie et épistémologie: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#16-méthodologie-et-épistémologie
+          - Approfondissement éthique: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#17-approfondissement-éthique
+          - Annexes et lectures complémentaires: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#18-annexes-et-lectures-complémentaires
+          - Glossaire: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#glossaire
+          - Contributeurs: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#contributeurs
+          - Journal des modifications: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#journal-des-modifications
+          - Références et sources: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md#références-et-sources
       - Français (Projet): languages/fr/README_FR.md
-      - Español (Libro): languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md
+      - Español (Libro):
+          - Introducción: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#introducción
+          - La cuestión de la existencia: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#1-la-cuestion-de-la-existencia
+          - La estructura de la realidad: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#2-la-estructura-de-la-realidad
+          - El papel de la conciencia: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#3-el-papel-de-la-conciencia
+          - ¿Por qué somos seres conscientes aquí?: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#4-por-qué-somos-seres-conscientes-aquí
+          - Nuestra verdadera tarea: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#5-nuestra-verdadera-tarea
+          - Perspectivas y implicaciones éticas: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#6-perspectivas-y-implicaciones-éticas
+          - Hacia una conciencia planetaria y cósmica: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#8-hacia-una-conciencia-planetaria-y-cósmica
+          - La práctica del Infopsiquismo: Vivir el modelo: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#10-la-práctica-del-infopsiquismo-vivir-el-modelo
+          - Infopsiquismo y el futuro del sentido: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#11-infopsiquismo-y-el-futuro-del-sentido
+          - Preguntas abiertas y futuras líneas de investigación: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#12-preguntas-abiertas-y-futuras-líneas-de-investigación
+          - Contexto histórico y linaje intelectual: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#13-contexto-histórico-y-linaje-intelectual
+          - Estudios de caso y aplicaciones prácticas: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#14-estudios-de-caso-y-aplicaciones-prácticas
+          - Críticas y contraargumentos: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#15-críticas-y-contraargumentos
+          - Metodología y epistemología: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#16-metodología-y-epistemología
+          - Profundización ética: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#17-profundización-ética
+          - Apéndices y lecturas recomendadas: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#18-apéndices-y-lecturas-recomendadas
+          - Glosario: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#glosario
+          - Colaboradores: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#colaboradores
+          - Registro de cambios: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#registro-de-cambios
+          - Referencias y fuentes: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md#referencias-y-fuentes
       - Español (Proyecto): languages/es/README_ES.md
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
