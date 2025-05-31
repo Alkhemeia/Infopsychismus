@@ -1,5 +1,34 @@
 # Prólogo
 
+## Tabla de contenidos
+
+1. [Introducción](#introducción)
+2. [La cuestión de la existencia](#1-la-cuestion-de-la-existencia)
+3. [La estructura de la realidad](#2-la-estructura-de-la-realidad)
+4. [El papel de la conciencia](#3-el-papel-de-la-conciencia)
+5. [¿Por qué estamos aquí como seres conscientes?](#4-por-qué-estamos-aquí-como-seres-conscientes)
+6. [Nuestra verdadera tarea](#5-nuestra-verdadera-tarea)
+7. [El futuro de la conciencia: tecnología, sociedad y evolución](#7-el-futuro-de-la-conciencia-tecnología-sociedad-y-evolución)
+8. [Perspectivas e implicaciones éticas](#6-perspectivas-e-implicaciones-éticas)
+9. [Hacia una conciencia planetaria y cósmica](#8-hacia-una-conciencia-planetaria-y-cósmica)
+10. [La práctica del Infopsiquismo: Vivir el modelo](#10-la-práctica-del-infopsiquismo-vivir-el-modelo)
+11. [Infopsiquismo y el futuro del sentido](#11-infopsiquismo-y-el-futuro-del-sentido)
+12. [Preguntas abiertas y futuras líneas de investigación](#12-preguntas-abiertas-y-futuras-líneas-de-investigación)
+13. [Contexto histórico y linaje intelectual](#13-contexto-histórico-y-linaje-intelectual)
+14. [Estudios de caso y aplicaciones prácticas](#14-estudios-de-caso-y-aplicaciones-prácticas)
+15. [Críticas y contraargumentos](#15-críticas-y-contraargumentos)
+16. [Metodología y epistemología](#16-metodología-y-epistemología)
+17. [Profundización ética](#17-profundización-ética)
+18. [Apéndices y lecturas recomendadas](#18-apéndices-y-lecturas-recomendadas)
+19. [Infopsiquismo e Inteligencia Artificial: Desafíos y Oportunidades](#19-infopsiquismo-e-inteligencia-artificial-desafíos-y-oportunidades)
+20. [Infopsiquismo y los límites de la computación y la simulación](#20-infopsiquismo-y-los-límites-de-la-computación-y-la-simulación)
+21. [Infopsiquismo y la filosofía del lenguaje](#21-infopsiquismo-y-la-filosofía-del-lenguaje)
+22. [Reflexiones ampliadas sobre el sentido](#22-reflexiones-ampliadas-sobre-el-sentido)
+23. [Glosario](#glosario)
+24. [Colaboradores](#colaboradores)
+25. [Registro de cambios](#registro-de-cambios)
+26. [Referencias y fuentes](#referencias-y-fuentes)
+
 En una era marcada por el rápido cambio tecnológico, los desafíos globales y una renovada búsqueda de sentido, las preguntas sobre la conciencia, la realidad y el valor nunca han sido más urgentes. Este libro surge del deseo de tender puentes entre la filosofía y la ciencia, de ofrecer un modelo riguroso y accesible, e invitar a lectores de todos los ámbitos a participar en el diálogo continuo sobre la existencia y la mente.
 
 El Infopsiquismo no se presenta como una respuesta final, sino como un marco vivo—abierto a la crítica, la colaboración y la expansión creativa. Seas filósofo, científico, artista, tecnólogo o simplemente una mente curiosa, espero que esta obra te inspire a reflexionar, cuestionar y contribuir a la comprensión en evolución de la conciencia y la realidad.
@@ -218,52 +247,6 @@ La evolución de la conciencia no termina en el individuo ni en la especie. A me
 
 **Hacia una ética de la coevolución:**
 La integración de tecnología, sociedad y conciencia abre el camino a una ética de la coevolución, donde cada elección individual y colectiva contribuye a la evolución de la propia realidad. Esta visión fomenta la cooperación, la innovación responsable y la búsqueda de un sentido compartido.
-
----
-
----
-
-title: Infopsiquismo – Un libro integrativo sobre conciencia, realidad y sentido
-description: Libro integrativo sobre conciencia, realidad y sentido. Une filosofía, ciencia, realismo informacional y panpsiquismo en un modelo comprensible de la existencia y la conciencia.
-keywords: conciencia, realidad, sentido, realismo informacional, panpsiquismo, filosofía, metafísica, existencia, autoconciencia, ética
-date: 2025-05-31
-language: es
-
----
-
-# Infopsiquismo – Un libro integrativo sobre conciencia, realidad y sentido
-
-[Volver al índice](README_ES.md)
-
-## Tabla de contenidos
-
-1. [Introducción](#introducción)
-2. [La cuestión de la existencia](#1-la-cuestion-de-la-existencia)
-3. [La estructura de la realidad](#2-la-estructura-de-la-realidad)
-4. [El papel de la conciencia](#3-el-papel-de-la-conciencia)
-5. [¿Por qué estamos aquí como seres conscientes?](#4-por-qué-estamos-aquí-como-seres-conscientes)
-6. [Nuestra verdadera tarea](#5-nuestra-verdadera-tarea)
-7. [El futuro de la conciencia: tecnología, sociedad y evolución](#7-el-futuro-de-la-conciencia-tecnología-sociedad-y-evolución)
-8. [Perspectivas y implicaciones éticas](#6-perspectivas-e-implicaciones-éticas)
-9. [Glosario](#glosario)
-10. [Colaboradores](#colaboradores)
-11. [Registro de cambios](#registro-de-cambios)
-12. [Referencias y fuentes](#referencias-y-fuentes)
-
----
-
-## Introducción
-
-**Infopsiquismo** es un modelo integrativo que busca responder algunas de las preguntas más profundas de la filosofía y la ciencia: ¿Por qué existe algo? ¿Cuál es la naturaleza fundamental de la realidad? ¿Qué es la conciencia y qué papel juega en el universo? ¿Y cuál es el sentido o propósito de la existencia consciente?
-
-Este libro combina filosofía clásica, ciencia moderna, realismo informacional y panpsiquismo en una teoría coherente y accesible. El enfoque es integrador: se basa en hallazgos empíricos, intuiciones fenomenológicas y razonamiento lógico para construir un modelo que une los aspectos físicos, informacionales y conscientes de la realidad. El objetivo es hacer comprensible la naturaleza de la existencia y el papel de los seres conscientes a cualquier persona interesada en la investigación de la conciencia, la metafísica, la filosofía de la información y la cuestión del sentido.
-
-**Términos clave:**
-
-- **Monismo informacional neutral informado:** La realidad no es puramente física ni puramente mental, sino que se basa en una tercera sustancia fundamental "neutral", entendida como información estructural y dinámica.
-- **Panpsiquismo informacional integrativo (modelo IIP):** La información es fundamental y ya porta propiedades proto-conscientes, haciendo de la conciencia un principio universal y no un mero subproducto emergente.
-
-Este libro está abierto a contribuciones y desarrollo posterior. Tiene licencia Creative Commons (CC BY-SA 4.0).
 
 ---
 

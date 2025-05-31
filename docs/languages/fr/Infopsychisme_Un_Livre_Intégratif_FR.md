@@ -6,6 +6,37 @@ date: 2025-05-31
 language: fr
 ---
 
+# Table des matières
+
+1. [Introduction](#introduction)
+2. [La question de l'existence](#1-la-question-de-lexistence)
+3. [La structure de la réalité](#2-la-structure-de-la-réalité)
+4. [Le rôle de la conscience](#3-le-rôle-de-la-conscience)
+5. [Pourquoi sommes-nous des êtres conscients ici ?](#4-pourquoi-sommes-nous-des-êtres-conscients-ici)
+6. [Notre véritable tâche](#5-notre-véritable-tâche)
+7. [L'avenir de la conscience : technologie, société et évolution](#7-lavenir-de-la-conscience-technologie-société-et-évolution)
+8. [Perspectives et implications éthiques](#6-perspectives-et-implications-éthiques)
+9. [Vers une conscience planétaire et cosmique](#8-vers-une-conscience-planétaire-et-cosmique)
+10. [La pratique de l'Infopsychisme : Vivre le modèle](#9-la-pratique-de-linfopsychisme-vivre-le-modèle)
+11. [Infopsychisme et l'avenir du sens](#10-infopsychisme-et-lavenir-du-sens)
+12. [Questions ouvertes et pistes de recherche futures](#11-questions-ouvertes-et-pistes-de-recherche-futures)
+13. [Contexte historique et lignées intellectuelles](#12-contexte-historique-et-lignées-intellectuelles)
+14. [Études de cas et applications concrètes](#13-études-de-cas-et-applications-concrètes)
+15. [Critiques et contre-arguments](#14-critiques-et-contre-arguments)
+16. [Méthodologie et épistémologie](#15-méthodologie-et-épistémologie)
+17. [Approfondissement éthique](#16-approfondissement-éthique)
+18. [Annexes et lectures complémentaires](#17-annexes-et-lectures-complémentaires)
+19. [Infopsychisme et Intelligence Artificielle : Défis et Opportunités](#18-infopsychisme-et-intelligence-artificielle-défis-et-opportunités)
+20. [Infopsychisme et les limites du calcul et de la simulation](#19-infopsychisme-et-les-limites-du-calcul-et-de-la-simulation)
+21. [Infopsychisme et la philosophie du langage](#20-infopsychisme-et-la-philosophie-du-langage)
+22. [Réflexions élargies sur le sens](#21-réflexions-élargies-sur-le-sens)
+23. [Glossaire](#glossaire)
+24. [Contributeurs](#contributeurs)
+25. [Journal des modifications](#journal-des-modifications)
+26. [Références et sources](#références-et-sources)
+
+---
+
 # Préface
 
 À une époque marquée par des mutations technologiques rapides, des défis mondiaux et une quête renouvelée de sens, les questions de conscience, de réalité et de valeur n'ont jamais été aussi pressantes. Ce livre est né du désir de combler le fossé entre philosophie et science, d'offrir un modèle à la fois rigoureux et accessible, et d'inviter des lecteurs de tous horizons à participer au dialogue continu sur l'existence et l'esprit.
@@ -241,37 +272,6 @@ L'évolution de la conscience ne s'arrête pas à l'individu ou à l'espèce. À
 
 **Vers une éthique de la co-évolution :**
 L'intégration de la technologie, de la société et de la conscience ouvre la voie à une éthique de la co-évolution, où chaque choix individuel et collectif contribue à l'évolution de la réalité elle-même. Cette vision encourage la coopération, l'innovation responsable et la recherche d'un sens partagé.
-
----
-
----
-
-title: Infopsychisme – Un livre intégratif sur la conscience, la réalité et le sens
-description: Livre intégratif sur la conscience, la réalité et le sens. Relie philosophie, science, réalisme informationnel et panpsychisme en un modèle compréhensible de l'existence et de la conscience.
-keywords: conscience, réalité, sens, réalisme informationnel, panpsychisme, philosophie, métaphysique, existence, conscience de soi, éthique
-date: 2025-05-31
-language: fr
-
----
-
-# Infopsychisme – Un livre intégratif sur la conscience, la réalité et le sens
-
-[Retour à l'aperçu](README_FR.md)
-
-## Table des matières
-
-1. [Introduction](#introduction)
-2. [La question de l'existence](#1-la-question-de-lexistence)
-3. [La structure de la réalité](#2-la-structure-de-la-réalité)
-4. [Le rôle de la conscience](#3-le-rôle-de-la-conscience)
-5. [Pourquoi sommes-nous des êtres conscients ici ?](#4-pourquoi-sommes-nous-des-êtres-conscients-ici)
-6. [Notre véritable tâche](#5-notre-véritable-tâche)
-7. [L'avenir de la conscience : technologie, société et évolution](#7-lavenir-de-la-conscience-technologie-société-et-évolution)
-8. [Perspectives et implications éthiques](#6-perspectives-et-implications-éthiques)
-9. [Glossaire](#glossaire)
-10. [Contributeurs](#contributeurs)
-11. [Journal des modifications](#journal-des-modifications)
-12. [Références et sources](#références-et-sources)
 
 ---
 

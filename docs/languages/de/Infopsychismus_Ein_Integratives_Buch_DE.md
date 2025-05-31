@@ -10,6 +10,37 @@ language: de
 
 ---
 
+# Inhaltsverzeichnis
+
+1. [Einleitung](#einleitung)
+2. [Die Frage nach der Existenz](#1-die-frage-nach-der-existenz)
+3. [Die Struktur der Realität](#2-die-struktur-der-realität)
+4. [Die Rolle des Bewusstseins](#3-die-rolle-des-bewusstseins)
+5. [Warum sind wir bewusste Wesen hier?](#4-warum-sind-wir-bewusste-wesen-hier)
+6. [Unsere tatsächliche Aufgabe](#5-unsere-tatsächliche-aufgabe)
+7. [Die Zukunft des Bewusstseins: Technologie, Gesellschaft und Evolution](#7-die-zukunft-des-bewusstseins-technologie-gesellschaft-und-evolution)
+8. [Ausblick und ethische Implikationen](#6-ausblick-und-ethische-implikationen)
+9. [Auf dem Weg zu planetarem und kosmischem Bewusstsein](#8-auf-dem-weg-zu-planetarem-und-kosmischem-bewusstsein)
+10. [Die Praxis des Infopsychismus: Das Modell leben](#9-die-praxis-des-infopsychismus-das-modell-leben)
+11. [Infopsychismus und die Zukunft des Sinns](#10-infopsychismus-und-die-zukunft-des-sinns)
+12. [Offene Fragen und zukünftige Forschungsrichtungen](#12-offene-fragen-und-zukünftige-forschungsrichtungen)
+13. [Historischer Kontext und intellektuelle Entwicklungslinien](#13-historischer-kontext-und-intellektuelle-entwicklungslinien)
+14. [Fallbeispiele und Anwendungen](#14-fallbeispiele-und-anwendungen)
+15. [Kritik und Gegenargumente](#15-kritik-und-gegenargumente)
+16. [Methodik und Erkenntnistheorie](#16-methodik-und-erkenntnistheorie)
+17. [Vertiefte ethische Betrachtungen](#17-vertiefte-ethische-betrachtungen)
+18. [Anhang und weiterführende Literatur](#18-anhang-und-weiterführende-literatur)
+19. [Infopsychismus und Künstliche Intelligenz: Herausforderungen und Chancen](#19-infopsychismus-und-künstliche-intelligenz-herausforderungen-und-chancen)
+20. [Infopsychismus und die Grenzen von Berechnung und Simulation](#20-infopsychismus-und-die-grenzen-von-berechnung-und-simulation)
+21. [Infopsychismus und Sprachphilosophie](#21-infopsychismus-und-sprachphilosophie)
+22. [Erweiterte Überlegungen zum Sinn](#22-erweiterte-überlegungen-zum-sinn)
+23. [Glossar](#glossar)
+24. [Mitwirkende](#mitwirkende)
+25. [Change-Log](#change-log)
+26. [Quellen und Literatur](#quellen-und-literatur)
+
+---
+
 # Vorwort
 
 In einer Zeit rasanter technologischer Veränderungen, globaler Herausforderungen und einer erneuerten Sinnsuche sind die Fragen nach Bewusstsein, Realität und Wert dringlicher denn je. Dieses Buch entstand aus dem Wunsch, die Kluft zwischen Philosophie und Wissenschaft zu überbrücken, ein Modell zu bieten, das sowohl anspruchsvoll als auch zugänglich ist, und Leser:innen aller Hintergründe zur fortlaufenden Debatte über Existenz und Geist einzuladen.
@@ -279,53 +310,6 @@ Die Entwicklung des Bewusstseins endet nicht beim Individuum oder der Spezies. M
 
 **Hin zu einer Ethik der Ko-Evolution:**
 Die Integration von Technologie, Gesellschaft und Bewusstsein eröffnet den Weg zu einer Ethik der Ko-Evolution, in der jede individuelle und kollektive Entscheidung zur Entwicklung der Realität selbst beiträgt. Diese Vision fördert Kooperation, verantwortungsvolle Innovation und die Suche nach gemeinsamem Sinn.
-
----
-
----
-
-title: Infopsychismus – Ein Integratives Buch über Bewusstsein, Realität und Sinn
-description: Integratives Buch über Bewusstsein, Realität und Sinn. Verbindet Philosophie, Wissenschaft, Informationsrealismus und Panpsychismus zu einem verständlichen Modell der Existenz und des Bewusstseins.
-keywords: Bewusstsein, Realität, Sinn, Informationsrealismus, Panpsychismus, Philosophie, Metaphysik, Existenz, Selbstbewusstsein, Ethik
-date: 2025-05-30
-language: de
-
----
-
-# Infopsychismus – Ein Integratives Buch über Bewusstsein, Realität und Sinn
-
-[Zurück zur Übersicht](README_DE.md)
-
-## Inhaltsverzeichnis
-
-1. [Einleitung](#einleitung)
-2. [Die Frage nach der Existenz](#1-die-frage-nach-der-existenz)
-3. [Die Struktur der Realität](#2-die-struktur-der-realität)
-4. [Die Rolle des Bewusstseins](#3-die-rolle-des-bewusstseins)
-5. [Warum sind wir bewusste Wesen hier?](#4-warum-sind-wir-bewusste-wesen-hier)
-6. [Unsere tatsächliche Aufgabe](#5-unsere-tatsächliche-aufgabe)
-7. [Die Zukunft des Bewusstseins: Technologie, Gesellschaft und Evolution](#7-die-zukunft-des-bewusstseins-technologie-gesellschaft-und-evolution)
-8. [Ausblick und ethische Implikationen](#6-ausblick-und-ethische-implikationen)
-9. [Auf dem Weg zu planetarem und kosmischem Bewusstsein](#8-auf-dem-weg-zu-planetarem-und-kosmischem-bewusstsein)
-10. [Die Praxis des Infopsychismus: Das Modell leben](#9-die-praxis-des-infopsychismus-das-modell-leben)
-11. [Infopsychismus und die Zukunft des Sinns](#10-infopsychismus-und-die-zukunft-des-sinns)
-12. [Offene Fragen und zukünftige Forschungsrichtungen](#12-offene-fragen-und-zukünftige-forschungsrichtungen)
-13. [Historischer Kontext und intellektuelle Entwicklungslinien](#13-historischer-kontext-und-intellektuelle-entwicklungslinien)
-14. [Fallbeispiele und Anwendungen](#14-fallbeispiele-und-anwendungen)
-15. [Kritik und Gegenargumente](#15-kritik-und-gegenargumente)
-16. [Methodik und Erkenntnistheorie](#16-methodik-und-erkenntnistheorie)
-17. [Vertiefte ethische Betrachtungen](#17-vertiefte-ethische-betrachtungen)
-18. [Anhang und weiterführende Literatur](#18-anhang-und-weiterführende-literatur)
-19. [Infopsychismus und Künstliche Intelligenz: Herausforderungen und Chancen](#19-infopsychismus-und-künstliche-intelligenz-herausforderungen-und-chancen)
-20. [Infopsychismus und die Grenzen von Berechnung und Simulation](#20-infopsychismus-und-die-grenzen-von-berechnung-und-simulation)
-21. [Infopsychismus und Sprachphilosophie](#21-infopsychismus-und-sprachphilosophie)
-22. [Erweiterte Überlegungen zum Sinn](#22-erweiterte-überlegungen-zum-sinn)
-23. [Glossar](#glossar)
-24. [Mitwirkende](#mitwirkende)
-25. [Change-Log](#change-log)
-26. [Quellen und Literatur](#quellen-und-literatur)
-
----
 
 ---
 
