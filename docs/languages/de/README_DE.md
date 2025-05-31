@@ -1,7 +1,38 @@
-# Infopsychismus – Ein integratives Buch über Bewusstsein, Realität und Sinn
+# README (Deutsch)
 
-**Meta-Beschreibung:**
-Infopsychismus ist ein integratives Buchprojekt, das klassische Philosophie, moderne Wissenschaft, Informationsrealismus und Panpsychismus zu einer verständlichen Theorie über Bewusstsein, Realität und Sinn verbindet. Ziel ist es, die Natur der Existenz und die Aufgabe bewusster Wesen im Universum zu erklären. Das Projekt richtet sich an alle, die sich für Bewusstseinsforschung, Metaphysik, Informationsphilosophie und die Frage nach dem Sinn des Lebens interessieren.
+Dieses Projekt enthält das Buch "Infopsychismus – Ein Integratives Buch über Bewusstsein, Realität und Sinn" sowie begleitende Materialien.
+
+## Inhaltsverzeichnis
+
+- [Infopsychismus – Ein Integratives Buch über Bewusstsein, Realität und Sinn](Infopsychismus_Ein_Integratives_Buch_DE.md)
+- [Glossar](Infopsychismus_Ein_Integratives_Buch_DE.md#glossar)
+- [Mitwirkende](Infopsychismus_Ein_Integratives_Buch_DE.md#mitwirkende)
+- [Änderungsprotokoll](Infopsychismus_Ein_Integratives_Buch_DE.md#änderungsprotokoll)
+- [Quellen und Literatur](Infopsychismus_Ein_Integratives_Buch_DE.md#quellen-und-literatur)
+
+---
+
+## Projektbeschreibung
+
+Dieses Projekt vereint klassische Philosophie, moderne Wissenschaft, Informationsrealismus und Panpsychismus zu einer kohärenten Theorie über die Natur der Existenz und des Bewusstseins. Ziel ist es, die Rolle bewusster Wesen und die Bedeutung von Information in der Realität verständlich zu machen.
+
+---
+
+## Mitwirkende
+
+Siehe [Mitwirkende](Infopsychismus_Ein_Integratives_Buch_DE.md#mitwirkende).
+
+---
+
+## Änderungsprotokoll
+
+Siehe [Änderungsprotokoll](Infopsychismus_Ein_Integratives_Buch_DE.md#änderungsprotokoll).
+
+---
+
+## Quellen und Literatur
+
+Siehe [Quellen und Literatur](Infopsychismus_Ein_Integratives_Buch_DE.md#quellen-und-literatur).
 
 ---
 

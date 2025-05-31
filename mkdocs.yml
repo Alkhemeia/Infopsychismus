@@ -8,6 +8,10 @@ nav:
       - Deutsch (Buch): languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
       - Deutsch (Projektinfo): languages/de/README_DE.md
       - Deutsch (Text): languages/de/Infopsychismus_DE.txt
+      - Français (Livre): languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md
+      - Français (Projet): languages/fr/README_FR.md
+      - Español (Libro): languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md
+      - Español (Proyecto): languages/es/README_ES.md
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
   name: material
