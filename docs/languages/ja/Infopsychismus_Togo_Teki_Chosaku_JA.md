@@ -10,24 +10,37 @@ language: ja
 
 このファイルは現在、各章へのインデックスです。章の内容にアクセスするには、`Infopsychismus_Togo_Teki_Chosaku_JA` フォルダーに移動してください。
 
+[目次](Infopsychismus_Togo_Teki_Chosaku_JA/00_目次.md)
+
 **意味：** 世界への意識的な関与を通じて目的と価値を創造すること。インフォサイキズム・モデルでは、意味は情報・意識・文脈の動的な相互作用から生まれる。意味は単に与えられるものではなく、解釈・経験・相互作用を通じて個人・集団の双方によって共創される。AIやデジタル文化の発展は、意味が人工的エージェントや集合的プロセスによっても生成・変容・挑戦されうることを示している。情報過多や断片化による「情報的虚無主義」のリスクが高まる中、意識的な関与と創造的な参加がますます重要となる。
 
-## 目次
+## 章構成
 
-1. [はじめに](#1-はじめに)
-2. [存在の問い](#2-存在の問い)
-3. [現実の構造](#3-現実の構造)
-4. [意識の役割](#4-意識の役割)
-5. [なぜ私たちはここに意識的存在としているのか](#5-なぜ私たちはここに意識的存在としているのか)
-6. [私たちの本来の課題](#6-私たちの本来の課題)
-7. [展望と倫理的含意](#7-展望と倫理的含意)
-8. [意識の未来：技術・社会・進化](#8-意識の未来技術社会進化)
-9. [未解決の問いと今後の研究方向](#9-未解決の問いと今後の研究方向)
-10. [歴史的背景と思想的系譜](#10-歴史的背景と思想的系譜)
-11. [ケーススタディと実践的応用](#11-ケーススタディと実践的応用)
-12. [批判と反論](#12-批判と反論)
-13. [方法論と認識論](#13-方法論と認識論)
-14. [倫理のさらなる探究](#14-倫理のさらなる探究)
+各章は別々のファイルにあります：
+
+1. [はじめに](Infopsychismus_Togo_Teki_Chosaku_JA/01_はじめに.md)
+2. [存在の問い](Infopsychismus_Togo_Teki_Chosaku_JA/02_存在の問い.md)
+3. [現実の構造](Infopsychismus_Togo_Teki_Chosaku_JA/03_現実の構造.md)
+4. [意識の役割](Infopsychismus_Togo_Teki_Chosaku_JA/04_意識の役割.md)
+5. [なぜ私たちはここに意識的存在としているのか](Infopsychismus_Togo_Teki_Chosaku_JA/05_なぜ私たちはここに意識的存在としているのか.md)
+6. [私たちの本来の課題](Infopsychismus_Togo_Teki_Chosaku_JA/06_私たちの本来の課題.md)
+7. [展望と倫理的含意](Infopsychismus_Togo_Teki_Chosaku_JA/07_展望と倫理的含意.md)
+8. [意識の未来](Infopsychismus_Togo_Teki_Chosaku_JA/08_意識の未来.md)
+9. [未解決の問い](Infopsychismus_Togo_Teki_Chosaku_JA/09_未解決の問い.md)
+10. [歴史的背景](Infopsychismus_Togo_Teki_Chosaku_JA/10_歴史的背景.md)
+11. [ケーススタディ](Infopsychismus_Togo_Teki_Chosaku_JA/11_ケーススタディ.md)
+12. [批判と反論](Infopsychismus_Togo_Teki_Chosaku_JA/12_批判と反論.md)
+13. [方法論と認識論](Infopsychismus_Togo_Teki_Chosaku_JA/13_方法論と認識論.md)
+14. [倫理のさらなる探究](Infopsychismus_Togo_Teki_Chosaku_JA/14_倫理のさらなる探究.md)
+15. [付録とさらなる読書案内](Infopsychismus_Togo_Teki_Chosaku_JA/15_付録とさらなる読書案内.md)
+16. [情報心理主義と人工知能](Infopsychismus_Togo_Teki_Chosaku_JA/16_情報心理主義と人工知能.md)
+17. [情報心理主義と計算の限界](Infopsychismus_Togo_Teki_Chosaku_JA/17_情報心理主義と計算の限界.md)
+18. [情報心理主義と言語哲学](Infopsychismus_Togo_Teki_Chosaku_JA/18_情報心理主義と言語哲学.md)
+19. [意味の拡張的考察](Infopsychismus_Togo_Teki_Chosaku_JA/19_意味の拡張的考察.md)
+20. [用語集](Infopsychismus_Togo_Teki_Chosaku_JA/20_用語集.md)
+21. [貢献者](Infopsychismus_Togo_Teki_Chosaku_JA/21_貢献者.md)
+22. [変更履歴](Infopsychismus_Togo_Teki_Chosaku_JA/22_変更履歴.md)
+23. [参考文献](Infopsychismus_Togo_Teki_Chosaku_JA/23_参考文献.md)
 15. [付録とさらなる読書案内](#15-付録とさらなる読書案内)
 16. [インフォサイキズムとAI：課題と機会](#16-インフォサイキズムとai課題と機会)
 17. [インフォサイキズムと計算・シミュレーションの限界](#17-インフォサイキズムと計算シミュレーションの限界)
