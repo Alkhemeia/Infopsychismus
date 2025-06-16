@@ -1,0 +1,3 @@
+# 7. Öngörüler ve Etik Sonuçlar
+
+...
