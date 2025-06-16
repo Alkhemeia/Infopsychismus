@@ -1,0 +1,789 @@
+DEBUG   -  Loading configuration file: /home/alkhemeia/Schreibtisch/Infopsychismus/mkdocs.yml
+DEBUG   -  Loaded theme configuration for 'material' from '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/material/templates/mkdocs_theme.yml': {'language': 'en', 'direction': None, 'features': [], 'font': {'text': 'Roboto', 'code': 'Roboto Mono'}, 'icon': None, 'favicon': 'assets/images/favicon.png', 'static_templates': ['404.html']}
+DEBUG   -  Config value 'config_file_path' = '/home/alkhemeia/Schreibtisch/Infopsychismus/mkdocs.yml'
+DEBUG   -  Config value 'site_name' = 'Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning'
+DEBUG   -  Config value 'nav' = [{'Home': 'README.md'}, {'Book Overview': 'Infopsychismus_Book.md'}, {'Book Chapters': [{'Table of Contents': 'Infopsychismus_Book/00_Table_of_Contents.md'}, {'Introduction': 'Infopsychismus_Book/01_Introduction.md'}, {'The Question of Existence': 'Infopsychismus_Book/02_The_Question_of_Existence.md'}, {'The Structure of Reality': 'Infopsychismus_Book/03_The_Structure_of_Reality.md'}, {'The Role of Consciousness': 'Infopsychismus_Book/04_The_Role_of_Consciousness.md'}, {'Why Are We Conscious Beings Here?': 'Infopsychismus_Book/05_Why_Are_We_Conscious_Beings_Here.md'}, {'Our Actual Task': 'Infopsychismus_Book/06_Our_Actual_Task.md'}, {'Outlook and Ethical Implications': 'Infopsychismus_Book/07_Outlook_and_Ethical_Implications.md'}, {'The Future of Consciousness': 'Infopsychismus_Book/08_The_Future_of_Consciousness.md'}, {'Open Questions and Future Research Directions': 'Infopsychismus_Book/09_Open_Questions_and_Future_Research_Directions.md'}, {'Historical Context and Intellectual Lineage': 'Infopsychismus_Book/10_Historical_Context_and_Intellectual_Lineage.md'}, {'Case Studies and Real-World Applications': 'Infopsychismus_Book/11_Case_Studies_and_Real-World_Applications.md'}, {'Criticisms and Counterarguments': 'Infopsychismus_Book/12_Criticisms_and_Counterarguments.md'}, {'Methodology and Epistemology': 'Infopsychismus_Book/13_Methodology_and_Epistemology.md'}, {'Deeper Exploration of Ethics': 'Infopsychismus_Book/14_Deeper_Exploration_of_Ethics.md'}, {'Annexes and Further Reading': 'Infopsychismus_Book/15_Annexes_and_Further_Reading.md'}, {'Infopsychismus and Artificial Intelligence': 'Infopsychismus_Book/16_Infopsychismus_and_Artificial_Intelligence.md'}, {'Infopsychismus and the Limits of Computation and Simulation': 'Infopsychismus_Book/17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation.md'}, {'Infopsychismus and Philosophy of Language': 'Infopsychismus_Book/18_Infopsychismus_and_Philosophy_of_Language.md'}, {'Extended Reflections on Meaning': 'Infopsychismus_Book/19_Extended_Reflections_on_Meaning.md'}, {'Glossary': 'Infopsychismus_Book/20_Glossary.md'}, {'Contributors': 'Infopsychismus_Book/21_Contributors.md'}, {'Change Log': 'Infopsychismus_Book/22_Change_Log.md'}, {'References and Sources': 'Infopsychismus_Book/23_References_and_Sources.md'}]}, {'Infopsychismus Origins': 'Infopsychismus.txt'}, {'Other Languages': [{'العربية (كتاب)': 'languages/ar/Infopsychismus_Kitab_Takamuli_AR/00_الفهرس.md'}, {'Deutsch (Buch)': 'languages/de/Infopsychismus_Ein_Integratives_Buch_DE/00_Inhaltsverzeichnis.md'}, {'Español (Libro)': 'languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/00_Tabla_de_contenidos.md'}, {'Français (Livre)': 'languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/00_Table_des_matières.md'}, {'हिन्दी (पुस्तक)': 'languages/hi/Infopsychismus_Samagra_Pustak_HI/00_सामग्री_सूची.md'}, {'Italiano (Libro)': 'languages/it/Infopsichismo_Un_Libro_Integrativo_IT/00_Indice.md'}, {'日本語 (書籍)': 'languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/00_目次.md'}, {'한국어 (책)': 'languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/00_목차.md'}, {'Português (Livro)': 'languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/00_Índice.md'}, {'Русский (Книга)': 'languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/00_Оглавление.md'}, {'Türkçe (Kitap)': 'languages/tr/Infopsisizm_Butunleyici_Kitap_TR/00_İçindekiler.md'}, {'中文 (书籍)': 'languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/00_目录.md'}]}]
+DEBUG   -  Config value 'pages' = None
+DEBUG   -  Config value 'exclude_docs' = None
+DEBUG   -  Config value 'draft_docs' = None
+DEBUG   -  Config value 'not_in_nav' = None
+DEBUG   -  Config value 'site_url' = 'https://alkhemeia.github.io/Infopsychismus/'
+DEBUG   -  Config value 'site_description' = 'An exploration of consciousness, reality, and meaning through an integrative philosophical approach'
+DEBUG   -  Config value 'site_author' = 'alkhemeia'
+DEBUG   -  Config value 'theme' = Theme(name='material', dirs=['/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/material/templates', '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/mkdocs/templates'], static_templates={'404.html', 'sitemap.xml'}, name='material', locale=Locale('en'), language='en', direction=None, features=['navigation.instant', 'navigation.tracking', 'navigation.indexes', 'navigation.top', 'navigation.footer', 'toc.follow', 'search.highlight', 'search.share', 'content.code.copy', 'content.action.edit'], font={'text': 'Roboto', 'code': 'Roboto Mono'}, icon=None, favicon='assets/images/favicon.png', palette=[{'scheme': 'default', 'primary': 'indigo', 'accent': 'indigo', 'toggle': {'icon': 'material/brightness-7', 'name': 'Switch to dark mode'}}, {'scheme': 'slate', 'primary': 'indigo', 'accent': 'indigo', 'toggle': {'icon': 'material/brightness-4', 'name': 'Switch to light mode'}}])
+DEBUG   -  Config value 'docs_dir' = '/home/alkhemeia/Schreibtisch/Infopsychismus/docs'
+DEBUG   -  Config value 'site_dir' = '/home/alkhemeia/Schreibtisch/Infopsychismus/site'
+DEBUG   -  Config value 'copyright' = None
+DEBUG   -  Config value 'google_analytics' = None
+DEBUG   -  Config value 'dev_addr' = _IpAddressValue(host='127.0.0.1', port=8000)
+DEBUG   -  Config value 'use_directory_urls' = True
+DEBUG   -  Config value 'repo_url' = 'https://github.com/alkhemeia/Infopsychismus'
+DEBUG   -  Config value 'repo_name' = 'alkhemeia/Infopsychismus'
+DEBUG   -  Config value 'edit_uri_template' = None
+DEBUG   -  Config value 'edit_uri' = 'edit/main/docs/'
+DEBUG   -  Config value 'extra_css' = []
+DEBUG   -  Config value 'extra_javascript' = []
+DEBUG   -  Config value 'extra_templates' = []
+DEBUG   -  Config value 'markdown_extensions' = ['toc', 'tables', 'fenced_code', 'admonition', 'footnotes', 'attr_list', 'pymdownx.highlight', 'pymdownx.superfences', 'pymdownx.details', 'pymdownx.critic', 'pymdownx.caret', 'pymdownx.keys', 'pymdownx.mark', 'pymdownx.tilde']
+DEBUG   -  Config value 'mdx_configs' = {}
+DEBUG   -  Config value 'strict' = False
+DEBUG   -  Config value 'remote_branch' = 'gh-pages'
+DEBUG   -  Config value 'remote_name' = 'origin'
+DEBUG   -  Config value 'extra' = {}
+DEBUG   -  Config value 'plugins' = {'material/search': <material.plugins.search.plugin.SearchPlugin object at 0x76e9e0bdd1c0>, 'minify': <mkdocs_minify_plugin.plugin.MinifyPlugin object at 0x76e9e09a7200>, 'git-revision-date-localized': <mkdocs_git_revision_date_localized_plugin.plugin.GitRevisionDateLocalizedPlugin object at 0x76e9e09ca720>, 'material/tags': <material.plugins.tags.plugin.TagsPlugin object at 0x76e9e0a46e40>}
+DEBUG   -  Config value 'hooks' = {}
+DEBUG   -  Config value 'watch' = []
+DEBUG   -  Config value 'validation' = {'nav': {'omitted_files': 20, 'not_found': 30, 'absolute_links': 20}, 'links': {'not_found': 30, 'absolute_links': 20, 'unrecognized_links': 20, 'anchors': 20}}
+DEBUG   -  Running `startup` event from plugin 'material/search'
+DEBUG   -  Running `startup` event from plugin 'material/tags'
+DEBUG   -  Running `config` event from plugin 'material/search'
+DEBUG   -  Looking for translations for locale 'en'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/mkdocs/templates/locales'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/material/templates/locales'
+DEBUG   -  Looking for translations for locale 'en'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/mkdocs/templates/locales'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/material/templates/locales'
+DEBUG   -  Looking for translations for locale 'en'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/mkdocs/templates/locales'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/material/templates/locales'
+DEBUG   -  Running `config` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `config` event from plugin 'material/tags'
+DEBUG   -  Running `pre_build` event from plugin 'minify'
+INFO    -  Cleaning site directory
+INFO    -  Building documentation to directory: /home/alkhemeia/Schreibtisch/Infopsychismus/site
+DEBUG   -  Looking for translations for locale 'en'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/mkdocs/templates/locales'
+DEBUG   -  No translations found here: '/home/alkhemeia/Schreibtisch/Infopsychismus/.venv/lib/python3.12/site-packages/material/templates/locales'
+DEBUG   -  Running `files` event from plugin 'git-revision-date-localized'
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR.md
+  - languages/ar/README_AR.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/01_المقدمة.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/02_سؤال_الوجود.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/03_بنية_الواقع.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/04_دور_الوعي.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/05_لماذا_نحن_كائنات_واعية_هنا.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/06_مهمتنا_الفعلية.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/07_آفاق_وتأثيرات_أخلاقية.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/08_مستقبل_الوعي_التكنولوجيا_والمجتمع_والتطور.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/09_أسئلة_مفتوحة_واتجاهات_البحث_المستقبلي.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/10_السياق_التاريخي_والتطور_الفكري.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/11_دراسات_حالة_وتطبيقات.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/12_الانتقادات_والحجج_المضادة.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/13_المنهجية_والإبستمولوجيا.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/14_تأملات_أخلاقية_معمقة.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/15_ملاحق_وقراءات_إضافية.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/16_النفسية_المعلوماتية_والذكاء_الاصطناعي_التحديات_والفرص.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/17_النفسية_المعلوماتية_وحدود_الحساب_والمحاكاة.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/18_النفسية_المعلوماتية_وفلسفة_اللغة.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/19_تأملات_موسعة_حول_المعنى.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/20_المصطلحات.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/21_المساهمون.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/22_سجل_التغييرات.md
+  - languages/ar/Infopsychismus_Kitab_Takamuli_AR/23_المراجع_والمصادر.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
+  - languages/de/README_DE.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/01_Einleitung.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/02_Die_Frage_nach_der_Existenz.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/03_Die_Struktur_der_Realitaet.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/04_Die_Rolle_des_Bewusstseins.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/05_Warum_sind_wir_bewusste_Wesen_hier.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/06_Unsere_tatsaechliche_Aufgabe.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/07_Ausblick_und_ethische_Implikationen.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/08_Die_Zukunft_des_Bewusstseins.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/10_Historischer_Kontext_und_intellektuelle_Entwicklungslinien.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/11_Fallbeispiele_und_Anwendungen.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/12_Kritik_und_Gegenargumente.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/13_Methodik_und_Erkenntnistheorie.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/14_Vertiefte_ethische_Betrachtungen.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/15_Anhang_und_weiterfuehrende_Literatur.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/16_Infopsychismus_und_KI_Herausforderungen_und_Chancen.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/17_Infopsychismus_und_die_Grenzen_von_Berechnung_und_Simulation.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/18_Infopsychismus_und_Sprachphilosophie.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/19_Erweiterte_Ueberlegungen_zum_Sinn.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/20_Glossar.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/21_Mitwirkende.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/22_Change-Log.md
+  - languages/de/Infopsychismus_Ein_Integratives_Buch_DE/23_Quellen_und_Literatur.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md
+  - languages/es/README_ES.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/01_Introducción.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/02_La_cuestion_de_la_existencia.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/03_La_estructura_de_la_realidad.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/04_El_papel_de_la_conciencia.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/05_Por_qué_estamos_aquí_como_seres_conscientes.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/06_Nuestra_verdadera_tarea.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/07_Perspectivas_e_implicaciones_éticas.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/08_El_futuro_de_la_conciencia_tecnología_sociedad_y_evolución.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/09_Preguntas_abiertas_y_futuras_líneas_de_investigación.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/10_Contexto_histórico_y_linaje_intelectual.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/11_Estudios_de_caso_y_aplicaciones_prácticas.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/12_Críticas_y_contraargumentos.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/13_Metodología_y_epistemología.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/14_Profundización_ética.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/15_Apéndices_y_lecturas_recomendadas.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/16_Infopsiquismo_e_Inteligencia_Artificial_Desafíos_y_Oportunidades.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/17_Infopsiquismo_y_los_límites_de_la_computación_y_la_simulación.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/18_Infopsiquismo_y_la_filosofía_del_lenguaje.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/19_Reflexiones_ampliadas_sobre_el_sentido.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/20_Glosario.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/21_Colaboradores.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/22_Registro_de_cambios.md
+  - languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/23_Referencias_y_fuentes.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md
+  - languages/fr/README_FR.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/01_Introduction.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/02_La_question_de_lexistence.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/03_La_structure_de_la_réalité.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/04_Le_rôle_de_la_conscience.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/05_Pourquoi_sommes-nous_des_êtres_conscients_ici.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/06_Notre_véritable_tâche.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/07_Perspectives_et_implications_éthiques.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/08_Lavenir_de_la_conscience.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/09_Questions_ouvertes_et_pistes_de_recherche_futures.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/10_Contexte_historique_et_lignées_intellectuelles.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/11_Études_de_cas_et_applications_concrètes.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/12_Critiques_et_arguments_contraires.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/13_Méthodologie_et_épistémologie.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/14_Approfondissement_éthique.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/15_Annexes_et_lectures_complémentaires.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/16_Infopsychisme_et_Intelligence_Artificielle.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/17_Infopsychisme_et_les_Limites_du_Calcul.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/18_Infopsychisme_et_la_Philosophie_du_Langage.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/19_Réflexions_Élargies_sur_le_Sens.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/20_Glossaire.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/21_Contributeurs.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/22_Journal_des_Modifications.md
+  - languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/23_Références_et_Sources.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI.md
+  - languages/hi/README_HI.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/01_परिचय.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/02_अस्तित्व_का_प्रश्न.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/03_वास्तविकता_की_संरचना.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/04_चेतना_की_भूमिका.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/05_हम_यहाँ_सचेत_प्राणी_क्यों_हैं.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/06_हमारा_वास्तविक_कार्य.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/07_परिप्रेक्ष्य_और_नैतिक_प्रभाव.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/08_चेतना_का_भविष्य_तकनीक_समाज_और_विकास.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/09_खुले_प्रश्न_और_भविष्य_के_अनुसंधान_की_दिशा.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/10_ऐतिहासिक_संदर्भ_और_बौद्धिक_परंपरा.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/11_मामले_का_अध्ययन_और_व्यावहारिक_अनुप्रयोग.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/12_आलोचनाएं_और_प्रत्युत्तर.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/13_पद्धति_और_ज्ञानमीमांसा.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/14_नैतिकता_की_गहन_पड़ताल.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/15_परिशिष्ट_और_आगे_की_पढ़ाई.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/16_इन्फोप्साइचिज़्म_और_कृत्रिम_बुद्धिमत्ता_चुनौतियां_और_अवसर.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/17_इन्फोप्साइचिज़्म_और_गणना_व_अनुकरण_की_सीमाएं.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/18_इन्फोप्साइचिज़्म_और_भाषा_दर्शन.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/19_अर्थ_पर_विस्तृत_विचार.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/20_शब्दावली.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/21_योगदानकर्ता.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/22_परिवर्तन_लॉग.md
+  - languages/hi/Infopsychismus_Samagra_Pustak_HI/23_संदर्भ_और_स्रोत.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT.md
+  - languages/it/README_IT.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/01_Introduzione.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/02_La_Questione_dell_Esistenza.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/03_La_Struttura_della_Realtà.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/04_Il_Ruolo_della_Coscienza.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/05_Perché_Siamo_Esseri_Coscienti_Qui.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/06_Il_Nostro_Compito_Reale.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/07_Prospettive_e_Implicazioni_Etiche.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/08_Il_Futuro_della_Coscienza.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/09_Domande_Aperte_e_Direzioni_di_Ricerca_Futura.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/10_Contesto_Storico_e_Linee_Intellettuali.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/11_Studi_di_Caso_e_Applicazioni_Pratiche.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/12_Critiche_e_Controargomentazioni.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/13_Metodologia_ed_Epistemologia.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/14_Esplorazione_Approfondita_dell_Etica.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/15_Appendici_e_Letture_Supplementari.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/16_Infopsichismo_e_Intelligenza_Artificiale.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/17_Infopsichismo_e_i_Limiti_della_Computazione_e_Simulazione.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/18_Infopsichismo_e_Filosofia_del_Linguaggio.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/19_Riflessioni_Estese_sul_Significato.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/20_Glossario.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/21_Collaboratori.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/22_Registro_delle_Modifiche.md
+  - languages/it/Infopsichismo_Un_Libro_Integrativo_IT/23_Riferimenti_e_Fonti.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA.md
+  - languages/ja/README_JA.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/01_はじめに.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/02_存在の問い.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/03_現実の構造.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/04_意識の役割.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/05_なぜ私たちはここに意識的存在としているのか.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/06_私たちの本来の課題.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/07_展望と倫理的含意.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/08_意識の未来.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/09_未解決の問い.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/10_歴史的背景.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/11_ケーススタディ.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/12_批判と反論.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/13_方法論と認識論.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/14_倫理のさらなる探究.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/15_付録とさらなる読書案内.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/16_情報心理主義と人工知能.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/17_情報心理主義と計算の限界.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/18_情報心理主義と言語哲学.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/19_意味の拡張的考察.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/20_用語集.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/21_貢献者.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/22_変更履歴.md
+  - languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/23_参考文献.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO.md
+  - languages/ko/README_KO.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/01_소개.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/02_존재의_문제.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/03_현실의_구조.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/04_의식의_역할.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/05_우리는_왜_여기_의식적_존재로_있는가.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/06_우리의_실제_과제.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/07_전망과_윤리적_함의.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/08_의식의_미래.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/09_미해결_문제.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/10_역사적_배경.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/11_사례_연구.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/12_비판과_반론.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/13_방법론과_인식론.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/14_윤리의_심층_탐구.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/15_부록과_추가_읽을거리.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/16_정보심리주의와_인공지능.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/17_정보심리주의와_계산의_한계.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/18_정보심리주의와_언어철학.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/19_의미에_대한_확장적_고찰.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/20_용어집.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/21_기여자.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/22_변경_기록.md
+  - languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/23_참고문헌.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT.md
+  - languages/pt/README_PT.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/00_Indice.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/01_Introdução.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/02_A_Questão_da_Existência.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/03_A_Estrutura_da_Realidade.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/04_O_Papel_da_Consciência.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/05_Por_Que_Somos_Seres_Conscientes_Aqui.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/06_Nossa_Tarefa_Real.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/07_Perspectivas_e_Implicações_Éticas.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/08_O_Futuro_da_Consciência.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/09_Questões_em_Aberto.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/10_Contexto_Histórico.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/11_Estudos_de_Caso.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/12_Críticas_e_Contra_argumentos.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/13_Metodologia_e_Epistemologia.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/14_Exploração_Mais_Profunda_da_Ética.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/15_Anexos_e_Leituras_Complementares.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/16_Infopsiquismo_e_Inteligência_Artificial.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/17_Infopsiquismo_e_os_Limites_da_Computação.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/18_Infopsiquismo_e_Filosofia_da_Linguagem.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/19_Reflexões_Estendidas_sobre_o_Sentido.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/20_Glossário.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/21_Colaboradores.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/22_Registro_de_Alterações.md
+  - languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/23_Referências_e_Fontes.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU.md
+  - languages/ru/README_RU.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/00_Содержание.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/01_Введение.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/02_Вопрос_о_существовании.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/03_Структура_реальности.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/04_Роль_сознания.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/05_Почему_мы_сознательные_существа.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/06_Наша_реальная_задача.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/07_Перспективы_и_этические_последствия.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/08_Будущее_сознания.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/09_Открытые_вопросы.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/10_Исторический_контекст.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/11_Кейсы_и_практические_применения.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/12_Критика_и_контраргументы.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/13_Методология_и_эпистемология.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/14_Углубленные_этические_размышления.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/15_Приложения_и_дополнительная_литература.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/16_Инфопсихизм_и_искусственный_интеллект.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/17_Инфопсихизм_и_пределы_вычислений.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/18_Инфопсихизм_и_философия_языка.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/19_Расширенные_размышления_о_смысле.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/20_Глоссарий.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/21_Авторы.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/22_Журнал_изменений.md
+  - languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/23_Ссылки_и_литература.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR.md
+  - languages/tr/README_TR.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/01_Giriş.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/02_Varlık_Sorusu.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/03_Gerçekliğin_Yapısı.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/04_Bilincin_Rolü.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/05_Neden_Burada_Bilinçli_Varlıklarız.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/06_Gerçek_Görevimiz.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/07_Öngörüler_ve_Etik_Sonuçlar.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/08_Bilincin_Geleceği.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/09_Açık_Sorular.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/10_Tarihsel_Bağlam.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/11_Vaka_Analizleri.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/12_Eleştiriler_ve_Karşı_Argümanlar.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/13_Metodoloji_ve_Epistemoloji.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/14_Etik_Derinlemesine_İnceleme.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/15_Ekler_ve_Ek_Okumalar.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/16_İnfopsisizm_ve_Yapay_Zekâ.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/17_İnfopsisizm_ve_Hesaplama.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/18_İnfopsisizm_ve_Dil_Felsefesi.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/19_Anlam_Üzerine_Genişletilmiş_Düşünceler.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/20_Terimler_Sözlüğü.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/21_Katkıda_Bulunanlar.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/22_Değişiklik_Kaydı.md
+  - languages/tr/Infopsisizm_Butunleyici_Kitap_TR/23_Kaynakça_ve_Referanslar.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH.md
+  - languages/zh/README_ZH.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/01_前言.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/02_存在之问.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/03_现实的结构.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/04_意识的角色.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/05_我们为何是有意识的存在.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/06_我们的实际任务.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/07_展望与伦理影响.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/08_意识的未来.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/09_开放性问题.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/10_历史背景.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/11_案例分析.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/12_批评与反驳.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/13_方法论与认识论.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/14_伦理的深入探讨.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/15_附录与延伸阅读.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/16_信息心理主义与人工智能.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/17_信息心理主义与计算的极限.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/18_信息心理主义与语言哲学.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/19_意义的扩展思考.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/20_术语表.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/21_贡献者.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/22_变更日志.md
+  - languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/23_参考文献.md
+DEBUG   -  Reading markdown pages.
+DEBUG   -  Reading: README.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/00_Table_of_Contents.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/01_Introduction.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/02_The_Question_of_Existence.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/03_The_Structure_of_Reality.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/04_The_Role_of_Consciousness.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/05_Why_Are_We_Conscious_Beings_Here.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/06_Our_Actual_Task.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/07_Outlook_and_Ethical_Implications.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/08_The_Future_of_Consciousness.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/09_Open_Questions_and_Future_Research_Directions.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/10_Historical_Context_and_Intellectual_Lineage.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/11_Case_Studies_and_Real-World_Applications.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/12_Criticisms_and_Counterarguments.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/13_Methodology_and_Epistemology.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/14_Deeper_Exploration_of_Ethics.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/15_Annexes_and_Further_Reading.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/16_Infopsychismus_and_Artificial_Intelligence.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/18_Infopsychismus_and_Philosophy_of_Language.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/19_Extended_Reflections_on_Meaning.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/20_Glossary.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/21_Contributors.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/22_Change_Log.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: Infopsychismus_Book/23_References_and_Sources.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/README_AR.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/00_الفهرس.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/01_المقدمة.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/02_سؤال_الوجود.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/03_بنية_الواقع.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/04_دور_الوعي.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/05_لماذا_نحن_كائنات_واعية_هنا.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/06_مهمتنا_الفعلية.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/07_آفاق_وتأثيرات_أخلاقية.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/08_مستقبل_الوعي_التكنولوجيا_والمجتمع_والتطور.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/09_أسئلة_مفتوحة_واتجاهات_البحث_المستقبلي.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/10_السياق_التاريخي_والتطور_الفكري.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/11_دراسات_حالة_وتطبيقات.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/12_الانتقادات_والحجج_المضادة.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/13_المنهجية_والإبستمولوجيا.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/14_تأملات_أخلاقية_معمقة.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/15_ملاحق_وقراءات_إضافية.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/16_النفسية_المعلوماتية_والذكاء_الاصطناعي_التحديات_والفرص.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/17_النفسية_المعلوماتية_وحدود_الحساب_والمحاكاة.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/18_النفسية_المعلوماتية_وفلسفة_اللغة.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/19_تأملات_موسعة_حول_المعنى.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/20_المصطلحات.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/21_المساهمون.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/22_سجل_التغييرات.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/ar/Infopsychismus_Kitab_Takamuli_AR/23_المراجع_والمصادر.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/README_DE.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/00_Inhaltsverzeichnis.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/01_Einleitung.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/02_Die_Frage_nach_der_Existenz.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/03_Die_Struktur_der_Realitaet.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/04_Die_Rolle_des_Bewusstseins.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/05_Warum_sind_wir_bewusste_Wesen_hier.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/06_Unsere_tatsaechliche_Aufgabe.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/07_Ausblick_und_ethische_Implikationen.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/08_Die_Zukunft_des_Bewusstseins.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/10_Historischer_Kontext_und_intellektuelle_Entwicklungslinien.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/11_Fallbeispiele_und_Anwendungen.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/12_Kritik_und_Gegenargumente.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/13_Methodik_und_Erkenntnistheorie.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/14_Vertiefte_ethische_Betrachtungen.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/15_Anhang_und_weiterfuehrende_Literatur.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/16_Infopsychismus_und_KI_Herausforderungen_und_Chancen.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/17_Infopsychismus_und_die_Grenzen_von_Berechnung_und_Simulation.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/18_Infopsychismus_und_Sprachphilosophie.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/19_Erweiterte_Ueberlegungen_zum_Sinn.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/20_Glossar.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/21_Mitwirkende.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/22_Change-Log.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/de/Infopsychismus_Ein_Integratives_Buch_DE/23_Quellen_und_Literatur.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/README_ES.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/00_Tabla_de_contenidos.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/01_Introducción.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/02_La_cuestion_de_la_existencia.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/03_La_estructura_de_la_realidad.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/04_El_papel_de_la_conciencia.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/05_Por_qué_estamos_aquí_como_seres_conscientes.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/06_Nuestra_verdadera_tarea.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/07_Perspectivas_e_implicaciones_éticas.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/08_El_futuro_de_la_conciencia_tecnología_sociedad_y_evolución.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/09_Preguntas_abiertas_y_futuras_líneas_de_investigación.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/10_Contexto_histórico_y_linaje_intelectual.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/11_Estudios_de_caso_y_aplicaciones_prácticas.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/12_Críticas_y_contraargumentos.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/13_Metodología_y_epistemología.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/14_Profundización_ética.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/15_Apéndices_y_lecturas_recomendadas.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/16_Infopsiquismo_e_Inteligencia_Artificial_Desafíos_y_Oportunidades.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/17_Infopsiquismo_y_los_límites_de_la_computación_y_la_simulación.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/18_Infopsiquismo_y_la_filosofía_del_lenguaje.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/19_Reflexiones_ampliadas_sobre_el_sentido.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/20_Glosario.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/21_Colaboradores.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/22_Registro_de_cambios.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/23_Referencias_y_fuentes.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/README_FR.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/00_Table_des_matières.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/01_Introduction.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/02_La_question_de_lexistence.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/03_La_structure_de_la_réalité.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/04_Le_rôle_de_la_conscience.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/05_Pourquoi_sommes-nous_des_êtres_conscients_ici.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/06_Notre_véritable_tâche.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/07_Perspectives_et_implications_éthiques.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/08_Lavenir_de_la_conscience.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/09_Questions_ouvertes_et_pistes_de_recherche_futures.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/10_Contexte_historique_et_lignées_intellectuelles.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/11_Études_de_cas_et_applications_concrètes.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/12_Critiques_et_arguments_contraires.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/13_Méthodologie_et_épistémologie.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/14_Approfondissement_éthique.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/15_Annexes_et_lectures_complémentaires.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/16_Infopsychisme_et_Intelligence_Artificielle.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/17_Infopsychisme_et_les_Limites_du_Calcul.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/18_Infopsychisme_et_la_Philosophie_du_Langage.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/19_Réflexions_Élargies_sur_le_Sens.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/20_Glossaire.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/21_Contributeurs.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/22_Journal_des_Modifications.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/23_Références_et_Sources.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/README_HI.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/00_सामग्री_सूची.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/01_परिचय.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/02_अस्तित्व_का_प्रश्न.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/03_वास्तविकता_की_संरचना.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/04_चेतना_की_भूमिका.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/05_हम_यहाँ_सचेत_प्राणी_क्यों_हैं.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/06_हमारा_वास्तविक_कार्य.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/07_परिप्रेक्ष्य_और_नैतिक_प्रभाव.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/08_चेतना_का_भविष्य_तकनीक_समाज_और_विकास.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/09_खुले_प्रश्न_और_भविष्य_के_अनुसंधान_की_दिशा.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'
+DEBUG   -  Running `page_markdown` event from plugin 'material/tags'
+DEBUG   -  Reading: languages/hi/Infopsychismus_Samagra_Pustak_HI/10_ऐतिहासिक_संदर्भ_और_बौद्धिक_परंपरा.md
+DEBUG   -  Running `page_markdown` event from plugin 'git-revision-date-localized'

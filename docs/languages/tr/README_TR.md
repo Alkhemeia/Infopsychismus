@@ -5,10 +5,10 @@ Bu proje, «İnfopsişizm – Bilinç, gerçeklik ve anlam üzerine bütünleyic
 ## İçindekiler
 
 - [İnfopsişizm – Bilinç, gerçeklik ve anlam üzerine bütünleyici bir kitap](Infopsisizm_Butunleyici_Kitap_TR.md)
-- [Terimler Sözlüğü](Infopsisizm_Butunleyici_Kitap_TR.md#terimler-sözlüğü)
-- [Katkıda Bulunanlar](Infopsisizm_Butunleyici_Kitap_TR.md#katkıda-bulunanlar)
-- [Değişiklik Kaydı](Infopsisizm_Butunleyici_Kitap_TR.md#değişiklik-kaydı)
-- [Kaynakça ve Referanslar](Infopsisizm_Butunleyici_Kitap_TR.md#kaynakça-ve-referanslar)
+- [Terimler Sözlüğü](Infopsisizm_Butunleyici_Kitap_TR/20_Terimler_Sözlüğü.md)
+- [Katkıda Bulunanlar](Infopsisizm_Butunleyici_Kitap_TR/21_Katkıda_Bulunanlar.md)
+- [Değişiklik Kaydı](Infopsisizm_Butunleyici_Kitap_TR/22_Değişiklik_Kaydı.md)
+- [Kaynakça ve Referanslar](Infopsisizm_Butunleyici_Kitap_TR/23_Kaynakça_ve_Referanslar.md)
 
 ---
 
@@ -20,16 +20,16 @@ Bu proje, klasik felsefe, modern bilim, bilgi realizmi ve panpsişizmi bir araya
 
 ## Katkıda Bulunanlar
 
-[Katkıda Bulunanlar](Infopsisizm_Butunleyici_Kitap_TR.md#katkıda-bulunanlar) bölümüne bakınız.
+[Katkıda Bulunanlar](Infopsisizm_Butunleyici_Kitap_TR/21_Katkıda_Bulunanlar.md) bölümüne bakınız.
 
 ---
 
 ## Değişiklik Kaydı
 
-[Değişiklik Kaydı](Infopsisizm_Butunleyici_Kitap_TR.md#değişiklik-kaydı) bölümüne bakınız.
+[Değişiklik Kaydı](Infopsisizm_Butunleyici_Kitap_TR/22_Değişiklik_Kaydı.md) bölümüne bakınız.
 
 ---
 
 ## Kaynakça ve Referanslar
 
-[Kaynakça ve Referanslar](Infopsisizm_Butunleyici_Kitap_TR.md#kaynakça-ve-referanslar) bölümüne bakınız.
+[Kaynakça ve Referanslar](Infopsisizm_Butunleyici_Kitap_TR/23_Kaynakça_ve_Referanslar.md) bölümüne bakınız.

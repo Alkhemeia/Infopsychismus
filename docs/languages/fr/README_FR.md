@@ -5,10 +5,10 @@ Ce projet contient le livre « Infopsychisme – Un livre intégratif sur la con
 ## Table des matières
 
 - [Infopsychisme – Un livre intégratif sur la conscience, la réalité et le sens](Infopsychisme_Un_Livre_Intégratif_FR.md)
-- [Glossaire](Infopsychisme_Un_Livre_Intégratif_FR.md#glossaire)
-- [Contributeurs](Infopsychisme_Un_Livre_Intégratif_FR.md#contributeurs)
-- [Journal des modifications](Infopsychisme_Un_Livre_Intégratif_FR.md#journal-des-modifications)
-- [Références et sources](Infopsychisme_Un_Livre_Intégratif_FR.md#références-et-sources)
+- [Glossaire](Infopsychisme_Un_Livre_Intégratif_FR/20_Glossaire.md)
+- [Contributeurs](Infopsychisme_Un_Livre_Intégratif_FR/21_Contributeurs.md)
+- [Journal des modifications](Infopsychisme_Un_Livre_Intégratif_FR/22_Journal_des_Modifications.md)
+- [Références et sources](Infopsychisme_Un_Livre_Intégratif_FR/23_Références_et_Sources.md)
 
 ---
 
@@ -20,16 +20,16 @@ Ce projet réunit philosophie classique, science moderne, réalisme informationn
 
 ## Contributeurs
 
-Voir [Contributeurs](Infopsychisme_Un_Livre_Intégratif_FR.md#contributeurs).
+Voir [Contributeurs](Infopsychisme_Un_Livre_Intégratif_FR/21_Contributeurs.md).
 
 ---
 
 ## Journal des modifications
 
-Voir [Journal des modifications](Infopsychisme_Un_Livre_Intégratif_FR.md#journal-des-modifications).
+Voir [Journal des modifications](Infopsychisme_Un_Livre_Intégratif_FR/22_Journal_des_Modifications.md).
 
 ---
 
 ## Références et sources
 
-Voir [Références et sources](Infopsychisme_Un_Livre_Intégratif_FR.md#références-et-sources).
+Voir [Références et sources](Infopsychisme_Un_Livre_Intégratif_FR/23_Références_et_Sources.md).

@@ -5,10 +5,10 @@
 ## Содержание
 
 - [Инфопсихизм — Интегративная книга о сознании, реальности и смысле](Infopsikhizm_Integrativnaya_Kniga_RU.md)
-- [Глоссарий](Infopsikhizm_Integrativnaya_Kniga_RU.md#глоссарий)
-- [Авторы](Infopsikhizm_Integrativnaya_Kniga_RU.md#авторы)
-- [Журнал изменений](Infopsikhizm_Integrativnaya_Kniga_RU.md#журнал-изменений)
-- [Ссылки и литература](Infopsikhizm_Integrativnaya_Kniga_RU.md#ссылки-и-литература)
+- [Глоссарий](Infopsikhizm_Integrativnaya_Kniga_RU/20_Глоссарий.md)
+- [Авторы](Infopsikhizm_Integrativnaya_Kniga_RU/21_Авторы.md)
+- [Журнал изменений](Infopsikhizm_Integrativnaya_Kniga_RU/22_Журнал_изменений.md)
+- [Ссылки и литература](Infopsikhizm_Integrativnaya_Kniga_RU/23_Ссылки_и_литература.md)
 
 ---
 
@@ -20,16 +20,16 @@
 
 ## Авторы
 
-См. [Авторы](Infopsikhizm_Integrativnaya_Kniga_RU.md#авторы).
+См. [Авторы](Infopsikhizm_Integrativnaya_Kniga_RU/21_Авторы.md).
 
 ---
 
 ## Журнал изменений
 
-См. [Журнал изменений](Infopsikhizm_Integrativnaya_Kniga_RU.md#журнал-изменений).
+См. [Журнал изменений](Infopsikhizm_Integrativnaya_Kniga_RU/22_Журнал_изменений.md).
 
 ---
 
 ## Ссылки и литература
 
-См. [Ссылки и литература](Infopsikhizm_Integrativnaya_Kniga_RU.md#ссылки-и-литература).
+См. [Ссылки и литература](Infopsikhizm_Integrativnaya_Kniga_RU/23_Ссылки_и_литература.md).

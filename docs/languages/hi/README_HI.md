@@ -5,10 +5,10 @@
 ## सामग्री सूची
 
 - [इन्फोसाइकीज़्म – चेतना, वास्तविकता और अर्थ पर एक समग्र पुस्तक](Infopsychismus_Samagra_Pustak_HI.md)
-- [शब्दावली](Infopsychismus_Samagra_Pustak_HI.md#शब्दावली)
-- [योगदानकर्ता](Infopsychismus_Samagra_Pustak_HI.md#योगदानकर्ता)
-- [परिवर्तन लॉग](Infopsychismus_Samagra_Pustak_HI.md#परिवर्तन-लॉग)
-- [संदर्भ और स्रोत](Infopsychismus_Samagra_Pustak_HI.md#संदर्भ-और-स्रोत)
+- [शब्दावली](Infopsychismus_Samagra_Pustak_HI/20_शब्दावली.md)
+- [योगदानकर्ता](Infopsychismus_Samagra_Pustak_HI/21_योगदानकर्ता.md)
+- [परिवर्तन लॉग](Infopsychismus_Samagra_Pustak_HI/22_परिवर्तन_लॉग.md)
+- [संदर्भ और स्रोत](Infopsychismus_Samagra_Pustak_HI/23_संदर्भ_और_स्रोत.md)
 
 ---
 
@@ -20,16 +20,16 @@
 
 ## योगदानकर्ता
 
-[योगदानकर्ता](Infopsychismus_Samagra_Pustak_HI.md#योगदानकर्ता) देखें।
+[योगदानकर्ता](Infopsychismus_Samagra_Pustak_HI/21_योगदानकर्ता.md) देखें।
 
 ---
 
 ## परिवर्तन लॉग
 
-[परिवर्तन लॉग](Infopsychismus_Samagra_Pustak_HI.md#परिवर्तन-लॉग) देखें।
+[परिवर्तन लॉग](Infopsychismus_Samagra_Pustak_HI/22_परिवर्तन_लॉग.md) देखें।
 
 ---
 
 ## संदर्भ और स्रोत
 
-[संदर्भ और स्रोत](Infopsychismus_Samagra_Pustak_HI.md#संदर्भ-और-स्रोत) देखें।
+[संदर्भ और स्रोत](Infopsychismus_Samagra_Pustak_HI/23_संदर्भ_और_स्रोत.md) देखें।

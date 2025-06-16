@@ -5,10 +5,10 @@ Este projeto contém o livro «Infopsiquismo – Um livro integrativo sobre cons
 ## Índice
 
 - [Infopsiquismo – Um livro integrativo sobre consciência, realidade e sentido](Infopsiquismo_Um_Livro_Integrativo_PT.md)
-- [Glossário](Infopsiquismo_Um_Livro_Integrativo_PT.md#glossário)
-- [Colaboradores](Infopsiquismo_Um_Livro_Integrativo_PT.md#colaboradores)
-- [Registro de alterações](Infopsiquismo_Um_Livro_Integrativo_PT.md#registro-de-alterações)
-- [Referências e fontes](Infopsiquismo_Um_Livro_Integrativo_PT.md#referências-e-fontes)
+- [Glossário](Infopsiquismo_Um_Livro_Integrativo_PT/20_Glossário.md)
+- [Colaboradores](Infopsiquismo_Um_Livro_Integrativo_PT/21_Colaboradores.md)
+- [Registro de alterações](Infopsiquismo_Um_Livro_Integrativo_PT/22_Registro_de_Alterações.md)
+- [Referências e fontes](Infopsiquismo_Um_Livro_Integrativo_PT/23_Referências_e_Fontes.md)
 
 ---
 
@@ -20,16 +20,16 @@ Este projeto reúne filosofia clássica, ciência moderna, realismo informaciona
 
 ## Colaboradores
 
-Veja [Colaboradores](Infopsiquismo_Um_Livro_Integrativo_PT.md#colaboradores).
+Veja [Colaboradores](Infopsiquismo_Um_Livro_Integrativo_PT/21_Colaboradores.md).
 
 ---
 
 ## Registro de alterações
 
-Veja [Registro de alterações](Infopsiquismo_Um_Livro_Integrativo_PT.md#registro-de-alterações).
+Veja [Registro de alterações](Infopsiquismo_Um_Livro_Integrativo_PT/22_Registro_de_Alterações.md).
 
 ---
 
 ## Referências e fontes
 
-Veja [Referências e fontes](Infopsiquismo_Um_Livro_Integrativo_PT.md#referências-e-fontes).
+Veja [Referências e fontes](Infopsiquismo_Um_Livro_Integrativo_PT/23_Referências_e_Fontes.md).
