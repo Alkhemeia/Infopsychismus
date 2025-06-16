@@ -13,3 +13,8 @@ Meaning is not given from outside, but created through conscious engagement with
 
 **Active Development:**
 Conscious beings are agents of creative development. We shape the future by making choices, building knowledge, and fostering compassion and responsibility. Our actions influence the ongoing evolution of the universe.
+
+---
+<div class="navigation-links">
+<a href="05_Why_Are_We_Conscious_Beings_Here.md" class="nav-link prev-link">← Back</a> | <a href="07_Outlook_and_Ethical_Implications.md" class="nav-link next-link">Next →</a>
+</div>

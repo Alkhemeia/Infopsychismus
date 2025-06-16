@@ -13,3 +13,8 @@ The integrative model emphasizes the interconnectedness of all systems. Global c
 
 **Philosophical and Ethical Development:**
 As our understanding of consciousness and information evolves, so too must our philosophical and ethical frameworks. Ongoing dialogue and inquiry will be essential to navigate the complexities of the future.
+
+---
+<div class="navigation-links">
+<a href="07_Outlook_and_Ethical_Implications.md" class="nav-link prev-link">← Back</a> | <a href="09_Open_Questions_and_Future_Research_Directions.md" class="nav-link next-link">Next →</a>
+</div>

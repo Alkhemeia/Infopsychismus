@@ -8,3 +8,8 @@ Nessun modello è privo di critiche. Le obiezioni comuni all'Infopsichismo inclu
 - **Teorie Alternative:** Modelli concorrenti (ad esempio, materialismo riduttivo, dualismo) offrono spiegazioni diverse. Risposta: L'Infopsichismo cerca dialogo e sintesi, non dogma.
 
 Affrontare le critiche rafforza il modello e invita a un dibattito filosofico e scientifico continuo.
+
+---
+<div class="navigation-links">
+<a href="11_Studi_di_Caso_e_Applicazioni_Pratiche.md" class="nav-link prev-link">← Indietro</a> | <a href="13_Metodologia_ed_Epistemologia.md" class="nav-link next-link">Avanti →</a>
+</div>

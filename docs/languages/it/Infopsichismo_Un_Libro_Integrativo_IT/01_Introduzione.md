@@ -10,3 +10,8 @@ Questo libro combina filosofia classica, scienza moderna, realismo informazional
 - **Panpsichismo Informazionale Integrativo (modello IIP)**: L'informazione è fondamentale e già possiede proprietà proto-coscienti, rendendo la coscienza un principio universale piuttosto che un sottoprodotto emergente.
 
 Questo libro è aperto a contributi e ulteriori sviluppi. È concesso in licenza sotto Creative Commons (CC BY-SA 4.0).
+
+---
+<div class="navigation-links">
+<a href="00_Indice.md" class="nav-link prev-link">← Indietro</a> | <a href="02_La_Questione_dell_Esistenza.md" class="nav-link next-link">Avanti →</a>
+</div>

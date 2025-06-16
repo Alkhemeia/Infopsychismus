@@ -8,3 +8,8 @@
 
 - Die Auseinandersetzung mit diesen Fragen kann zu einem tieferen Verständnis der Grenzen und Möglichkeiten menschlichen Wissens und Schaffens führen.
 - Sie fordert dazu auf, die eigene Rolle und Verantwortung im Umgang mit Technologie und Wissen neu zu überdenken.
+
+---
+<div class="navigation-links">
+<a href="16_Infopsychismus_und_KI_Herausforderungen_und_Chancen.md" class="nav-link prev-link">← Zurück</a> | <a href="18_Infopsychismus_und_Sprachphilosophie.md" class="nav-link next-link">Weiter →</a>
+</div>

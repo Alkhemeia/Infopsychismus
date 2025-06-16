@@ -8,3 +8,8 @@ Nenhum modelo está isento de críticas. Os argumentos mais comuns contra o Info
 - **Teorias alternativas:** Outros modelos (como materialismo redutivo, dualismo) oferecem explicações concorrentes. Resposta: O Infopsiquismo busca diálogo e síntese, não dogma.
 
 A discussão sobre críticas fortalece o modelo e convida ao debate contínuo.
+
+---
+<div class="navigation-links">
+<a href="11_Estudos_de_Caso.md" class="nav-link prev-link">← Voltar</a> | <a href="13_Metodologia_e_Epistemologia.md" class="nav-link next-link">Próximo →</a>
+</div>

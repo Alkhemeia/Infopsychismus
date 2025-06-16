@@ -13,3 +13,8 @@ Even in non-human animals, forms of communication may reflect proto-conscious pr
 
 **Integrative Approach:**
 An integrative approach to the philosophy of language considers the ways in which language, consciousness, and information are interconnected. It explores how language shapes our understanding of reality and how it can be used to express and communicate complex, abstract, and subjective experiences.
+
+---
+<div class="navigation-links">
+<a href="17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation.md" class="nav-link prev-link">← Back</a> | <a href="19_Extended_Reflections_on_Meaning.md" class="nav-link next-link">Next →</a>
+</div>

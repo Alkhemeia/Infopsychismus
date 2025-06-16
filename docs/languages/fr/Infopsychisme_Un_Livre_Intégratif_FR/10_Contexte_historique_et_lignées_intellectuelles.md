@@ -8,3 +8,8 @@ Les idées à l'origine de l'Infopsychisme ont de profondes racines historiques.
 - **Ère de l'information :** « It from Bit » de John Archibald Wheeler, l'information quantique d'Anton Zeilinger et le réalisme informationnel de Luciano Floridi ont recentré la réalité sur l'information. Le panpsychisme, relancé par Galen Strawson et Giulio Tononi, a ramené la conscience au centre de la métaphysique.
 
 L'Infopsychisme synthétise ces traditions, intégrant philosophie, science et technologie dans un nouveau modèle pour le XXIe siècle.
+
+---
+<div class="navigation-links">
+<a href="09_Questions_ouvertes_et_pistes_de_recherche_futures.md" class="nav-link prev-link">← Précédent</a> | <a href="11_Études_de_cas_et_applications_concrètes.md" class="nav-link next-link">Suivant →</a>
+</div>

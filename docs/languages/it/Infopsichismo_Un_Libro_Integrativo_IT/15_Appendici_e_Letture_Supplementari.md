@@ -9,3 +9,8 @@ Per coloro che sono interessati a esplorare ulteriormente le idee dell'Infopsich
 - **Documentari e Conferenze:** I media visivi possono fornire introduzioni accessibili a questi argomenti. Cercare documentari sulla coscienza, l'IA e la filosofia dell'informazione.
 
 Questo appendice mira a guidare i lettori nella loro ulteriore esplorazione delle domande e delle idee profonde legate all'Infopsichismo.
+
+---
+<div class="navigation-links">
+<a href="14_Esplorazione_Approfondita_dell_Etica.md" class="nav-link prev-link">← Indietro</a> | <a href="16_Infopsichismo_e_Intelligenza_Artificiale.md" class="nav-link next-link">Avanti →</a>
+</div>

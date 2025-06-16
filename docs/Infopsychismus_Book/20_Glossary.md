@@ -12,3 +12,8 @@
 - **Meaning:** The creation of purpose and value through conscious engagement with the world. In the Infopsychismus model, meaning emerges from the dynamic interplay between information, consciousness, and context. It is not merely assigned, but co-created through interpretation, experience, and interaction—by both individuals and collectives.
 - **Emergence:** The phenomenon by which complex properties arise from simpler components, often unpredictably.
 - **Integrated Information Theory (IIT):** A scientific theory that quantifies consciousness as a measure of integrated information in a system.
+
+---
+<div class="navigation-links">
+<a href="19_Extended_Reflections_on_Meaning.md" class="nav-link prev-link">← Back</a> | <a href="21_Contributors.md" class="nav-link next-link">Next →</a>
+</div>

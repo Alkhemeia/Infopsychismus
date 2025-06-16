@@ -16,3 +16,8 @@ The rise of artificial intelligence presents both challenges and opportunities f
 
 **Integrative Approach:**
 The challenges and opportunities presented by AI require an integrative approach that considers ethical, philosophical, and practical dimensions. By applying the principles of Infopsychismus, we can navigate the complexities of AI development and ensure that it contributes positively to the evolution of consciousness and society.
+
+---
+<div class="navigation-links">
+<a href="15_Annexes_and_Further_Reading.md" class="nav-link prev-link">← Back</a> | <a href="17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation.md" class="nav-link next-link">Next →</a>
+</div>

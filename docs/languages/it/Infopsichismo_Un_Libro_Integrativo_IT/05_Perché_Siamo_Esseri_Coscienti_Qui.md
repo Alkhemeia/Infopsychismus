@@ -10,3 +10,8 @@ Gli esseri coscienti non sono sottoprodotti accidentali, ma espressioni essenzia
 
 **Significato e Scopo:**
 La ricerca del significato non è separata dalla struttura della realtà—è una parte intrinseca del processo informativo e cosciente. Ponendo domande, cercando comprensione e creando valore, gli esseri coscienti partecipano allo sviluppo continuo dell'universo.
+
+---
+<div class="navigation-links">
+<a href="04_Il_Ruolo_della_Coscienza.md" class="nav-link prev-link">← Indietro</a> | <a href="06_Il_Nostro_Compito_Reale.md" class="nav-link next-link">Avanti →</a>
+</div>

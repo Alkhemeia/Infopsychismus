@@ -19,3 +19,8 @@ Panpsychism holds that all things, even the most elementary, possess proto-consc
 
 **Hybrid and Integrative Views:**
 Some models combine informational realism and panpsychism, proposing that the fundamental informational structure of the world is also proto-conscious. This "neutral informational monism" sees matter, information, and mind as aspects of a single reality. While no unified theory exists, this integrative approach aims to account for both empirical and phenomenological facts.
+
+---
+<div class="navigation-links">
+<a href="02_The_Question_of_Existence.md" class="nav-link prev-link">← Back</a> | <a href="04_The_Role_of_Consciousness.md" class="nav-link next-link">Next →</a>
+</div>

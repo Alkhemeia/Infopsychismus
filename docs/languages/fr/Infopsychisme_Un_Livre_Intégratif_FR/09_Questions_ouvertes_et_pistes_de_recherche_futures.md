@@ -16,3 +16,8 @@ Le modèle intégratif de l'Infopsychisme ouvre de nombreuses questions pour l'e
 
 **Invitation à la recherche :**
 Ce livre n'est pas un mot final, mais un point de départ pour un dialogue et une découverte continus. Les lecteurs sont encouragés à questionner, critiquer et contribuer à l'évolution de la conversation sur la nature de l'existence, de la conscience et du sens.
+
+---
+<div class="navigation-links">
+<a href="08_Lavenir_de_la_conscience.md" class="nav-link prev-link">← Précédent</a> | <a href="10_Contexte_historique_et_lignées_intellectuelles.md" class="nav-link next-link">Suivant →</a>
+</div>

@@ -16,3 +16,8 @@ The principles of Infopsychismus also have implications for understanding the li
 
 **Integrative Perspective:**
 From an Infopsychismus perspective, the limits of computation and simulation highlight the importance of understanding the fundamental principles of consciousness and information. While computation and simulation are powerful tools, they have inherent limitations that must be recognized and respected. By integrating empirical, phenomenological, and logical methods, we can deepen our understanding of the complex, dynamic, and informational nature of reality.
+
+---
+<div class="navigation-links">
+<a href="16_Infopsychismus_and_Artificial_Intelligence.md" class="nav-link prev-link">← Back</a> | <a href="18_Infopsychismus_and_Philosophy_of_Language.md" class="nav-link next-link">Next →</a>
+</div>

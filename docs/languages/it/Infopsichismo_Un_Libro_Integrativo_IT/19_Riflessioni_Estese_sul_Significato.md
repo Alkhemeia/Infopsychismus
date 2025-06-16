@@ -16,3 +16,8 @@ Gli esseri coscienti giocano un ruolo cruciale nello sviluppo e nell'arricchimen
 
 **Prospettiva Integrativa:**
 La prospettiva integrativa dell'Infopsichismo enfatizza l'importanza di comprendere la natura complessa, dinamica e contestuale del significato. Invoca un approccio attivo, impegnato e responsabile alla creazione del significato, riconoscendo l'interconnessione di tutti gli esseri coscienti e il tessuto informativo condiviso della realtà.
+
+---
+<div class="navigation-links">
+<a href="18_Infopsichismo_e_Filosofia_del_Linguaggio.md" class="nav-link prev-link">← Indietro</a> | <a href="20_Glossario.md" class="nav-link next-link">Avanti →</a>
+</div>

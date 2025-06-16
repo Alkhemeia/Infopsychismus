@@ -19,3 +19,8 @@ Il panpsichismo sostiene che tutte le cose, anche le più elementari, possiedono
 
 **Visioni Ibride e Integrative:**
 Alcuni modelli combinano realismo informazionale e panpsichismo, proponendo che la struttura informativa fondamentale del mondo sia anche proto-cosciente. Questo "monismo informazionale neutro" vede materia, informazione e mente come aspetti di una singola realtà. Sebbene non esista una teoria unificata, questo approccio integrativo mira a spiegare sia i fatti empirici che fenomenologici.
+
+---
+<div class="navigation-links">
+<a href="02_La_Questione_dell_Esistenza.md" class="nav-link prev-link">← Indietro</a> | <a href="04_Il_Ruolo_della_Coscienza.md" class="nav-link next-link">Avanti →</a>
+</div>

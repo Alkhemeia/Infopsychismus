@@ -8,3 +8,8 @@
 
 - Die Auseinandersetzung mit diesen Fragen kann zu einer Bereicherung des eigenen Verständnisses von Sinn und zu neuen Wegen der Sinnstiftung führen.
 - Sie eröffnet Perspektiven für eine bewusste und kreative Mitgestaltung der eigenen Realität und der gesellschaftlichen Entwicklung.
+
+---
+<div class="navigation-links">
+<a href="18_Infopsychismus_und_Sprachphilosophie.md" class="nav-link prev-link">← Zurück</a> | <a href="20_Glossar.md" class="nav-link next-link">Weiter →</a>
+</div>

@@ -19,3 +19,8 @@ Alcune interpretazioni della meccanica quantistica assegnano un ruolo alla cosci
 
 **Prospettiva Integrativa:**
 Da una prospettiva completa, la visione più coerente è che il mondo sia strutturato fondamentalmente come un campo di informazione, e la coscienza sia un aspetto intrinseco. Non è plausibile che la pura fisicità da sola dia origine alla soggettività. Invece, l'esistenza reale si basa su oggetti informativi con qualità proto-mentali. Materia ed energia sono manifestazioni di un sistema quantistico più profondo, informativo e proto-cosciente. La coscienza è un principio universale, presente nei processi elementari e che raggiunge un'espressione elevata nei sistemi complessi.
+
+---
+<div class="navigation-links">
+<a href="03_La_Struttura_della_Realtà.md" class="nav-link prev-link">← Indietro</a> | <a href="05_Perché_Siamo_Esseri_Coscienti_Qui.md" class="nav-link next-link">Avanti →</a>
+</div>

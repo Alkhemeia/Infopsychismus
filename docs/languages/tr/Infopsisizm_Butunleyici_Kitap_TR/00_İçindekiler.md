@@ -23,3 +23,7 @@
 21. Katkıda Bulunanlar
 22. Değişiklik Kaydı
 23. Kaynakça ve Referanslar
+
+---
+<div class="navigation-links"><a href="01_Giriş.md" class="nav-link next-link">İleri →</a>
+</div>

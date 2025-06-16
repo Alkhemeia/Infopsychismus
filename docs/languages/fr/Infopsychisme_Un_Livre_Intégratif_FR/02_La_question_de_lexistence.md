@@ -13,3 +13,8 @@ Certains philosophes, comme Sean Carroll, soutiennent que l'univers pourrait sim
 
 **Synthèse :**
 Bien qu'aucune réponse ne soit universellement acceptée, la question de l'existence reste centrale. Que ce soit par nécessité métaphysique, émergence quantique ou fait brut, la recherche d'une explication façonne notre compréhension de la réalité.
+
+---
+<div class="navigation-links">
+<a href="01_Introduction.md" class="nav-link prev-link">← Précédent</a> | <a href="03_La_structure_de_la_réalité.md" class="nav-link next-link">Suivant →</a>
+</div>

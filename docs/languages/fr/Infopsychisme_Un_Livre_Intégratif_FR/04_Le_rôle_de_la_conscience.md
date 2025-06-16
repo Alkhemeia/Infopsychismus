@@ -19,3 +19,8 @@ Certaines interprétations de la mécanique quantique attribuent un rôle à la 
 
 **Perspective intégrative :**
 D'un point de vue global, la vision la plus cohérente est que le monde est fondamentalement structuré comme un champ d'information, et la conscience en est un aspect inhérent. Il n'est pas plausible que la pure physicalité donne seule naissance à la subjectivité. Au contraire, l'existence réelle est fondée sur des objets informationnels dotés de qualités proto-mentales. La matière et l'énergie sont des manifestations d'un système quantique plus profond, informationnel et proto-conscient. La conscience est un principe universel, présent dans les processus élémentaires et atteignant une expression élevée dans les systèmes complexes.
+
+---
+<div class="navigation-links">
+<a href="03_La_structure_de_la_réalité.md" class="nav-link prev-link">← Précédent</a> | <a href="05_Pourquoi_sommes-nous_des_êtres_conscients_ici.md" class="nav-link next-link">Suivant →</a>
+</div>

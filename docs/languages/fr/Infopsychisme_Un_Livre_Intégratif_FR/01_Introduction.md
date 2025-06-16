@@ -10,3 +10,8 @@ Ce livre combine philosophie classique, science moderne, réalisme informationne
 - **Panpsychisme informationnel intégratif (modèle IIP)** : L'information est fondamentale et porte déjà des propriétés proto-conscientes, faisant de la conscience un principe universel plutôt qu'un simple sous-produit émergent.
 
 Ce livre est ouvert aux contributions et à un développement ultérieur. Il est sous licence Creative Commons (CC BY-SA 4.0).
+
+---
+<div class="navigation-links">
+<a href="00_Table_des_matières.md" class="nav-link prev-link">← Précédent</a> | <a href="02_La_question_de_lexistence.md" class="nav-link next-link">Suivant →</a>
+</div>

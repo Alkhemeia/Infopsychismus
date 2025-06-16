@@ -19,3 +19,8 @@ Le panpsychisme soutient que toutes choses, même les plus élémentaires, poss�
 
 **Vues hybrides et intégratives :**
 Certains modèles combinent réalisme informationnel et panpsychisme, proposant que la structure informationnelle fondamentale du monde est aussi proto-consciente. Ce « monisme informationnel neutre » voit la matière, l'information et l'esprit comme des aspects d'une seule réalité. Bien qu'il n'existe pas de théorie unifiée, cette approche intégrative vise à rendre compte à la fois des faits empiriques et phénoménologiques.
+
+---
+<div class="navigation-links">
+<a href="02_La_question_de_lexistence.md" class="nav-link prev-link">← Précédent</a> | <a href="04_Le_rôle_de_la_conscience.md" class="nav-link next-link">Suivant →</a>
+</div>

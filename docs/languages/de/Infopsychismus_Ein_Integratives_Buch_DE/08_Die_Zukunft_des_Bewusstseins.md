@@ -8,3 +8,8 @@ Die Zukunft des Bewusstseins könnte durch folgende Entwicklungen geprägt sein:
 - **Technologische Integration:** Verschmelzung von menschlichem und maschinellem Bewusstsein.
 - **Globale Vernetzung:** Kollektives Bewusstsein durch digitale und soziale Medien.
 - **Ethische Herausforderungen:** Neue Fragen zu Identität, Privatsphäre und moralischer Verantwortung.
+
+---
+<div class="navigation-links">
+<a href="07_Ausblick_und_ethische_Implikationen.md" class="nav-link prev-link">← Zurück</a> | <a href="09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen.md" class="nav-link next-link">Weiter →</a>
+</div>

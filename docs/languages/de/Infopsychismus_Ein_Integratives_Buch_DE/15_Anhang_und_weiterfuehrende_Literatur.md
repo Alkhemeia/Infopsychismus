@@ -24,3 +24,8 @@ Für vertiefende Lektüre werden folgende Ressourcen empfohlen:
   - [Stanford Encyclopedia of Philosophy: Information](https://plato.stanford.edu/entries/information/)
 
 Diese Ressourcen bieten einen Einstieg für vertiefte Beschäftigung mit den Themen des Infopsychismus.
+
+---
+<div class="navigation-links">
+<a href="14_Vertiefte_ethische_Betrachtungen.md" class="nav-link prev-link">← Zurück</a> | <a href="16_Infopsychismus_und_KI_Herausforderungen_und_Chancen.md" class="nav-link next-link">Weiter →</a>
+</div>

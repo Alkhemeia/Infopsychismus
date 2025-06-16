@@ -12,3 +12,8 @@
 - **Significato:** La creazione di scopo e valore attraverso l'impegno cosciente con il mondo. Nel modello dell'Infopsichismo, il significato emerge dall'interazione dinamica tra informazione, coscienza e contesto. Non è semplicemente assegnato, ma co-creato attraverso interpretazione, esperienza e interazione—sia da individui che da collettività.
 - **Emergenza:** Il fenomeno attraverso il quale proprietà complesse emergono da componenti più semplici, spesso in modo imprevedibile.
 - **Teoria dell'Informazione Integrata (IIT):** Una teoria scientifica che quantifica la coscienza come misura dell'informazione integrata in un sistema.
+
+---
+<div class="navigation-links">
+<a href="19_Riflessioni_Estese_sul_Significato.md" class="nav-link prev-link">← Indietro</a> | <a href="21_Collaboratori.md" class="nav-link next-link">Avanti →</a>
+</div>

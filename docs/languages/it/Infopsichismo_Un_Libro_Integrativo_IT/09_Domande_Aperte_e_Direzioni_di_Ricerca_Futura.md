@@ -17,3 +17,8 @@ Il modello integrativo dell'Infopsichismo apre una vasta gamma di domande per fu
 **Invito all'Indagine:**
 
 Questo libro non è la parola finale, ma un punto di partenza per un dialogo e una scoperta continui. I lettori sono incoraggiati a interrogarsi, criticare e contribuire alla conversazione in evoluzione sulla natura dell'esistenza, della coscienza e del significato.
+
+---
+<div class="navigation-links">
+<a href="08_Il_Futuro_della_Coscienza.md" class="nav-link prev-link">← Indietro</a> | <a href="10_Contesto_Storico_e_Linee_Intellettuali.md" class="nav-link next-link">Avanti →</a>
+</div>

@@ -8,3 +8,8 @@
 
 - Die Erforschung dieser Fragen kann zu innovativen Ansätzen in der KI-Entwicklung, der interkulturellen Kommunikation und der Bewusstseinsforschung führen.
 - Sie bietet die Möglichkeit, die eigene sprachliche und kulturelle Prägung zu reflektieren und zu erweitern.
+
+---
+<div class="navigation-links">
+<a href="17_Infopsychismus_und_die_Grenzen_von_Berechnung_und_Simulation.md" class="nav-link prev-link">← Zurück</a> | <a href="19_Erweiterte_Ueberlegungen_zum_Sinn.md" class="nav-link next-link">Weiter →</a>
+</div>

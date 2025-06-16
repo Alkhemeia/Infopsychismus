@@ -23,3 +23,7 @@
 21. [Colaboradores](21_Colaboradores.md)
 22. [Registro de cambios](22_Registro_de_cambios.md)
 23. [Referencias y fuentes](23_Referencias_y_fuentes.md)
+
+---
+<div class="navigation-links"><a href="01_Introducción.md" class="nav-link next-link">Siguiente →</a>
+</div>

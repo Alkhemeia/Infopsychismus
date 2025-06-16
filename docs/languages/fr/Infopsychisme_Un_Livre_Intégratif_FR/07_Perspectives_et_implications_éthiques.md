@@ -13,3 +13,8 @@ Notre tâche n'est pas seulement de comprendre, mais de participer activement au
 
 **Perspectives d'avenir :**
 À mesure que les êtres conscients évoluent, la capacité de l'univers à se réfléchir et à donner du sens évolue aussi. L'avenir est ouvert, façonné par nos choix et nos actions. En embrassant notre rôle, nous contribuons au développement continu de la réalité elle-même.
+
+---
+<div class="navigation-links">
+<a href="06_Notre_véritable_tâche.md" class="nav-link prev-link">← Précédent</a> | <a href="08_Lavenir_de_la_conscience.md" class="nav-link next-link">Suivant →</a>
+</div>

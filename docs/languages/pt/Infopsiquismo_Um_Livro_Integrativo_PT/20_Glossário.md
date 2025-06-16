@@ -12,3 +12,8 @@ Esta lista contém os termos-chave utilizados no infopsiquismo. O objetivo é fo
 - **Monismo neutro:** A ideia de que a substância fundamental do mundo não é puramente física nem puramente mental.
 - **Autoconsciência:** O processo pelo qual o universo se torna consciente de si mesmo.
 - **Questão do sentido:** A busca pelo propósito ou significado da existência. No modelo do infopsiquismo, o sentido emerge da interação entre informação, consciência e contexto. O sentido não é apenas atribuído, mas co-criado por meio de interpretação, experiência e interação, individualmente e coletivamente.
+
+---
+<div class="navigation-links">
+<a href="19_Reflexões_Estendidas_sobre_o_Sentido.md" class="nav-link prev-link">← Voltar</a> | <a href="21_Colaboradores.md" class="nav-link next-link">Próximo →</a>
+</div>

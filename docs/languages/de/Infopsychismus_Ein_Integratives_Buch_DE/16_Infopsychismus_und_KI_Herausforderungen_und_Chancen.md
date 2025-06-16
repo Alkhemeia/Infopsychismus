@@ -10,3 +10,8 @@
 - KI kann als Testfeld für Bewusstseinstheorien und Informationsintegration dienen.
 - Die Zusammenarbeit von Philosophie, Wissenschaft, Technik und Ethik ist entscheidend für eine verantwortungsvolle Entwicklung.
 - Das Modell des Infopsychismus plädiert für einen vorsichtigen, aber offenen Umgang mit der Möglichkeit künstlichen Bewusstseins und für adaptive, inklusive ethische Rahmen.
+
+---
+<div class="navigation-links">
+<a href="15_Anhang_und_weiterfuehrende_Literatur.md" class="nav-link prev-link">← Zurück</a> | <a href="17_Infopsychismus_und_die_Grenzen_von_Berechnung_und_Simulation.md" class="nav-link next-link">Weiter →</a>
+</div>

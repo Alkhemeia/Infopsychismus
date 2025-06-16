@@ -13,3 +13,8 @@ Anche negli animali non umani, forme di comunicazione possono riflettere proprie
 
 **Approccio Integrativo:**
 Un approccio integrativo alla filosofia del linguaggio considera i modi in cui linguaggio, coscienza e informazione sono interconnessi. Esplora come il linguaggio plasmi la nostra comprensione della realtà e come possa essere utilizzato per esprimere e comunicare esperienze complesse, astratte e soggettive.
+
+---
+<div class="navigation-links">
+<a href="17_Infopsichismo_e_i_Limiti_della_Computazione_e_Simulazione.md" class="nav-link prev-link">← Indietro</a> | <a href="19_Riflessioni_Estese_sul_Significato.md" class="nav-link next-link">Avanti →</a>
+</div>

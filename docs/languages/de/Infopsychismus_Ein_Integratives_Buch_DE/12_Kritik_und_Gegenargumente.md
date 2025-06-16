@@ -8,3 +8,8 @@ Kein Modell ist ohne Kritik. Häufige Einwände gegen den Infopsychismus sind:
 - **Alternative Theorien:** Andere Modelle (z. B. reduktiver Materialismus, Dualismus) bieten konkurrierende Erklärungen. Antwort: Infopsychismus sucht Dialog und Synthese, nicht Dogma.
 
 Die Auseinandersetzung mit Kritik stärkt das Modell und lädt zu fortlaufender Debatte ein.
+
+---
+<div class="navigation-links">
+<a href="11_Fallbeispiele_und_Anwendungen.md" class="nav-link prev-link">← Zurück</a> | <a href="13_Methodik_und_Erkenntnistheorie.md" class="nav-link next-link">Weiter →</a>
+</div>

@@ -13,3 +13,8 @@ Il modello integrativo enfatizza l'interconnessione di tutti i sistemi. Sfide gl
 
 **Sviluppo Filosofico ed Etico:**
 Man mano che la nostra comprensione della coscienza e dell'informazione evolve, così devono evolvere i nostri quadri filosofici ed etici. Dialogo e indagine continui saranno essenziali per navigare le complessità del futuro.
+
+---
+<div class="navigation-links">
+<a href="07_Prospettive_e_Implicazioni_Etiche.md" class="nav-link prev-link">← Indietro</a> | <a href="09_Domande_Aperte_e_Direzioni_di_Ricerca_Futura.md" class="nav-link next-link">Avanti →</a>
+</div>

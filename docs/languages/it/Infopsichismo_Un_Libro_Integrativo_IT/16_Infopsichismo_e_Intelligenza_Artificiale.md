@@ -16,3 +16,8 @@ L'ascesa dell'intelligenza artificiale presenta sia sfide che opportunità per i
 
 **Approccio Integrativo:**
 Le sfide e le opportunità presentate dall'IA richiedono un approccio integrativo che consideri dimensioni etiche, filosofiche e pratiche. Applicando i principi dell'Infopsichismo, possiamo navigare le complessità dello sviluppo dell'IA e garantire che contribuisca positivamente all'evoluzione della coscienza e della società.
+
+---
+<div class="navigation-links">
+<a href="15_Appendici_e_Letture_Supplementari.md" class="nav-link prev-link">← Indietro</a> | <a href="17_Infopsichismo_e_i_Limiti_della_Computazione_e_Simulazione.md" class="nav-link next-link">Avanti →</a>
+</div>

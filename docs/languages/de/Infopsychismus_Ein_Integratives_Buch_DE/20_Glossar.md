@@ -10,3 +10,8 @@
 - **Neutraler Monismus:** Die Idee, dass die Grundsubstanz der Welt weder rein physisch noch rein geistig ist.
 - **Selbstbewusstwerdung:** Der Prozess, durch den das Universum sich seiner selbst bewusst wird.
 - **Sinnfrage:** Die Suche nach dem Zweck oder der Bedeutung der Existenz. Im Infopsychismus-Modell entsteht Sinn aus dem Zusammenspiel von Information, Bewusstsein und Kontext. Sinn wird nicht nur zugewiesen, sondern durch Interpretation, Erfahrung und Interaktion – individuell wie kollektiv – ko-kreiert.
+
+---
+<div class="navigation-links">
+<a href="19_Erweiterte_Ueberlegungen_zum_Sinn.md" class="nav-link prev-link">← Zurück</a> | <a href="21_Mitwirkende.md" class="nav-link next-link">Weiter →</a>
+</div>

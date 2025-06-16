@@ -13,3 +13,8 @@ Our task is not only to understand, but to actively participate in the creative 
 
 **Future Perspectives:**
 As conscious beings evolve, so too does the universe’s capacity for self-reflection and meaning. The future is open, shaped by our choices and actions. By embracing our role, we contribute to the ongoing development of reality itself.
+
+---
+<div class="navigation-links">
+<a href="06_Our_Actual_Task.md" class="nav-link prev-link">← Back</a> | <a href="08_The_Future_of_Consciousness.md" class="nav-link next-link">Next →</a>
+</div>

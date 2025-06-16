@@ -13,3 +13,8 @@ Alcuni filosofi, come Sean Carroll, sostengono che l'universo potrebbe semplicem
 
 **Sintesi:**
 Sebbene nessuna risposta sia universalmente accettata, la questione dell'esistenza rimane centrale. Che sia attraverso necessità metafisica, emergenza quantistica o fatto bruto, la ricerca di una spiegazione plasma la nostra comprensione della realtà.
+
+---
+<div class="navigation-links">
+<a href="01_Introduzione.md" class="nav-link prev-link">← Indietro</a> | <a href="03_La_Struttura_della_Realtà.md" class="nav-link next-link">Avanti →</a>
+</div>

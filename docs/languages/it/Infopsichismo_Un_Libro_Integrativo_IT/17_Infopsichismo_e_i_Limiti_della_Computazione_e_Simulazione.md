@@ -16,3 +16,8 @@ I principi dell'Infopsichismo hanno anche implicazioni per comprendere i limiti 
 
 **Prospettiva Integrativa:**
 Dal punto di vista dell'Infopsichismo, i limiti della computazione e della simulazione evidenziano l'importanza di comprendere i principi fondamentali della coscienza e dell'informazione. Sebbene la computazione e la simulazione siano strumenti potenti, hanno limiti intrinseci che devono essere riconosciuti e rispettati. Integrando metodi empirici, fenomenologici e logici, possiamo approfondire la comprensione della natura complessa, dinamica e informativa della realtà.
+
+---
+<div class="navigation-links">
+<a href="16_Infopsichismo_e_Intelligenza_Artificiale.md" class="nav-link prev-link">← Indietro</a> | <a href="18_Infopsichismo_e_Filosofia_del_Linguaggio.md" class="nav-link next-link">Avanti →</a>
+</div>

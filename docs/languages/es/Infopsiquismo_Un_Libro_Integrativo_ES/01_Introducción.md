@@ -10,3 +10,8 @@ Este libro combina la filosofía clásica, la ciencia moderna, el realismo infor
 - **Panpsiquismo informacional integrador (modelo IIP)**: La información es fundamental y ya posee propiedades proto-conscientes, haciendo de la conciencia un principio universal y no solo un subproducto emergente.
 
 Este libro está abierto a contribuciones y desarrollo posterior. Está licenciado bajo Creative Commons (CC BY-SA 4.0).
+
+---
+<div class="navigation-links">
+<a href="00_Tabla_de_contenidos.md" class="nav-link prev-link">← Atrás</a> | <a href="02_La_cuestion_de_la_existencia.md" class="nav-link next-link">Siguiente →</a>
+</div>

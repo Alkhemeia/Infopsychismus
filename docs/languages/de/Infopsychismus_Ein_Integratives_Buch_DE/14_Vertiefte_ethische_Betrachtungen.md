@@ -7,3 +7,8 @@ Die ethischen Implikationen des Infopsychismus sind besonders im Kontext von KI,
 - **Globale Herausforderungen:** Ethik muss planetare Solidarität, Nachhaltigkeit und gemeinsame Sinnstiftung adressieren.
 
 Infopsychismus fordert eine Ethik der Fürsorge, Verantwortung und kreativen Mitgestaltung der Realität.
+
+---
+<div class="navigation-links">
+<a href="13_Methodik_und_Erkenntnistheorie.md" class="nav-link prev-link">← Zurück</a> | <a href="15_Anhang_und_weiterfuehrende_Literatur.md" class="nav-link next-link">Weiter →</a>
+</div>

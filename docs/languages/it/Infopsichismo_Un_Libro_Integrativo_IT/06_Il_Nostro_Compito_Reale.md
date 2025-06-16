@@ -13,3 +13,8 @@ Il significato non è dato dall'esterno, ma creato attraverso l'impegno coscient
 
 **Sviluppo Attivo:**
 Gli esseri coscienti sono agenti di sviluppo creativo. Modelliamo il futuro facendo scelte, costruendo conoscenza e promuovendo compassione e responsabilità. Le nostre azioni influenzano l'evoluzione continua dell'universo.
+
+---
+<div class="navigation-links">
+<a href="05_Perché_Siamo_Esseri_Coscienti_Qui.md" class="nav-link prev-link">← Indietro</a> | <a href="07_Prospettive_e_Implicazioni_Etiche.md" class="nav-link next-link">Avanti →</a>
+</div>

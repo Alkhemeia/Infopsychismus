@@ -9,3 +9,8 @@ For those interested in exploring the ideas of Infopsychismus further, the follo
 - **Documentaries and Talks:** Visual media can provide accessible introductions to these topics. Search for documentaries on consciousness, AI, and the philosophy of information.
 
 This appendix aims to guide readers in their further exploration of the profound questions and ideas related to Infopsychismus.
+
+---
+<div class="navigation-links">
+<a href="14_Deeper_Exploration_of_Ethics.md" class="nav-link prev-link">← Back</a> | <a href="16_Infopsychismus_and_Artificial_Intelligence.md" class="nav-link next-link">Next →</a>
+</div>

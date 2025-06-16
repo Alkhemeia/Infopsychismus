@@ -12,3 +12,8 @@ Cette liste contient les termes clés utilisés dans l'infopsychisme. L'objectif
 - **Monisme neutre:** L'idée que la substance fondamentale du monde n'est ni purement physique ni purement mentale.
 - **Auto-conscience:** Le processus par lequel l'univers devient conscient de lui-même.
 - **Question du sens:** La recherche du but ou de la signification de l'existence. Dans le modèle de l'infopsychisme, le sens émerge de l'interaction entre information, conscience et contexte. Le sens n'est pas seulement attribué, mais co-créé par l'interprétation, l'expérience et l'interaction, individuellement et collectivement.
+
+---
+<div class="navigation-links">
+<a href="19_Réflexions_Élargies_sur_le_Sens.md" class="nav-link prev-link">← Précédent</a> | <a href="21_Contributeurs.md" class="nav-link next-link">Suivant →</a>
+</div>

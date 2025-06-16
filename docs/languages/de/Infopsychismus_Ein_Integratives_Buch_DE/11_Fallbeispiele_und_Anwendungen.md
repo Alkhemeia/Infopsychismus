@@ -8,3 +8,8 @@ Wie lässt sich Infopsychismus praktisch anwenden? Einige Beispiele:
 - **Alltag:** Achtsamkeit, Bildung und ethische Entscheidungen werden durch die Erkenntnis geprägt, dass alle Systeme am Informationsgewebe der Existenz teilhaben.
 
 Diese Beispiele zeigen, wie Infopsychismus Innovation, Verantwortung und Kreativität in vielen Bereichen inspiriert.
+
+---
+<div class="navigation-links">
+<a href="10_Historischer_Kontext_und_intellektuelle_Entwicklungslinien.md" class="nav-link prev-link">← Zurück</a> | <a href="12_Kritik_und_Gegenargumente.md" class="nav-link next-link">Weiter →</a>
+</div>

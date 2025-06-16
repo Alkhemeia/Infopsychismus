@@ -12,3 +12,8 @@ Bu liste, infopsisizmde kullanılan anahtar terimleri içermektedir. Amaç, teri
 - **Nötr Monizm:** Dünyanın temel maddesinin ne tamamen fiziksel ne de tamamen zihinsel olduğu fikri.
 - **Öz Bilinç:** Evrenin kendisinin farkına varma süreci.
 - **Anlam Sorusu:** Varoluşun amacı veya anlamını arama. İnfopsisizm modelinde anlam, bilgi, bilinç ve bağlam arasındaki etkileşimden ortaya çıkar. Anlam sadece atanmaz, aynı zamanda yorumlama, deneyim ve etkileşim yoluyla bireysel ve kolektif olarak ortaklaşa yaratılır.
+
+---
+<div class="navigation-links">
+<a href="19_Anlam_Üzerine_Genişletilmiş_Düşünceler.md" class="nav-link prev-link">← Geri</a> | <a href="21_Katkıda_Bulunanlar.md" class="nav-link next-link">İleri →</a>
+</div>

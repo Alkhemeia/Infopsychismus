@@ -13,3 +13,8 @@ Le modèle intégratif met l'accent sur l'interconnexion de tous les systèmes. 
 
 **Développement philosophique et éthique :**
 À mesure que notre compréhension de la conscience et de l'information évolue, nos cadres philosophiques et éthiques doivent aussi évoluer. Un dialogue et une enquête continus seront essentiels pour naviguer dans la complexité du futur.
+
+---
+<div class="navigation-links">
+<a href="07_Perspectives_et_implications_éthiques.md" class="nav-link prev-link">← Précédent</a> | <a href="09_Questions_ouvertes_et_pistes_de_recherche_futures.md" class="nav-link next-link">Suivant →</a>
+</div>

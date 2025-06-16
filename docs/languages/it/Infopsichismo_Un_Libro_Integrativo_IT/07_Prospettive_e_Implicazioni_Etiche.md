@@ -13,3 +13,8 @@ Il nostro compito non è solo comprendere, ma partecipare attivamente al dispieg
 
 **Prospettive Future:**
 Man mano che gli esseri coscienti evolvono, così aumenta la capacità dell'universo di riflettere su se stesso e di trovare significato. Il futuro è aperto, modellato dalle nostre scelte e azioni. Abbracciando il nostro ruolo, contribuiamo allo sviluppo continuo della realtà stessa.
+
+---
+<div class="navigation-links">
+<a href="06_Il_Nostro_Compito_Reale.md" class="nav-link prev-link">← Indietro</a> | <a href="08_Il_Futuro_della_Coscienza.md" class="nav-link next-link">Avanti →</a>
+</div>

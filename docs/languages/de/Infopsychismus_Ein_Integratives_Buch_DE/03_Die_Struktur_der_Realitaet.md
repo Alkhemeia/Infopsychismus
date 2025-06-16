@@ -10,3 +10,8 @@ Drei Hauptparadigmen prägen die Philosophie:
 - **Neutraler Monismus:** Eine neutrale Substanz liegt allem zugrunde.
 
 Moderne Ansätze wie der Informationsrealismus (Realität als Information) und der Panpsychismus (alles hat eine mentale Komponente) bieten neue Perspektiven. Ein integrativer Informationsmonismus verbindet beide: Die Welt ist ein informationsbasiertes, proto-bewusstes Feld.
+
+---
+<div class="navigation-links">
+<a href="02_Die_Frage_nach_der_Existenz.md" class="nav-link prev-link">← Zurück</a> | <a href="04_Die_Rolle_des_Bewusstseins.md" class="nav-link next-link">Weiter →</a>
+</div>

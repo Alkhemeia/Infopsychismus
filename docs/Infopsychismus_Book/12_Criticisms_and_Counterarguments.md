@@ -8,3 +8,8 @@ No model is without its critics. Common objections to Infopsychismus include:
 - **Alternative Theories:** Competing models (e.g., reductive materialism, dualism) offer different explanations. Response: Infopsychismus seeks dialogue and synthesis, not dogma.
 
 Engaging with criticism strengthens the model and invites ongoing philosophical and scientific debate.
+
+---
+<div class="navigation-links">
+<a href="11_Case_Studies_and_Real-World_Applications.md" class="nav-link prev-link">← Back</a> | <a href="13_Methodology_and_Epistemology.md" class="nav-link next-link">Next →</a>
+</div>

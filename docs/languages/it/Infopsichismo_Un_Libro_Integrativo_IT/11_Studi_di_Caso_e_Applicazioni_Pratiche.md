@@ -8,3 +8,8 @@ Come può l'Infopsichismo essere applicato nella pratica? Ecco alcuni esempi ill
 - **Vita Quotidiana:** La consapevolezza, l'educazione e le decisioni etiche sono informate dal riconoscimento che tutti i sistemi partecipano al tessuto informativo dell'esistenza.
 
 Questi studi di caso mostrano come l'Infopsichismo possa ispirare innovazione, responsabilità e creatività in diversi ambiti.
+
+---
+<div class="navigation-links">
+<a href="10_Contesto_Storico_e_Linee_Intellettuali.md" class="nav-link prev-link">← Indietro</a> | <a href="12_Critiche_e_Controargomentazioni.md" class="nav-link next-link">Avanti →</a>
+</div>

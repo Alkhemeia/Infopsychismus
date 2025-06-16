@@ -8,3 +8,8 @@ Die Ideen des Infopsychismus haben tiefe historische Wurzeln. Von der antiken Ph
 - **Informationszeitalter:** John Archibald Wheelers „It from Bit“, Anton Zeilingers Quanteninformation und Luciano Floridis Informationsrealismus stellen die Information ins Zentrum. Der Panpsychismus, wiederbelebt durch Galen Strawson und Giulio Tononi, rückt das Bewusstsein erneut ins Zentrum der Metaphysik.
 
 Infopsychismus integriert diese Traditionen zu einem neuen Modell für das 21. Jahrhundert.
+
+---
+<div class="navigation-links">
+<a href="09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen.md" class="nav-link prev-link">← Zurück</a> | <a href="11_Fallbeispiele_und_Anwendungen.md" class="nav-link next-link">Weiter →</a>
+</div>

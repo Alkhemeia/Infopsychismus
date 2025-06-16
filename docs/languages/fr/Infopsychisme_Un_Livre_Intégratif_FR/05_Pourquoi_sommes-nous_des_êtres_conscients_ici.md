@@ -10,3 +10,8 @@ Les êtres conscients ne sont pas des sous-produits accidentels, mais des expres
 
 **Sens et but :**
 La recherche de sens n'est pas séparée de la structure de la réalité – elle fait intrinsèquement partie du processus informationnel et conscient. En posant des questions, en cherchant à comprendre et en créant de la valeur, les êtres conscients participent au développement continu de l'univers.
+
+---
+<div class="navigation-links">
+<a href="04_Le_rôle_de_la_conscience.md" class="nav-link prev-link">← Précédent</a> | <a href="06_Notre_véritable_tâche.md" class="nav-link next-link">Suivant →</a>
+</div>

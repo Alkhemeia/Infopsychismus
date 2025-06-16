@@ -8,3 +8,8 @@ Aucune théorie n'est exempte de critiques. Quelles sont les principales critiqu
 - **Théories alternatives :** D'autres modèles (comme le matérialisme réducteur, le dualisme) offrent des explications concurrentes. Réponse : L'Infopsychisme cherche le dialogue et la synthèse, pas le dogme.
 
 Aborder les critiques renforce le modèle et invite à un débat philosophique et scientifique continu.
+
+---
+<div class="navigation-links">
+<a href="11_Études_de_cas_et_applications_concrètes.md" class="nav-link prev-link">← Précédent</a> | <a href="13_Méthodologie_et_épistémologie.md" class="nav-link next-link">Suivant →</a>
+</div>

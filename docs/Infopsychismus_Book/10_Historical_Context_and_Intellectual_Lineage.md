@@ -8,3 +8,8 @@ The ideas behind Infopsychismus have deep historical roots. From ancient philoso
 - **Information Age:** John Archibald Wheeler’s “It from Bit,” Anton Zeilinger’s quantum information, and Luciano Floridi’s informational realism reframed reality as fundamentally informational. Panpsychism, revived by thinkers like Galen Strawson and Giulio Tononi, brought consciousness back to the center of metaphysics.
 
 Infopsychismus synthesizes these traditions, integrating philosophy, science, and technology into a new model for the 21st century.
+
+---
+<div class="navigation-links">
+<a href="09_Open_Questions_and_Future_Research_Directions.md" class="nav-link prev-link">← Back</a> | <a href="11_Case_Studies_and_Real-World_Applications.md" class="nav-link next-link">Next →</a>
+</div>

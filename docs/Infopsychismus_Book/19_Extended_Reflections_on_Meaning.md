@@ -16,3 +16,8 @@ Conscious beings play a crucial role in the ongoing development and enrichment o
 
 **Integrative Perspective:**
 The integrative perspective of Infopsychismus emphasizes the importance of understanding the complex, dynamic, and contextual nature of meaning. It calls for an active, engaged, and responsible approach to meaning-making, recognizing the interconnectedness of all conscious beings and the shared informational fabric of reality.
+
+---
+<div class="navigation-links">
+<a href="18_Infopsychismus_and_Philosophy_of_Language.md" class="nav-link prev-link">← Back</a> | <a href="20_Glossary.md" class="nav-link next-link">Next →</a>
+</div>

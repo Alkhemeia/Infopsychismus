@@ -13,3 +13,8 @@ Le sens n'est pas donné de l'extérieur, mais créé par l'engagement conscient
 
 **Développement actif :**
 Les êtres conscients sont des agents de développement créatif. Nous façonnons l'avenir par nos choix, la construction de connaissances et la promotion de la compassion et de la responsabilité. Nos actions influencent l'évolution continue de l'univers.
+
+---
+<div class="navigation-links">
+<a href="05_Pourquoi_sommes-nous_des_êtres_conscients_ici.md" class="nav-link prev-link">← Précédent</a> | <a href="07_Perspectives_et_implications_éthiques.md" class="nav-link next-link">Suivant →</a>
+</div>

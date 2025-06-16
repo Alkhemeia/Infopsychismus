@@ -8,3 +8,8 @@ How can Infopsychismus be applied in practice? Here are some illustrative exampl
 - **Daily Life:** Mindfulness, education, and ethical decision-making are informed by the recognition that all systems participate in the informational fabric of existence.
 
 These case studies show how Infopsychismus can inspire innovation, responsibility, and creativity across domains.
+
+---
+<div class="navigation-links">
+<a href="10_Historical_Context_and_Intellectual_Lineage.md" class="nav-link prev-link">← Back</a> | <a href="12_Criticisms_and_Counterarguments.md" class="nav-link next-link">Next →</a>
+</div>

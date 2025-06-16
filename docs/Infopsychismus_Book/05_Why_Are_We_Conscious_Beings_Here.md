@@ -10,3 +10,8 @@ Conscious beings are not accidental byproducts, but essential expressions of the
 
 **Meaning and Purpose:**
 The search for meaning is not separate from the structure of reality—it is an intrinsic part of the informational and conscious process. By asking questions, seeking understanding, and creating value, conscious beings participate in the ongoing development of the universe.
+
+---
+<div class="navigation-links">
+<a href="04_The_Role_of_Consciousness.md" class="nav-link prev-link">← Back</a> | <a href="06_Our_Actual_Task.md" class="nav-link next-link">Next →</a>
+</div>

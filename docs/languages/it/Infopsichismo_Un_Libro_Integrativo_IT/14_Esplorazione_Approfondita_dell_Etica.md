@@ -7,3 +7,8 @@ Le implicazioni etiche dell'Infopsichismo sono profonde, soprattutto nel contest
 - **Sfide Globali:** L'etica deve affrontare la solidarietà planetaria, la sostenibilità e la co-creazione di significato in un mondo in rapido cambiamento.
 
 L'Infopsichismo invoca un'etica di cura, responsabilità e partecipazione creativa nell'evoluzione della realtà.
+
+---
+<div class="navigation-links">
+<a href="13_Metodologia_ed_Epistemologia.md" class="nav-link prev-link">← Indietro</a> | <a href="15_Appendici_e_Letture_Supplementari.md" class="nav-link next-link">Avanti →</a>
+</div>

@@ -16,3 +16,8 @@ Das integrative Modell des Infopsychismus eröffnet zahlreiche Fragen für die w
 
 **Einladung zur Forschung:**
 Dieses Buch ist kein Endpunkt, sondern ein Ausgangspunkt für fortlaufenden Dialog und Entdeckung. Leser:innen sind eingeladen, zu hinterfragen, zu kritisieren und zur Weiterentwicklung der Diskussion über die Natur von Existenz, Bewusstsein und Sinn beizutragen.
+
+---
+<div class="navigation-links">
+<a href="08_Die_Zukunft_des_Bewusstseins.md" class="nav-link prev-link">← Zurück</a> | <a href="10_Historischer_Kontext_und_intellektuelle_Entwicklungslinien.md" class="nav-link next-link">Weiter →</a>
+</div>

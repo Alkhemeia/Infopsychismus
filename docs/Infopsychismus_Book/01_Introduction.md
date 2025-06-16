@@ -27,3 +27,8 @@ A: This book is written for anyone interested in consciousness research, metaphy
 
 **Q: How can I contribute to this project?**  
 A: See the [Contributors](21_Contributors.md) section for information on how to participate in the development of Infopsychismus.
+
+---
+<div class="navigation-links">
+<a href="00_Table_of_Contents.md" class="nav-link prev-link">← Back</a> | <a href="02_The_Question_of_Existence.md" class="nav-link next-link">Next →</a>
+</div>

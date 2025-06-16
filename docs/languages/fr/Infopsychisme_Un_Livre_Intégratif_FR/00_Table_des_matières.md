@@ -23,3 +23,7 @@
 21. [Contributeurs](21_Contributeurs.md)
 22. [Journal des Modifications](22_Journal_des_Modifications.md)
 23. [Références et Sources](23_Références_et_Sources.md)
+
+---
+<div class="navigation-links"><a href="01_Introduction.md" class="nav-link next-link">Suivant →</a>
+</div>

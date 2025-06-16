@@ -9,3 +9,8 @@
 ---
 
 _Dieses Buch ist ein lebendiges Dokument und lädt zur Weiterentwicklung, Diskussion und Integration neuer Erkenntnisse ein._
+
+---
+<div class="navigation-links">
+<a href="22_Change-Log.md" class="nav-link prev-link">← Zurück</a>
+</div>

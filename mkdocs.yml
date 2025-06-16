@@ -86,15 +86,18 @@ nav:
       - References and Sources: Infopsychismus_Book/23_References_and_Sources.md
   - Infopsychismus Origins: Infopsychismus.txt
   - Other Languages:
-      - "العربية (كتاب)": languages/ar/Infopsychismus_Kitab_Takamuli_AR/00_الفهرس.md
-      - "Deutsch (Buch)": languages/de/Infopsychismus_Ein_Integratives_Buch_DE/00_Inhaltsverzeichnis.md
-      - "Español (Libro)": languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/00_Tabla_de_contenidos.md
-      - "Français (Livre)": languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/00_Table_des_matières.md
-      - "हिन्दी (पुस्तक)": languages/hi/Infopsychismus_Samagra_Pustak_HI/00_सामग्री_सूची.md
-      - "Italiano (Libro)": languages/it/Infopsichismo_Un_Libro_Integrativo_IT/00_Indice.md
-      - "日本語 (書籍)": languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/00_目次.md
-      - "한국어 (책)": languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/00_목차.md
-      - "Português (Livro)": languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/00_Índice.md
-      - "Русский (Книга)": languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/00_Оглавление.md
-      - "Türkçe (Kitap)": languages/tr/Infopsisizm_Butunleyici_Kitap_TR/00_İçindekiler.md
-      - "中文 (书籍)": languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/00_目录.md
+      - "العربية": languages/ar/Infopsychismus_Kitab_Takamuli_AR/00_الفهرس.md
+      - "Deutsch": languages/de/Infopsychismus_Ein_Integratives_Buch_DE/00_Inhaltsverzeichnis.md
+      - "Español": languages/es/Infopsiquismo_Un_Libro_Integrativo_ES/00_Tabla_de_contenidos.md
+      - "Français": languages/fr/Infopsychisme_Un_Livre_Intégratif_FR/00_Table_des_matières.md
+      - "हिन्दी": languages/hi/Infopsychismus_Samagra_Pustak_HI/00_सामग्री_सूची.md
+      - "Italiano": languages/it/Infopsichismo_Un_Libro_Integrativo_IT/00_Indice.md
+      - "日本語": languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA/00_目次.md
+      - "한국어": languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO/00_목차.md
+      - "Português": languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT/00_Índice.md
+      - "Русский": languages/ru/Infopsikhizm_Integrativnaya_Kniga_RU/00_Оглавление.md
+      - "Türkçe": languages/tr/Infopsisizm_Butunleyici_Kitap_TR/00_İçindekiler.md
+      - "中文": languages/zh/Infopsychismus_Yi_Zhong_He_Xing_Zhu_Zuo_ZH/00_目录.md
+
+extra_css:
+  - stylesheets/extra.css

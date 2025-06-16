@@ -8,3 +8,8 @@ Comment l'Infopsychisme peut-il être appliqué dans la pratique ? Voici quelqu
 - **Vie quotidienne :** La pleine conscience, l'éducation et la prise de décision éthique sont influencées par la reconnaissance que tous les systèmes participent au tissu informationnel de l'existence.
 
 Ces études de cas montrent comment l'Infopsychisme peut inspirer l'innovation, la responsabilité et la créativité dans de nombreux domaines.
+
+---
+<div class="navigation-links">
+<a href="10_Contexte_historique_et_lignées_intellectuelles.md" class="nav-link prev-link">← Précédent</a> | <a href="12_Critiques_et_arguments_contraires.md" class="nav-link next-link">Suivant →</a>
+</div>

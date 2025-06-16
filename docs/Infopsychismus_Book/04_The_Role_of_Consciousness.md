@@ -19,3 +19,8 @@ Some interpretations of quantum mechanics assign a role to consciousness, such a
 
 **Integrative Perspective:**
 From a comprehensive perspective, the most consistent view is that the world is fundamentally structured as an information field, and consciousness is an inherent aspect. It is not plausible that pure physicality alone gives rise to subjectivity. Instead, real existence is grounded in information objects with proto-mental qualities. Matter and energy are manifestations of a deeper, informational, and proto-conscious quantum system. Consciousness is a universal principle, present in elementary processes and reaching high expression in complex systems.
+
+---
+<div class="navigation-links">
+<a href="03_The_Structure_of_Reality.md" class="nav-link prev-link">← Back</a> | <a href="05_Why_Are_We_Conscious_Beings_Here.md" class="nav-link next-link">Next →</a>
+</div>
