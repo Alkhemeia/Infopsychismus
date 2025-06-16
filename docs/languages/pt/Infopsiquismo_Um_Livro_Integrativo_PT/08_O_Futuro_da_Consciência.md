@@ -1,3 +1,0 @@
-# 8. O Futuro da Consciência: Tecnologia, Sociedade e Evolução
-
-...

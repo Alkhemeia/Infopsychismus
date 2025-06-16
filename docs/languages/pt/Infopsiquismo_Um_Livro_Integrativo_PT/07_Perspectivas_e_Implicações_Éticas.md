@@ -1,3 +1,0 @@
-# 7. Perspectivas e Implicações Éticas
-
-...

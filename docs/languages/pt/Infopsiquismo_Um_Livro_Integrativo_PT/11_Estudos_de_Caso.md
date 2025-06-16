@@ -1,3 +1,0 @@
-# 11. Estudos de Caso e Aplicações Práticas
-
-...

@@ -1,3 +1,0 @@
-# 5. Neden Burada Bilinçli Varlıklarız?
-
-...

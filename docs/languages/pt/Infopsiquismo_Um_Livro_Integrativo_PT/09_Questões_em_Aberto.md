@@ -1,3 +1,0 @@
-# 9. Questões em Aberto e Direções para Pesquisas Futuras
-
-...

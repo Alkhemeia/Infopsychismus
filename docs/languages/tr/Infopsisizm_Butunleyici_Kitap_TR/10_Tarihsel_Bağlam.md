@@ -1,3 +1,0 @@
-# 10. Tarihsel Bağlam ve Düşünsel Soy
-
-...

@@ -1,3 +1,0 @@
-# 9. Açık Sorular ve Gelecek Araştırma Yönleri
-
-...
