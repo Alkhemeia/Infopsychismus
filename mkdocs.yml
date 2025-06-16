@@ -2,7 +2,7 @@ docs_dir: docs
 site_dir: _site
 site_name: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
 nav:
-  - Home: README.md
+  - Home: Infopsychismus.txt
   - Book:
       - Table of Contents: Infopsychismus_Book/00_Table_of_Contents.md
       - Introduction: Infopsychismus_Book/01_Introduction.md
