@@ -314,8 +314,6 @@ Le développement rapide de l'intelligence artificielle (IA) et des systèmes au
 
 ---
 
----
-
 ## 17. Infopsychisme et les limites du calcul et de la simulation
 
 La question de savoir si tous les processus informationnels ou conscients peuvent être simulés par des ordinateurs est un défi central pour l'Infopsychisme. Bien que le réalisme informationnel suggère que la réalité est fondamentalement computationnelle ou informationnelle, il existe des raisons de penser que tous les aspects de la conscience ou du sens ne sont pas entièrement réductibles au calcul numérique.

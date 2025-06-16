@@ -24,7 +24,7 @@ language: en
 12. [Criticisms and Counterarguments](#12-criticisms-and-counterarguments)
 13. [Methodology and Epistemology](#13-methodology-and-epistemology)
 14. [Deeper Exploration of Ethics](#14-deeper-exploration-of-ethics)
-15. [Appendix and Further Reading](#15-appendix-and-further-reading)
+15. [Annexes and Further Reading](#15-annexes-and-further-reading)
 16. [Infopsychismus and Artificial Intelligence: Challenges and Opportunities](#16-infopsychismus-and-artificial-intelligence-challenges-and-opportunities)
 17. [Infopsychismus and the Limits of Computation and Simulation](#17-infopsychismus-and-the-limits-of-computation-and-simulation)
 18. [Infopsychismus and Philosophy of Language](#18-infopsychismus-and-philosophy-of-language)
@@ -271,7 +271,7 @@ Infopsychismus calls for an ethics of care, responsibility, and creative partici
 
 ---
 
-## 15. Appendix and Further Reading
+## 15. Annexes and Further Reading
 
 For those interested in exploring the ideas of Infopsychismus further, the following resources are recommended:
 

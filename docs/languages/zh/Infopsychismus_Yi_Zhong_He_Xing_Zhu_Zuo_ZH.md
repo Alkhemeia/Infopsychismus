@@ -36,75 +36,92 @@ language: zh
 
 # 1. 前言
 
-在技术变革、全球挑战和意义追问日益加剧的时代，关于意识、现实和价值的问题比以往任何时候都更加紧迫。本书旨在弥合哲学与科学之间的鸿沟，提供一个既严谨又易于理解的模型，邀请各界读者共同参与对存在与心灵的持续探讨。
-
-信息心理主义不是最终答案，而是一个开放的框架——欢迎批评、协作和创造性扩展。无论你是哲学家、科学家、艺术家、技术专家，还是单纯的好奇者，都希望本书能激发你思考、质疑并助力对意识和现实的理解不断深化。
-
-— 作者
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Introduction）*
 
 ## 2. 存在之问
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: The Question of Existence）*
+
 ## 3. 现实的结构
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: The Structure of Reality）*
+
 ## 4. 意识的角色
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: The Role of Consciousness）*
+
 ## 5. 我们为何是有意识的存在？
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Why Are We Conscious Beings Here?）*
+
 ## 6. 我们的实际任务
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Our Actual Task）*
+
 ## 7. 展望与伦理影响
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Outlook and Ethical Implications）*
+
 ## 8. 意识的未来：技术、社会与进化
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: The Future of Consciousness: Technology, Society, and Evolution）*
+
 ## 9. 开放性问题与未来研究方向
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Open Questions and Future Research Directions）*
+
 ## 10. 历史背景与思想渊源
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Historical Context and Intellectual Lineage）*
+
 ## 11. 案例分析与应用
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Case Studies and Real-World Applications）*
+
 ## 12. 批评与反驳
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Criticisms and Counterarguments）*
+
 ## 13. 方法论与认识论
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Methodology and Epistemology）*
+
 ## 14. 伦理的深入探讨
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Deeper Exploration of Ethics）*
+
 ## 15. 附录与延伸阅读
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Annexes and Further Reading）*
+
 ## 16. 信息心理主义与人工智能：挑战与机遇
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Infopsychismus and Artificial Intelligence: Challenges and Opportunities）*
+
 ## 17. 信息心理主义与计算与模拟的极限
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Infopsychismus and the Limits of Computation and Simulation）*
+
 ## 18. 信息心理主义与语言哲学
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Infopsychismus and Philosophy of Language）*
+
 ## 19. 意义的扩展思考
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Extended Reflections on Meaning）*
+
 ## 20. 术语表
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Glossary）*
+
 ## 21. 贡献者
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Contributors）*
+
 ## 22. 变更日志
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: Change Log）*
+
 ## 23. 参考文献
 
-...existing code...
+*（Kapitelinhalt muss noch ergänzt oder übersetzt werden. Siehe englisches Original: References and Sources）*
