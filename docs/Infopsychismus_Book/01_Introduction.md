@@ -10,3 +10,20 @@ This book combines classical philosophy, modern science, informational realism, 
 - **Integrative Informational Panpsychism (IIP model)**: Information is fundamental and already carries proto-conscious properties, making consciousness a universal principle rather than an emergent byproduct.
 
 This book is open for contributions and further development. It is licensed under Creative Commons (CC BY-SA 4.0).
+
+## Frequently Asked Questions
+
+**Q: What is Infopsychismus?**  
+A: Infopsychismus is a philosophical approach that combines informational realism with panpsychism, proposing that reality is fundamentally composed of information with proto-conscious properties.
+
+**Q: Is this a scientific or philosophical theory?**  
+A: Infopsychismus is primarily a philosophical framework that aims to be compatible with modern scientific findings. It provides a conceptual model rather than an empirically testable scientific theory.
+
+**Q: How does Infopsychismus relate to traditional religions?**  
+A: Infopsychismus is not a religious doctrine but a philosophical framework. It can be compatible with various religious and spiritual views but does not require belief in any specific deity or supernatural elements.
+
+**Q: Who is this book for?**  
+A: This book is written for anyone interested in consciousness research, metaphysics, philosophy of information, and questions about the meaning and purpose of existence. No specialized background is required.
+
+**Q: How can I contribute to this project?**  
+A: See the [Contributors](21_Contributors.md) section for information on how to participate in the development of Infopsychismus.

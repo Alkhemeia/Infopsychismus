@@ -1,0 +1,11 @@
+Cleanup and prepare for GitHub Pages deployment
+
+- Fixed Hindi file links in table of contents
+- Updated cleanup_duplicated_files.sh script
+- Added FAQ section to main Introduction file
+- Fixed links in README.md to point to correct files
+- Updated GitHub Actions workflow to include git-revision-date-localized-plugin
+- Completed .gitignore to properly exclude virtual environments
+- Fixed build warnings to ensure successful deployment
+- Added .nojekyll files to prevent Jekyll processing on GitHub Pages
+- Performed final build test to confirm all critical issues resolved

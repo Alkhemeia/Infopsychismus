@@ -48,6 +48,15 @@ Thumbs.db
 *.log
 
 # Ignore Python virtual environments
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+venv/
+.venv/
+env/
+.env/
 .venv/
 venv/
 

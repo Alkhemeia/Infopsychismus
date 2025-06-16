@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://alkhemeia.github.io/Infopsychismus/sitemap.xml
 Sitemap: https://alkhemeia.github.io/Infopsychismus/sitemap.xml

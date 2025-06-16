@@ -12,9 +12,9 @@ The heart of the project is the book [Infopsychismus – An Integrative Book on 
 **Quick Links:**
 
 - [Read the full book (English)](Infopsychismus_Book.md)
-- [Glossary](Infopsychismus_Book.md#glossary)
-- [FAQ](#faq--frequently-asked-questions)
-- [Contributors](Infopsychismus_Book.md#contributors)
+- [Glossary](Infopsychismus_Book/20_Glossary.md)
+- [FAQ](Infopsychismus_Book/01_Introduction.md#frequently-asked-questions)
+- [Contributors](Infopsychismus_Book/21_Contributors.md)
 - [German version](languages/de/Infopsychismus_Ein_Integratives_Buch_DE.md)
 
 [Zur deutschen Version](languages/de/README_DE.md)
