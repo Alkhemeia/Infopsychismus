@@ -22,5 +22,5 @@ Some models combine informational realism and panpsychism, proposing that the fu
 
 ---
 <div class="navigation-links">
-<a href="02_The_Question_of_Existence.md" class="nav-link prev-link">← Back</a> | <a href="04_The_Role_of_Consciousness.md" class="nav-link next-link">Next →</a>
+<a href="../02_The_Question_of_Existence/" class="nav-link prev-link">← Back</a> | <a href="../04_The_Role_of_Consciousness/" class="nav-link next-link">Next →</a>
 </div>

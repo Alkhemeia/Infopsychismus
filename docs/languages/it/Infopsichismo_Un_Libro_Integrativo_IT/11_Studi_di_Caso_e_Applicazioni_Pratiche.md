@@ -11,5 +11,5 @@ Questi studi di caso mostrano come l'Infopsichismo possa ispirare innovazione, r
 
 ---
 <div class="navigation-links">
-<a href="10_Contesto_Storico_e_Linee_Intellettuali.md" class="nav-link prev-link">← Indietro</a> | <a href="12_Critiche_e_Controargomentazioni.md" class="nav-link next-link">Avanti →</a>
+<a href="../10_Contesto_Storico_e_Linee_Intellettuali/" class="nav-link prev-link">← Indietro</a> | <a href="../12_Critiche_e_Controargomentazioni/" class="nav-link next-link">Avanti →</a>
 </div>

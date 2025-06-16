@@ -15,5 +15,5 @@ Bu liste, infopsisizmde kullanılan anahtar terimleri içermektedir. Amaç, teri
 
 ---
 <div class="navigation-links">
-<a href="19_Anlam_Üzerine_Genişletilmiş_Düşünceler.md" class="nav-link prev-link">← Geri</a> | <a href="21_Katkıda_Bulunanlar.md" class="nav-link next-link">İleri →</a>
+<a href="../19_Anlam_Üzerine_Genişletilmiş_Düşünceler/" class="nav-link prev-link">← Geri</a> | <a href="../21_Katkıda_Bulunanlar/" class="nav-link next-link">İleri →</a>
 </div>

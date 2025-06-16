@@ -8,5 +8,5 @@
 
 ---
 <div class="navigation-links">
-<a href="22_Registro_delle_Modifiche.md" class="nav-link prev-link">← Indietro</a>
+<a href="../22_Registro_delle_Modifiche/" class="nav-link prev-link">← Indietro</a>
 </div>

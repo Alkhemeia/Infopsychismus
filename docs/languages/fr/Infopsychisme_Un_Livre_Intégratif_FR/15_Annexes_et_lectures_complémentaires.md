@@ -4,5 +4,5 @@ Pour ceux qui souhaitent explorer davantage, des annexes et des lectures complé
 
 ---
 <div class="navigation-links">
-<a href="14_Approfondissement_éthique.md" class="nav-link prev-link">← Précédent</a> | <a href="16_Infopsychisme_et_Intelligence_Artificielle.md" class="nav-link next-link">Suivant →</a>
+<a href="../14_Approfondissement_éthique/" class="nav-link prev-link">← Précédent</a> | <a href="../16_Infopsychisme_et_Intelligence_Artificielle/" class="nav-link next-link">Suivant →</a>
 </div>

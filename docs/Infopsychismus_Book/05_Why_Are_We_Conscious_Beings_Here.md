@@ -13,5 +13,5 @@ The search for meaning is not separate from the structure of reality—it is an 
 
 ---
 <div class="navigation-links">
-<a href="04_The_Role_of_Consciousness.md" class="nav-link prev-link">← Back</a> | <a href="06_Our_Actual_Task.md" class="nav-link next-link">Next →</a>
+<a href="../04_The_Role_of_Consciousness/" class="nav-link prev-link">← Back</a> | <a href="../06_Our_Actual_Task/" class="nav-link next-link">Next →</a>
 </div>

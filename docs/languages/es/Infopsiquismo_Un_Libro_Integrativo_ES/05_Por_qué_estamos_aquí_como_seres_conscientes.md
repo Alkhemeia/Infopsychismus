@@ -4,5 +4,5 @@ Esta pregunta plantea muchas cuestiones filosóficas y científicas. ¿Por qué 
 
 ---
 <div class="navigation-links">
-<a href="04_El_papel_de_la_conciencia.md" class="nav-link prev-link">← Atrás</a> | <a href="06_Nuestra_verdadera_tarea.md" class="nav-link next-link">Siguiente →</a>
+<a href="../04_El_papel_de_la_conciencia/" class="nav-link prev-link">← Atrás</a> | <a href="../06_Nuestra_verdadera_tarea/" class="nav-link next-link">Siguiente →</a>
 </div>

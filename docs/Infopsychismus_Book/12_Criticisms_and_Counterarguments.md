@@ -11,5 +11,5 @@ Engaging with criticism strengthens the model and invites ongoing philosophical 
 
 ---
 <div class="navigation-links">
-<a href="11_Case_Studies_and_Real-World_Applications.md" class="nav-link prev-link">← Back</a> | <a href="13_Methodology_and_Epistemology.md" class="nav-link next-link">Next →</a>
+<a href="../11_Case_Studies_and_Real-World_Applications/" class="nav-link prev-link">← Back</a> | <a href="../13_Methodology_and_Epistemology/" class="nav-link next-link">Next →</a>
 </div>

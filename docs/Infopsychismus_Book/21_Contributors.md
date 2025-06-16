@@ -4,5 +4,5 @@ This book is open for contributions! If you would like to participate, please co
 
 ---
 <div class="navigation-links">
-<a href="20_Glossary.md" class="nav-link prev-link">← Back</a> | <a href="22_Change_Log.md" class="nav-link next-link">Next →</a>
+<a href="../20_Glossary/" class="nav-link prev-link">← Back</a> | <a href="../22_Change_Log/" class="nav-link next-link">Next →</a>
 </div>

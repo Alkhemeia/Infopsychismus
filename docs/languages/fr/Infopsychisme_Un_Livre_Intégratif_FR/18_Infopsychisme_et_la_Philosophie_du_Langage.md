@@ -6,5 +6,5 @@ Le langage façonne notre perception du monde et influence notre pensée. L'info
 
 ---
 <div class="navigation-links">
-<a href="17_Infopsychisme_et_les_Limites_du_Calcul.md" class="nav-link prev-link">← Précédent</a> | <a href="19_Réflexions_Élargies_sur_le_Sens.md" class="nav-link next-link">Suivant →</a>
+<a href="../17_Infopsychisme_et_les_Limites_du_Calcul/" class="nav-link prev-link">← Précédent</a> | <a href="../19_Réflexions_Élargies_sur_le_Sens/" class="nav-link next-link">Suivant →</a>
 </div>

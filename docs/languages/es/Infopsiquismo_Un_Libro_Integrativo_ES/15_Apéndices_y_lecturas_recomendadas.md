@@ -4,5 +4,5 @@ Para aquellos interesados en explorar más, hay apéndices y lecturas recomendad
 
 ---
 <div class="navigation-links">
-<a href="14_Profundización_ética.md" class="nav-link prev-link">← Atrás</a> | <a href="16_Infopsiquismo_e_Inteligencia_Artificial_Desafíos_y_Oportunidades.md" class="nav-link next-link">Siguiente →</a>
+<a href="../14_Profundización_ética/" class="nav-link prev-link">← Atrás</a> | <a href="../16_Infopsiquismo_e_Inteligencia_Artificial_Desafíos_y_Oportunidades/" class="nav-link next-link">Siguiente →</a>
 </div>

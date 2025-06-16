@@ -12,5 +12,5 @@ This appendix aims to guide readers in their further exploration of the profound
 
 ---
 <div class="navigation-links">
-<a href="14_Deeper_Exploration_of_Ethics.md" class="nav-link prev-link">← Back</a> | <a href="16_Infopsychismus_and_Artificial_Intelligence.md" class="nav-link next-link">Next →</a>
+<a href="../14_Deeper_Exploration_of_Ethics/" class="nav-link prev-link">← Back</a> | <a href="../16_Infopsychismus_and_Artificial_Intelligence/" class="nav-link next-link">Next →</a>
 </div>

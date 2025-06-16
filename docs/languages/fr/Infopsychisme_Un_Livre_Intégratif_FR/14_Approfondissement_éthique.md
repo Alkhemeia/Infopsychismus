@@ -4,5 +4,5 @@ L'éthique est une partie essentielle de l'infopsychisme. Comment pouvons-nous r
 
 ---
 <div class="navigation-links">
-<a href="13_Méthodologie_et_épistémologie.md" class="nav-link prev-link">← Précédent</a> | <a href="15_Annexes_et_lectures_complémentaires.md" class="nav-link next-link">Suivant →</a>
+<a href="../13_Méthodologie_et_épistémologie/" class="nav-link prev-link">← Précédent</a> | <a href="../15_Annexes_et_lectures_complémentaires/" class="nav-link next-link">Suivant →</a>
 </div>

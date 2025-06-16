@@ -20,5 +20,5 @@ Questo libro non è la parola finale, ma un punto di partenza per un dialogo e u
 
 ---
 <div class="navigation-links">
-<a href="08_Il_Futuro_della_Coscienza.md" class="nav-link prev-link">← Indietro</a> | <a href="10_Contesto_Storico_e_Linee_Intellettuali.md" class="nav-link next-link">Avanti →</a>
+<a href="../08_Il_Futuro_della_Coscienza/" class="nav-link prev-link">← Indietro</a> | <a href="../10_Contesto_Storico_e_Linee_Intellettuali/" class="nav-link next-link">Avanti →</a>
 </div>

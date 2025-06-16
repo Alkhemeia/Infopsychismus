@@ -4,5 +4,5 @@ Esta seção contém os nomes dos colaboradores que participaram do desenvolvime
 
 ---
 <div class="navigation-links">
-<a href="20_Glossário.md" class="nav-link prev-link">← Voltar</a> | <a href="22_Registro_de_Alterações.md" class="nav-link next-link">Próximo →</a>
+<a href="../20_Glossário/" class="nav-link prev-link">← Voltar</a> | <a href="../22_Registro_de_Alterações/" class="nav-link next-link">Próximo →</a>
 </div>

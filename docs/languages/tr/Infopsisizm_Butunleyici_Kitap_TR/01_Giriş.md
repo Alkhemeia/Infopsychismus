@@ -8,5 +8,5 @@ Bu kitap, klasik felsefe, modern bilim, enformasyon realizmi ve panpsiçizmi bü
 
 ---
 <div class="navigation-links">
-<a href="00_İçindekiler.md" class="nav-link prev-link">← Geri</a> | <a href="02_Varlık_Sorusu.md" class="nav-link next-link">İleri →</a>
+<a href="../00_İçindekiler/" class="nav-link prev-link">← Geri</a> | <a href="../02_Varlık_Sorusu/" class="nav-link next-link">İleri →</a>
 </div>

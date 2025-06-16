@@ -15,5 +15,5 @@ Cette liste contient les termes clés utilisés dans l'infopsychisme. L'objectif
 
 ---
 <div class="navigation-links">
-<a href="19_Réflexions_Élargies_sur_le_Sens.md" class="nav-link prev-link">← Précédent</a> | <a href="21_Contributeurs.md" class="nav-link next-link">Suivant →</a>
+<a href="../19_Réflexions_Élargies_sur_le_Sens/" class="nav-link prev-link">← Précédent</a> | <a href="../21_Contributeurs/" class="nav-link next-link">Suivant →</a>
 </div>

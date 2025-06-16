@@ -16,5 +16,5 @@ Un approccio integrativo alla filosofia del linguaggio considera i modi in cui l
 
 ---
 <div class="navigation-links">
-<a href="17_Infopsichismo_e_i_Limiti_della_Computazione_e_Simulazione.md" class="nav-link prev-link">← Indietro</a> | <a href="19_Riflessioni_Estese_sul_Significato.md" class="nav-link next-link">Avanti →</a>
+<a href="../17_Infopsichismo_e_i_Limiti_della_Computazione_e_Simulazione/" class="nav-link prev-link">← Indietro</a> | <a href="../19_Riflessioni_Estese_sul_Significato/" class="nav-link next-link">Avanti →</a>
 </div>

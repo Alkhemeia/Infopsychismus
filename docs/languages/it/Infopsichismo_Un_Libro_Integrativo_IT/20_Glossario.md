@@ -15,5 +15,5 @@
 
 ---
 <div class="navigation-links">
-<a href="19_Riflessioni_Estese_sul_Significato.md" class="nav-link prev-link">← Indietro</a> | <a href="21_Collaboratori.md" class="nav-link next-link">Avanti →</a>
+<a href="../19_Riflessioni_Estese_sul_Significato/" class="nav-link prev-link">← Indietro</a> | <a href="../21_Collaboratori/" class="nav-link next-link">Avanti →</a>
 </div>

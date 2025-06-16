@@ -6,5 +6,5 @@ Anlam, deneyimlere ve bağlamlara bağlı olarak gelişir ve uyum sağlar. İnfo
 
 ---
 <div class="navigation-links">
-<a href="18_İnfopsisizm_ve_Dil_Felsefesi.md" class="nav-link prev-link">← Geri</a> | <a href="20_Terimler_Sözlüğü.md" class="nav-link next-link">İleri →</a>
+<a href="../18_İnfopsisizm_ve_Dil_Felsefesi/" class="nav-link prev-link">← Geri</a> | <a href="../20_Terimler_Sözlüğü/" class="nav-link next-link">İleri →</a>
 </div>

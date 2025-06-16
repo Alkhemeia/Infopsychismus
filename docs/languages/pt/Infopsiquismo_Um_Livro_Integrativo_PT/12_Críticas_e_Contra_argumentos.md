@@ -11,5 +11,5 @@ A discussão sobre críticas fortalece o modelo e convida ao debate contínuo.
 
 ---
 <div class="navigation-links">
-<a href="11_Estudos_de_Caso.md" class="nav-link prev-link">← Voltar</a> | <a href="13_Metodologia_e_Epistemologia.md" class="nav-link next-link">Próximo →</a>
+<a href="../11_Estudos_de_Caso/" class="nav-link prev-link">← Voltar</a> | <a href="../13_Metodologia_e_Epistemologia/" class="nav-link next-link">Próximo →</a>
 </div>

@@ -4,5 +4,5 @@ Pour comprendre l'infopsychisme, nous devons examiner la méthodologie et l'épi
 
 ---
 <div class="navigation-links">
-<a href="12_Critiques_et_arguments_contraires.md" class="nav-link prev-link">← Précédent</a> | <a href="14_Approfondissement_éthique.md" class="nav-link next-link">Suivant →</a>
+<a href="../12_Critiques_et_arguments_contraires/" class="nav-link prev-link">← Précédent</a> | <a href="../14_Approfondissement_éthique/" class="nav-link next-link">Suivant →</a>
 </div>

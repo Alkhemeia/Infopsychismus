@@ -11,5 +11,5 @@ Infopsychismus integriert diese Traditionen zu einem neuen Modell für das 21. J
 
 ---
 <div class="navigation-links">
-<a href="09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen.md" class="nav-link prev-link">← Zurück</a> | <a href="11_Fallbeispiele_und_Anwendungen.md" class="nav-link next-link">Weiter →</a>
+<a href="../09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen/" class="nav-link prev-link">← Zurück</a> | <a href="../11_Fallbeispiele_und_Anwendungen/" class="nav-link next-link">Weiter →</a>
 </div>

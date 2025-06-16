@@ -4,5 +4,5 @@ L'intelligence artificielle présente des opportunités et des défis pour l'inf
 
 ---
 <div class="navigation-links">
-<a href="15_Annexes_et_lectures_complémentaires.md" class="nav-link prev-link">← Précédent</a> | <a href="17_Infopsychisme_et_les_Limites_du_Calcul.md" class="nav-link next-link">Suivant →</a>
+<a href="../15_Annexes_et_lectures_complémentaires/" class="nav-link prev-link">← Précédent</a> | <a href="../17_Infopsychisme_et_les_Limites_du_Calcul/" class="nav-link next-link">Suivant →</a>
 </div>

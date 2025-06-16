@@ -7,5 +7,5 @@ Warum existieren wir als bewusste Wesen? Was ist unsere Aufgabe im Universum? Di
 
 ---
 <div class="navigation-links">
-<a href="00_Inhaltsverzeichnis.md" class="nav-link prev-link">← Zurück</a> | <a href="02_Die_Frage_nach_der_Existenz.md" class="nav-link next-link">Weiter →</a>
+<a href="../00_Inhaltsverzeichnis/" class="nav-link prev-link">← Zurück</a> | <a href="../02_Die_Frage_nach_der_Existenz/" class="nav-link next-link">Weiter →</a>
 </div>

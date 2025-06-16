@@ -7,5 +7,5 @@ Bewusstsein ist entweder ein Produkt komplexer Materie (materialistische Sicht) 
 
 ---
 <div class="navigation-links">
-<a href="03_Die_Struktur_der_Realitaet.md" class="nav-link prev-link">← Zurück</a> | <a href="05_Warum_sind_wir_bewusste_Wesen_hier.md" class="nav-link next-link">Weiter →</a>
+<a href="../03_Die_Struktur_der_Realitaet/" class="nav-link prev-link">← Zurück</a> | <a href="../05_Warum_sind_wir_bewusste_Wesen_hier/" class="nav-link next-link">Weiter →</a>
 </div>

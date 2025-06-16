@@ -7,5 +7,5 @@ Warum gibt es überhaupt etwas und nicht vielmehr nichts? Diese Frage beschäfti
 
 ---
 <div class="navigation-links">
-<a href="01_Einleitung.md" class="nav-link prev-link">← Zurück</a> | <a href="03_Die_Struktur_der_Realitaet.md" class="nav-link next-link">Weiter →</a>
+<a href="../01_Einleitung/" class="nav-link prev-link">← Zurück</a> | <a href="../03_Die_Struktur_der_Realitaet/" class="nav-link next-link">Weiter →</a>
 </div>

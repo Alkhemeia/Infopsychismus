@@ -16,5 +16,5 @@ Man mano che la nostra comprensione della coscienza e dell'informazione evolve, 
 
 ---
 <div class="navigation-links">
-<a href="07_Prospettive_e_Implicazioni_Etiche.md" class="nav-link prev-link">← Indietro</a> | <a href="09_Domande_Aperte_e_Direzioni_di_Ricerca_Futura.md" class="nav-link next-link">Avanti →</a>
+<a href="../07_Prospettive_e_Implicazioni_Etiche/" class="nav-link prev-link">← Indietro</a> | <a href="../09_Domande_Aperte_e_Direzioni_di_Ricerca_Futura/" class="nav-link next-link">Avanti →</a>
 </div>

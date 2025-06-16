@@ -11,5 +11,5 @@ These case studies show how Infopsychismus can inspire innovation, responsibilit
 
 ---
 <div class="navigation-links">
-<a href="10_Historical_Context_and_Intellectual_Lineage.md" class="nav-link prev-link">← Back</a> | <a href="12_Criticisms_and_Counterarguments.md" class="nav-link next-link">Next →</a>
+<a href="../10_Historical_Context_and_Intellectual_Lineage/" class="nav-link prev-link">← Back</a> | <a href="../12_Criticisms_and_Counterarguments/" class="nav-link next-link">Next →</a>
 </div>

@@ -4,5 +4,5 @@ Yapay zekâ, İnfopsisizm için fırsatlar ve zorluklar sunar. Yapay zekâyı ku
 
 ---
 <div class="navigation-links">
-<a href="15_Ekler_ve_Ek_Okumalar.md" class="nav-link prev-link">← Geri</a> | <a href="17_İnfopsisizm_ve_Hesaplama.md" class="nav-link next-link">İleri →</a>
+<a href="../15_Ekler_ve_Ek_Okumalar/" class="nav-link prev-link">← Geri</a> | <a href="../17_İnfopsisizm_ve_Hesaplama/" class="nav-link next-link">İleri →</a>
 </div>

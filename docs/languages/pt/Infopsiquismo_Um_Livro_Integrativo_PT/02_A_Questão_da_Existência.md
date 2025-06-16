@@ -6,5 +6,5 @@ Por que algo existe—e não nada? Essa questão, chamada por Heidegger de "a qu
 
 ---
 <div class="navigation-links">
-<a href="01_Introdução.md" class="nav-link prev-link">← Voltar</a> | <a href="03_A_Estrutura_da_Realidade.md" class="nav-link next-link">Próximo →</a>
+<a href="../01_Introdução/" class="nav-link prev-link">← Voltar</a> | <a href="../03_A_Estrutura_da_Realidade/" class="nav-link next-link">Próximo →</a>
 </div>

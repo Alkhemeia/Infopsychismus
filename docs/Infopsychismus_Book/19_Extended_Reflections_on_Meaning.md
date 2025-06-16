@@ -19,5 +19,5 @@ The integrative perspective of Infopsychismus emphasizes the importance of under
 
 ---
 <div class="navigation-links">
-<a href="18_Infopsychismus_and_Philosophy_of_Language.md" class="nav-link prev-link">← Back</a> | <a href="20_Glossary.md" class="nav-link next-link">Next →</a>
+<a href="../18_Infopsychismus_and_Philosophy_of_Language/" class="nav-link prev-link">← Back</a> | <a href="../20_Glossary/" class="nav-link next-link">Next →</a>
 </div>

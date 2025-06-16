@@ -25,5 +25,5 @@
 23. [Referencias y fuentes](23_Referencias_y_fuentes.md)
 
 ---
-<div class="navigation-links"><a href="01_Introducción.md" class="nav-link next-link">Siguiente →</a>
+<div class="navigation-links"><a href="../01_Introducción/" class="nav-link next-link">Siguiente →</a>
 </div>

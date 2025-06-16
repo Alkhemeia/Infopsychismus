@@ -16,5 +16,5 @@ As our understanding of consciousness and information evolves, so too must our p
 
 ---
 <div class="navigation-links">
-<a href="07_Outlook_and_Ethical_Implications.md" class="nav-link prev-link">← Back</a> | <a href="09_Open_Questions_and_Future_Research_Directions.md" class="nav-link next-link">Next →</a>
+<a href="../07_Outlook_and_Ethical_Implications/" class="nav-link prev-link">← Back</a> | <a href="../09_Open_Questions_and_Future_Research_Directions/" class="nav-link next-link">Next →</a>
 </div>

@@ -10,5 +10,5 @@ Erkenntnistheoretisch ist Infopsychismus offen, pluralistisch und selbstkorrigie
 
 ---
 <div class="navigation-links">
-<a href="12_Kritik_und_Gegenargumente.md" class="nav-link prev-link">← Zurück</a> | <a href="14_Vertiefte_ethische_Betrachtungen.md" class="nav-link next-link">Weiter →</a>
+<a href="../12_Kritik_und_Gegenargumente/" class="nav-link prev-link">← Zurück</a> | <a href="../14_Vertiefte_ethische_Betrachtungen/" class="nav-link next-link">Weiter →</a>
 </div>

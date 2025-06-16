@@ -4,5 +4,5 @@ La tecnología y la sociedad son factores clave en el desarrollo de la concienci
 
 ---
 <div class="navigation-links">
-<a href="07_Perspectivas_e_implicaciones_éticas.md" class="nav-link prev-link">← Atrás</a> | <a href="09_Preguntas_abiertas_y_futuras_líneas_de_investigación.md" class="nav-link next-link">Siguiente →</a>
+<a href="../07_Perspectivas_e_implicaciones_éticas/" class="nav-link prev-link">← Atrás</a> | <a href="../09_Preguntas_abiertas_y_futuras_líneas_de_investigación/" class="nav-link next-link">Siguiente →</a>
 </div>

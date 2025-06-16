@@ -20,5 +20,5 @@ This book is not the final word, but a starting point for ongoing dialogue and d
 
 ---
 <div class="navigation-links">
-<a href="08_The_Future_of_Consciousness.md" class="nav-link prev-link">← Back</a> | <a href="10_Historical_Context_and_Intellectual_Lineage.md" class="nav-link next-link">Next →</a>
+<a href="../08_The_Future_of_Consciousness/" class="nav-link prev-link">← Back</a> | <a href="../10_Historical_Context_and_Intellectual_Lineage/" class="nav-link next-link">Next →</a>
 </div>

@@ -4,5 +4,5 @@ Questo libro è aperto a contributi! Se desideri partecipare, contatta l'autore 
 
 ---
 <div class="navigation-links">
-<a href="20_Glossario.md" class="nav-link prev-link">← Indietro</a> | <a href="22_Registro_delle_Modifiche.md" class="nav-link next-link">Avanti →</a>
+<a href="../20_Glossario/" class="nav-link prev-link">← Indietro</a> | <a href="../22_Registro_delle_Modifiche/" class="nav-link next-link">Avanti →</a>
 </div>

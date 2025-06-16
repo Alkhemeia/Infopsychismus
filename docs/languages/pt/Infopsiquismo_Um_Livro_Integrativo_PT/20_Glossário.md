@@ -15,5 +15,5 @@ Esta lista contém os termos-chave utilizados no infopsiquismo. O objetivo é fo
 
 ---
 <div class="navigation-links">
-<a href="19_Reflexões_Estendidas_sobre_o_Sentido.md" class="nav-link prev-link">← Voltar</a> | <a href="21_Colaboradores.md" class="nav-link next-link">Próximo →</a>
+<a href="../19_Reflexões_Estendidas_sobre_o_Sentido/" class="nav-link prev-link">← Voltar</a> | <a href="../21_Colaboradores/" class="nav-link next-link">Próximo →</a>
 </div>

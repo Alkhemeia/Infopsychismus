@@ -19,5 +19,5 @@ La prospettiva integrativa dell'Infopsichismo enfatizza l'importanza di comprend
 
 ---
 <div class="navigation-links">
-<a href="18_Infopsichismo_e_Filosofia_del_Linguaggio.md" class="nav-link prev-link">← Indietro</a> | <a href="20_Glossario.md" class="nav-link next-link">Avanti →</a>
+<a href="../18_Infopsichismo_e_Filosofia_del_Linguaggio/" class="nav-link prev-link">← Indietro</a> | <a href="../20_Glossario/" class="nav-link next-link">Avanti →</a>
 </div>

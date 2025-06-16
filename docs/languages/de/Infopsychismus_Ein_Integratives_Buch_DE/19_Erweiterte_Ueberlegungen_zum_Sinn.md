@@ -11,5 +11,5 @@
 
 ---
 <div class="navigation-links">
-<a href="18_Infopsychismus_und_Sprachphilosophie.md" class="nav-link prev-link">← Zurück</a> | <a href="20_Glossar.md" class="nav-link next-link">Weiter →</a>
+<a href="../18_Infopsychismus_und_Sprachphilosophie/" class="nav-link prev-link">← Zurück</a> | <a href="../20_Glossar/" class="nav-link next-link">Weiter →</a>
 </div>

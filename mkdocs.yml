@@ -1,6 +1,6 @@
 docs_dir: docs
 site_dir: site
-site_name: Infopsychismus – An Integrative Book on Consciousness, Reality, and Meaning
+site_name: Infopsychismus – An Integrative Exploration of Consciousness, Reality, and Meaning
 site_description: An exploration of consciousness, reality, and meaning through an integrative philosophical approach
 site_author: alkhemeia
 site_url: https://alkhemeia.github.io/Infopsychismus/
@@ -58,8 +58,8 @@ markdown_extensions:
   - pymdownx.tilde
 nav:
   - Home: README.md
-  - Book Overview: Infopsychismus_Book.md
-  - Book Chapters:
+  - Overview: Infopsychismus_Book.md
+  - Chapters:
       - Table of Contents: Infopsychismus_Book/00_Table_of_Contents.md
       - Introduction: Infopsychismus_Book/01_Introduction.md
       - The Question of Existence: Infopsychismus_Book/02_The_Question_of_Existence.md

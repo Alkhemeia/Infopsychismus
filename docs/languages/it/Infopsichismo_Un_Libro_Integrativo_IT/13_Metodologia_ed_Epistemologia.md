@@ -10,5 +10,5 @@ Epistemologicamente, l'Infopsichismo è aperto, pluralistico e auto-correttivo. 
 
 ---
 <div class="navigation-links">
-<a href="12_Critiche_e_Controargomentazioni.md" class="nav-link prev-link">← Indietro</a> | <a href="14_Esplorazione_Approfondita_dell_Etica.md" class="nav-link next-link">Avanti →</a>
+<a href="../12_Critiche_e_Controargomentazioni/" class="nav-link prev-link">← Indietro</a> | <a href="../14_Esplorazione_Approfondita_dell_Etica/" class="nav-link next-link">Avanti →</a>
 </div>

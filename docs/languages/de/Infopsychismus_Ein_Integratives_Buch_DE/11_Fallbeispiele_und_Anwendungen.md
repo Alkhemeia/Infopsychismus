@@ -11,5 +11,5 @@ Diese Beispiele zeigen, wie Infopsychismus Innovation, Verantwortung und Kreativ
 
 ---
 <div class="navigation-links">
-<a href="10_Historischer_Kontext_und_intellektuelle_Entwicklungslinien.md" class="nav-link prev-link">← Zurück</a> | <a href="12_Kritik_und_Gegenargumente.md" class="nav-link next-link">Weiter →</a>
+<a href="../10_Historischer_Kontext_und_intellektuelle_Entwicklungslinien/" class="nav-link prev-link">← Zurück</a> | <a href="../12_Kritik_und_Gegenargumente/" class="nav-link next-link">Weiter →</a>
 </div>

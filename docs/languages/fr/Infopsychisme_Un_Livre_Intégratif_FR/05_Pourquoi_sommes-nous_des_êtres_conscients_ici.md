@@ -13,5 +13,5 @@ La recherche de sens n'est pas séparée de la structure de la réalité – ell
 
 ---
 <div class="navigation-links">
-<a href="04_Le_rôle_de_la_conscience.md" class="nav-link prev-link">← Précédent</a> | <a href="06_Notre_véritable_tâche.md" class="nav-link next-link">Suivant →</a>
+<a href="../04_Le_rôle_de_la_conscience/" class="nav-link prev-link">← Précédent</a> | <a href="../06_Notre_véritable_tâche/" class="nav-link next-link">Suivant →</a>
 </div>

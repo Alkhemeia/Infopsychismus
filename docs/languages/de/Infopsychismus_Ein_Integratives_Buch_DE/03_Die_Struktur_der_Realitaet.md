@@ -13,5 +13,5 @@ Moderne Ansätze wie der Informationsrealismus (Realität als Information) und d
 
 ---
 <div class="navigation-links">
-<a href="02_Die_Frage_nach_der_Existenz.md" class="nav-link prev-link">← Zurück</a> | <a href="04_Die_Rolle_des_Bewusstseins.md" class="nav-link next-link">Weiter →</a>
+<a href="../02_Die_Frage_nach_der_Existenz/" class="nav-link prev-link">← Zurück</a> | <a href="../04_Die_Rolle_des_Bewusstseins/" class="nav-link next-link">Weiter →</a>
 </div>

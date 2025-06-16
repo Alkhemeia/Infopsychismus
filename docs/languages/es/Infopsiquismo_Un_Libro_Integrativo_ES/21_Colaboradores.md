@@ -4,5 +4,5 @@ Esta lista contiene los nombres de los colaboradores que han contribuido al desa
 
 ---
 <div class="navigation-links">
-<a href="20_Glosario.md" class="nav-link prev-link">← Atrás</a> | <a href="22_Registro_de_cambios.md" class="nav-link next-link">Siguiente →</a>
+<a href="../20_Glosario/" class="nav-link prev-link">← Atrás</a> | <a href="../22_Registro_de_cambios/" class="nav-link next-link">Siguiente →</a>
 </div>

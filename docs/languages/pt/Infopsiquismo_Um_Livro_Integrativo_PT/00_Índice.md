@@ -26,5 +26,5 @@
 
 ---
 <div class="navigation-links">
-<a href="00_Indice.md" class="nav-link prev-link">← Voltar</a> | <a href="01_Introdução.md" class="nav-link next-link">Próximo →</a>
+<a href="../00_Indice/" class="nav-link prev-link">← Voltar</a> | <a href="../01_Introdução/" class="nav-link next-link">Próximo →</a>
 </div>

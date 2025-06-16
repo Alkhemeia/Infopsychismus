@@ -16,5 +16,5 @@ Man mano che gli esseri coscienti evolvono, così aumenta la capacità dell'univ
 
 ---
 <div class="navigation-links">
-<a href="06_Il_Nostro_Compito_Reale.md" class="nav-link prev-link">← Indietro</a> | <a href="08_Il_Futuro_della_Coscienza.md" class="nav-link next-link">Avanti →</a>
+<a href="../06_Il_Nostro_Compito_Reale/" class="nav-link prev-link">← Indietro</a> | <a href="../08_Il_Futuro_della_Coscienza/" class="nav-link next-link">Avanti →</a>
 </div>

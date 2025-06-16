@@ -10,5 +10,5 @@ L'Infopsichismo invoca un'etica di cura, responsabilità e partecipazione creati
 
 ---
 <div class="navigation-links">
-<a href="13_Metodologia_ed_Epistemologia.md" class="nav-link prev-link">← Indietro</a> | <a href="15_Appendici_e_Letture_Supplementari.md" class="nav-link next-link">Avanti →</a>
+<a href="../13_Metodologia_ed_Epistemologia/" class="nav-link prev-link">← Indietro</a> | <a href="../15_Appendici_e_Letture_Supplementari/" class="nav-link next-link">Avanti →</a>
 </div>

@@ -22,5 +22,5 @@ D'un point de vue global, la vision la plus cohérente est que le monde est fond
 
 ---
 <div class="navigation-links">
-<a href="03_La_structure_de_la_réalité.md" class="nav-link prev-link">← Précédent</a> | <a href="05_Pourquoi_sommes-nous_des_êtres_conscients_ici.md" class="nav-link next-link">Suivant →</a>
+<a href="../03_La_structure_de_la_réalité/" class="nav-link prev-link">← Précédent</a> | <a href="../05_Pourquoi_sommes-nous_des_êtres_conscients_ici/" class="nav-link next-link">Suivant →</a>
 </div>

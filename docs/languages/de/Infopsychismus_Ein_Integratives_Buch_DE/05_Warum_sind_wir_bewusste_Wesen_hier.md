@@ -7,5 +7,5 @@ Wenn Bewusstsein ein universelles Prinzip ist, sind bewusste Wesen keine Zufäll
 
 ---
 <div class="navigation-links">
-<a href="04_Die_Rolle_des_Bewusstseins.md" class="nav-link prev-link">← Zurück</a> | <a href="06_Unsere_tatsaechliche_Aufgabe.md" class="nav-link next-link">Weiter →</a>
+<a href="../04_Die_Rolle_des_Bewusstseins/" class="nav-link prev-link">← Zurück</a> | <a href="../06_Unsere_tatsaechliche_Aufgabe/" class="nav-link next-link">Weiter →</a>
 </div>

@@ -4,5 +4,5 @@ Para comprender el infopsiquismo, debemos mirar el contexto histórico y el lina
 
 ---
 <div class="navigation-links">
-<a href="09_Preguntas_abiertas_y_futuras_líneas_de_investigación.md" class="nav-link prev-link">← Atrás</a> | <a href="11_Estudios_de_caso_y_aplicaciones_prácticas.md" class="nav-link next-link">Siguiente →</a>
+<a href="../09_Preguntas_abiertas_y_futuras_líneas_de_investigación/" class="nav-link prev-link">← Atrás</a> | <a href="../11_Estudios_de_caso_y_aplicaciones_prácticas/" class="nav-link next-link">Siguiente →</a>
 </div>

@@ -4,5 +4,5 @@ A computação e a simulação são ferramentas poderosas para compreender a rea
 
 ---
 <div class="navigation-links">
-<a href="16_Infopsiquismo_e_Inteligência_Artificial.md" class="nav-link prev-link">← Voltar</a> | <a href="18_Infopsiquismo_e_Filosofia_da_Linguagem.md" class="nav-link next-link">Próximo →</a>
+<a href="../16_Infopsiquismo_e_Inteligência_Artificial/" class="nav-link prev-link">← Voltar</a> | <a href="../18_Infopsiquismo_e_Filosofia_da_Linguagem/" class="nav-link next-link">Próximo →</a>
 </div>

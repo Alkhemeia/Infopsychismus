@@ -16,5 +16,5 @@ Sebbene nessuna risposta sia universalmente accettata, la questione dell'esisten
 
 ---
 <div class="navigation-links">
-<a href="01_Introduzione.md" class="nav-link prev-link">← Indietro</a> | <a href="03_La_Struttura_della_Realtà.md" class="nav-link next-link">Avanti →</a>
+<a href="../01_Introduzione/" class="nav-link prev-link">← Indietro</a> | <a href="../03_La_Struttura_della_Realtà/" class="nav-link next-link">Avanti →</a>
 </div>

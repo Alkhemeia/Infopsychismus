@@ -8,5 +8,5 @@
 
 ---
 <div class="navigation-links">
-<a href="22_Change_Log.md" class="nav-link prev-link">← Back</a>
+<a href="../22_Change_Log/" class="nav-link prev-link">← Back</a>
 </div>

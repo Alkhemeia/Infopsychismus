@@ -11,5 +11,5 @@ L'Infopsychisme synthétise ces traditions, intégrant philosophie, science et t
 
 ---
 <div class="navigation-links">
-<a href="09_Questions_ouvertes_et_pistes_de_recherche_futures.md" class="nav-link prev-link">← Précédent</a> | <a href="11_Études_de_cas_et_applications_concrètes.md" class="nav-link next-link">Suivant →</a>
+<a href="../09_Questions_ouvertes_et_pistes_de_recherche_futures/" class="nav-link prev-link">← Précédent</a> | <a href="../11_Études_de_cas_et_applications_concrètes/" class="nav-link next-link">Suivant →</a>
 </div>

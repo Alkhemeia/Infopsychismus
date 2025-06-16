@@ -4,5 +4,5 @@ Esta lista contém o registro de alterações realizadas no infopsiquismo. O obj
 
 ---
 <div class="navigation-links">
-<a href="21_Colaboradores.md" class="nav-link prev-link">← Voltar</a> | <a href="23_Referências_e_Fontes.md" class="nav-link next-link">Próximo →</a>
+<a href="../21_Colaboradores/" class="nav-link prev-link">← Voltar</a> | <a href="../23_Referências_e_Fontes/" class="nav-link next-link">Próximo →</a>
 </div>

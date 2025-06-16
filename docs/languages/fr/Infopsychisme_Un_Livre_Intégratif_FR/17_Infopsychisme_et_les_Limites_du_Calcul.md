@@ -4,5 +4,5 @@ Le calcul et la simulation sont des outils puissants pour comprendre la réalit�
 
 ---
 <div class="navigation-links">
-<a href="16_Infopsychisme_et_Intelligence_Artificielle.md" class="nav-link prev-link">← Précédent</a> | <a href="18_Infopsychisme_et_la_Philosophie_du_Langage.md" class="nav-link next-link">Suivant →</a>
+<a href="../16_Infopsychisme_et_Intelligence_Artificielle/" class="nav-link prev-link">← Précédent</a> | <a href="../18_Infopsychisme_et_la_Philosophie_du_Langage/" class="nav-link next-link">Suivant →</a>
 </div>

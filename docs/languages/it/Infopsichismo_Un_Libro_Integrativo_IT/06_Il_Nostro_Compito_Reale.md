@@ -16,5 +16,5 @@ Gli esseri coscienti sono agenti di sviluppo creativo. Modelliamo il futuro face
 
 ---
 <div class="navigation-links">
-<a href="05_Perché_Siamo_Esseri_Coscienti_Qui.md" class="nav-link prev-link">← Indietro</a> | <a href="07_Prospettive_e_Implicazioni_Etiche.md" class="nav-link next-link">Avanti →</a>
+<a href="../05_Perché_Siamo_Esseri_Coscienti_Qui/" class="nav-link prev-link">← Indietro</a> | <a href="../07_Prospettive_e_Implicazioni_Etiche/" class="nav-link next-link">Avanti →</a>
 </div>

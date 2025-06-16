@@ -16,5 +16,5 @@ Notre tâche n'est pas seulement de comprendre, mais de participer activement au
 
 ---
 <div class="navigation-links">
-<a href="06_Notre_véritable_tâche.md" class="nav-link prev-link">← Précédent</a> | <a href="08_Lavenir_de_la_conscience.md" class="nav-link next-link">Suivant →</a>
+<a href="../06_Notre_véritable_tâche/" class="nav-link prev-link">← Précédent</a> | <a href="../08_Lavenir_de_la_conscience/" class="nav-link next-link">Suivant →</a>
 </div>

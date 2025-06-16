@@ -10,5 +10,5 @@ Infopsychismus calls for an ethics of care, responsibility, and creative partici
 
 ---
 <div class="navigation-links">
-<a href="13_Methodology_and_Epistemology.md" class="nav-link prev-link">← Back</a> | <a href="15_Annexes_and_Further_Reading.md" class="nav-link next-link">Next →</a>
+<a href="../13_Methodology_and_Epistemology/" class="nav-link prev-link">← Back</a> | <a href="../15_Annexes_and_Further_Reading/" class="nav-link next-link">Next →</a>
 </div>

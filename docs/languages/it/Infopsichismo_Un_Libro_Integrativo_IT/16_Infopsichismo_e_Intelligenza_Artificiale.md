@@ -19,5 +19,5 @@ Le sfide e le opportunità presentate dall'IA richiedono un approccio integrativ
 
 ---
 <div class="navigation-links">
-<a href="15_Appendici_e_Letture_Supplementari.md" class="nav-link prev-link">← Indietro</a> | <a href="17_Infopsichismo_e_i_Limiti_della_Computazione_e_Simulazione.md" class="nav-link next-link">Avanti →</a>
+<a href="../15_Appendici_e_Letture_Supplementari/" class="nav-link prev-link">← Indietro</a> | <a href="../17_Infopsichismo_e_i_Limiti_della_Computazione_e_Simulazione/" class="nav-link next-link">Avanti →</a>
 </div>

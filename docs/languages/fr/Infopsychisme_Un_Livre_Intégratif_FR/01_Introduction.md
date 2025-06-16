@@ -13,5 +13,5 @@ Ce livre est ouvert aux contributions et à un développement ultérieur. Il est
 
 ---
 <div class="navigation-links">
-<a href="00_Table_des_matières.md" class="nav-link prev-link">← Précédent</a> | <a href="02_La_question_de_lexistence.md" class="nav-link next-link">Suivant →</a>
+<a href="../00_Table_des_matières/" class="nav-link prev-link">← Précédent</a> | <a href="../02_La_question_de_lexistence/" class="nav-link next-link">Suivant →</a>
 </div>

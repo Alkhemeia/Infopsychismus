@@ -7,5 +7,5 @@ Die Erkenntnis, dass Bewusstsein und Information universelle Prinzipien sind, f�
 
 ---
 <div class="navigation-links">
-<a href="06_Unsere_tatsaechliche_Aufgabe.md" class="nav-link prev-link">← Zurück</a> | <a href="08_Die_Zukunft_des_Bewusstseins.md" class="nav-link next-link">Weiter →</a>
+<a href="../06_Unsere_tatsaechliche_Aufgabe/" class="nav-link prev-link">← Zurück</a> | <a href="../08_Die_Zukunft_des_Bewusstseins/" class="nav-link next-link">Weiter →</a>
 </div>

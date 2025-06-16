@@ -11,5 +11,5 @@
 
 ---
 <div class="navigation-links">
-<a href="17_Infopsychismus_und_die_Grenzen_von_Berechnung_und_Simulation.md" class="nav-link prev-link">← Zurück</a> | <a href="19_Erweiterte_Ueberlegungen_zum_Sinn.md" class="nav-link next-link">Weiter →</a>
+<a href="../17_Infopsychismus_und_die_Grenzen_von_Berechnung_und_Simulation/" class="nav-link prev-link">← Zurück</a> | <a href="../19_Erweiterte_Ueberlegungen_zum_Sinn/" class="nav-link next-link">Weiter →</a>
 </div>

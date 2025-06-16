@@ -11,5 +11,5 @@ L'Infopsichismo sintetizza queste tradizioni, integrando filosofia, scienza e te
 
 ---
 <div class="navigation-links">
-<a href="09_Domande_Aperte_e_Direzioni_di_Ricerca_Futura.md" class="nav-link prev-link">← Indietro</a> | <a href="11_Studi_di_Caso_e_Applicazioni_Pratiche.md" class="nav-link next-link">Avanti →</a>
+<a href="../09_Domande_Aperte_e_Direzioni_di_Ricerca_Futura/" class="nav-link prev-link">← Indietro</a> | <a href="../11_Studi_di_Caso_e_Applicazioni_Pratiche/" class="nav-link next-link">Avanti →</a>
 </div>

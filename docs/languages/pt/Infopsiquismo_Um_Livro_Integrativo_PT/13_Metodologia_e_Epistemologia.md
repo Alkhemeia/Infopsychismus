@@ -4,5 +4,5 @@ Para compreender o infopsiquismo, devemos examinar a metodologia e epistemologia
 
 ---
 <div class="navigation-links">
-<a href="12_Críticas_e_Contra_argumentos.md" class="nav-link prev-link">← Voltar</a> | <a href="14_Exploração_Mais_Profunda_da_Ética.md" class="nav-link next-link">Próximo →</a>
+<a href="../12_Críticas_e_Contra_argumentos/" class="nav-link prev-link">← Voltar</a> | <a href="../14_Exploração_Mais_Profunda_da_Ética/" class="nav-link next-link">Próximo →</a>
 </div>

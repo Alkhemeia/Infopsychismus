@@ -13,5 +13,5 @@ Este libro está abierto a contribuciones y desarrollo posterior. Está licencia
 
 ---
 <div class="navigation-links">
-<a href="00_Tabla_de_contenidos.md" class="nav-link prev-link">← Atrás</a> | <a href="02_La_cuestion_de_la_existencia.md" class="nav-link next-link">Siguiente →</a>
+<a href="../00_Tabla_de_contenidos/" class="nav-link prev-link">← Atrás</a> | <a href="../02_La_cuestion_de_la_existencia/" class="nav-link next-link">Siguiente →</a>
 </div>

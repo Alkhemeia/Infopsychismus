@@ -16,5 +16,5 @@ An integrative approach to the philosophy of language considers the ways in whic
 
 ---
 <div class="navigation-links">
-<a href="17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation.md" class="nav-link prev-link">← Back</a> | <a href="19_Extended_Reflections_on_Meaning.md" class="nav-link next-link">Next →</a>
+<a href="../17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation/" class="nav-link prev-link">← Back</a> | <a href="../19_Extended_Reflections_on_Meaning/" class="nav-link next-link">Next →</a>
 </div>

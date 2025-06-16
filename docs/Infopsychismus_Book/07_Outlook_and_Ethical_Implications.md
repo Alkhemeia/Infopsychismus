@@ -16,5 +16,5 @@ As conscious beings evolve, so too does the universe’s capacity for self-refle
 
 ---
 <div class="navigation-links">
-<a href="06_Our_Actual_Task.md" class="nav-link prev-link">← Back</a> | <a href="08_The_Future_of_Consciousness.md" class="nav-link next-link">Next →</a>
+<a href="../06_Our_Actual_Task/" class="nav-link prev-link">← Back</a> | <a href="../08_The_Future_of_Consciousness/" class="nav-link next-link">Next →</a>
 </div>

@@ -22,5 +22,5 @@ Alcuni modelli combinano realismo informazionale e panpsichismo, proponendo che 
 
 ---
 <div class="navigation-links">
-<a href="02_La_Questione_dell_Esistenza.md" class="nav-link prev-link">← Indietro</a> | <a href="04_Il_Ruolo_della_Coscienza.md" class="nav-link next-link">Avanti →</a>
+<a href="../02_La_Questione_dell_Esistenza/" class="nav-link prev-link">← Indietro</a> | <a href="../04_Il_Ruolo_della_Coscienza/" class="nav-link next-link">Avanti →</a>
 </div>

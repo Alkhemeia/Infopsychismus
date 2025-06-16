@@ -4,5 +4,5 @@ Cette liste contient les références et les sources utilisées dans le dévelop
 
 ---
 <div class="navigation-links">
-<a href="22_Journal_des_Modifications.md" class="nav-link prev-link">← Précédent</a>
+<a href="../22_Journal_des_Modifications/" class="nav-link prev-link">← Précédent</a>
 </div>

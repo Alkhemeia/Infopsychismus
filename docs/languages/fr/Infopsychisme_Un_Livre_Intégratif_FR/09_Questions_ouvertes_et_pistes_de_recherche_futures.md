@@ -19,5 +19,5 @@ Ce livre n'est pas un mot final, mais un point de départ pour un dialogue et un
 
 ---
 <div class="navigation-links">
-<a href="08_Lavenir_de_la_conscience.md" class="nav-link prev-link">← Précédent</a> | <a href="10_Contexte_historique_et_lignées_intellectuelles.md" class="nav-link next-link">Suivant →</a>
+<a href="../08_Lavenir_de_la_conscience/" class="nav-link prev-link">← Précédent</a> | <a href="../10_Contexte_historique_et_lignées_intellectuelles/" class="nav-link next-link">Suivant →</a>
 </div>

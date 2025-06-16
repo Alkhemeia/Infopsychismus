@@ -16,5 +16,5 @@ Les êtres conscients sont des agents de développement créatif. Nous façonnon
 
 ---
 <div class="navigation-links">
-<a href="05_Pourquoi_sommes-nous_des_êtres_conscients_ici.md" class="nav-link prev-link">← Précédent</a> | <a href="07_Perspectives_et_implications_éthiques.md" class="nav-link next-link">Suivant →</a>
+<a href="../05_Pourquoi_sommes-nous_des_êtres_conscients_ici/" class="nav-link prev-link">← Précédent</a> | <a href="../07_Perspectives_et_implications_éthiques/" class="nav-link next-link">Suivant →</a>
 </div>

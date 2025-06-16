@@ -4,5 +4,5 @@ La realidad no es simplemente un conjunto de objetos que vemos o tocamos. Es un 
 
 ---
 <div class="navigation-links">
-<a href="02_La_cuestion_de_la_existencia.md" class="nav-link prev-link">← Atrás</a> | <a href="04_El_papel_de_la_conciencia.md" class="nav-link next-link">Siguiente →</a>
+<a href="../02_La_cuestion_de_la_existencia/" class="nav-link prev-link">← Atrás</a> | <a href="../04_El_papel_de_la_conciencia/" class="nav-link next-link">Siguiente →</a>
 </div>

@@ -16,5 +16,5 @@ Conscious beings are agents of creative development. We shape the future by maki
 
 ---
 <div class="navigation-links">
-<a href="05_Why_Are_We_Conscious_Beings_Here.md" class="nav-link prev-link">← Back</a> | <a href="07_Outlook_and_Ethical_Implications.md" class="nav-link next-link">Next →</a>
+<a href="../05_Why_Are_We_Conscious_Beings_Here/" class="nav-link prev-link">← Back</a> | <a href="../07_Outlook_and_Ethical_Implications/" class="nav-link next-link">Next →</a>
 </div>

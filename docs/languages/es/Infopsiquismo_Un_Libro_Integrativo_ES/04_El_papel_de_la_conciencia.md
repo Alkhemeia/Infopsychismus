@@ -4,5 +4,5 @@ La conciencia no es simplemente un fenómeno interno; es una parte integral de l
 
 ---
 <div class="navigation-links">
-<a href="03_La_estructura_de_la_realidad.md" class="nav-link prev-link">← Atrás</a> | <a href="05_Por_qué_estamos_aquí_como_seres_conscientes.md" class="nav-link next-link">Siguiente →</a>
+<a href="../03_La_estructura_de_la_realidad/" class="nav-link prev-link">← Atrás</a> | <a href="../05_Por_qué_estamos_aquí_como_seres_conscientes/" class="nav-link next-link">Siguiente →</a>
 </div>

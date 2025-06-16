@@ -10,5 +10,5 @@ Dieses Kapitel beschreibt die Aufgaben bewusster Wesen: [Selbstbewusstwerdung](#
 
 ---
 <div class="navigation-links">
-<a href="05_Warum_sind_wir_bewusste_Wesen_hier.md" class="nav-link prev-link">← Zurück</a> | <a href="07_Ausblick_und_ethische_Implikationen.md" class="nav-link next-link">Weiter →</a>
+<a href="../05_Warum_sind_wir_bewusste_Wesen_hier/" class="nav-link prev-link">← Zurück</a> | <a href="../07_Ausblick_und_ethische_Implikationen/" class="nav-link next-link">Weiter →</a>
 </div>

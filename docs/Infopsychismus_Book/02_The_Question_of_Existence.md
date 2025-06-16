@@ -16,5 +16,5 @@ While no answer is universally accepted, the question of existence remains centr
 
 ---
 <div class="navigation-links">
-<a href="01_Introduction.md" class="nav-link prev-link">← Back</a> | <a href="03_The_Structure_of_Reality.md" class="nav-link next-link">Next →</a>
+<a href="../01_Introduction/" class="nav-link prev-link">← Back</a> | <a href="../03_The_Structure_of_Reality/" class="nav-link next-link">Next →</a>
 </div>

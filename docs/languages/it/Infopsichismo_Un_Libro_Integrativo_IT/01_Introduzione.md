@@ -13,5 +13,5 @@ Questo libro è aperto a contributi e ulteriori sviluppi. È concesso in licenza
 
 ---
 <div class="navigation-links">
-<a href="00_Indice.md" class="nav-link prev-link">← Indietro</a> | <a href="02_La_Questione_dell_Esistenza.md" class="nav-link next-link">Avanti →</a>
+<a href="../00_Indice/" class="nav-link prev-link">← Indietro</a> | <a href="../02_La_Questione_dell_Esistenza/" class="nav-link next-link">Avanti →</a>
 </div>

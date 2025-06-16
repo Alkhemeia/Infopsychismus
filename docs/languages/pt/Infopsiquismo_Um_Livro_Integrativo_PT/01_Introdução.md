@@ -8,5 +8,5 @@ Este livro combina filosofia clássica, ciência moderna, realismo informacional
 
 ---
 <div class="navigation-links">
-<a href="00_Índice.md" class="nav-link prev-link">← Voltar</a> | <a href="02_A_Questão_da_Existência.md" class="nav-link next-link">Próximo →</a>
+<a href="../00_Índice/" class="nav-link prev-link">← Voltar</a> | <a href="../02_A_Questão_da_Existência/" class="nav-link next-link">Próximo →</a>
 </div>

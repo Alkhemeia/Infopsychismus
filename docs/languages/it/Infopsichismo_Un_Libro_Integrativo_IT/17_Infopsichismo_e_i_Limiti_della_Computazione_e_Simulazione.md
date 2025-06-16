@@ -19,5 +19,5 @@ Dal punto di vista dell'Infopsichismo, i limiti della computazione e della simul
 
 ---
 <div class="navigation-links">
-<a href="16_Infopsichismo_e_Intelligenza_Artificiale.md" class="nav-link prev-link">← Indietro</a> | <a href="18_Infopsichismo_e_Filosofia_del_Linguaggio.md" class="nav-link next-link">Avanti →</a>
+<a href="../16_Infopsichismo_e_Intelligenza_Artificiale/" class="nav-link prev-link">← Indietro</a> | <a href="../18_Infopsichismo_e_Filosofia_del_Linguaggio/" class="nav-link next-link">Avanti →</a>
 </div>

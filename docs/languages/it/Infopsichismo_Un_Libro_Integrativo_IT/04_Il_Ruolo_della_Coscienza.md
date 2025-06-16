@@ -22,5 +22,5 @@ Da una prospettiva completa, la visione più coerente è che il mondo sia strutt
 
 ---
 <div class="navigation-links">
-<a href="03_La_Struttura_della_Realtà.md" class="nav-link prev-link">← Indietro</a> | <a href="05_Perché_Siamo_Esseri_Coscienti_Qui.md" class="nav-link next-link">Avanti →</a>
+<a href="../03_La_Struttura_della_Realtà/" class="nav-link prev-link">← Indietro</a> | <a href="../05_Perché_Siamo_Esseri_Coscienti_Qui/" class="nav-link next-link">Avanti →</a>
 </div>

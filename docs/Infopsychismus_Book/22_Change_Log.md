@@ -4,5 +4,5 @@
 
 ---
 <div class="navigation-links">
-<a href="21_Contributors.md" class="nav-link prev-link">← Back</a> | <a href="23_References_and_Sources.md" class="nav-link next-link">Next →</a>
+<a href="../21_Contributors/" class="nav-link prev-link">← Back</a> | <a href="../23_References_and_Sources/" class="nav-link next-link">Next →</a>
 </div>

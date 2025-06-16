@@ -4,5 +4,5 @@ Hesaplama ve simülasyon, gerçekliği anlamak için güçlü araçlardır, anca
 
 ---
 <div class="navigation-links">
-<a href="16_İnfopsisizm_ve_Yapay_Zekâ.md" class="nav-link prev-link">← Geri</a> | <a href="18_İnfopsisizm_ve_Dil_Felsefesi.md" class="nav-link next-link">İleri →</a>
+<a href="../16_İnfopsisizm_ve_Yapay_Zekâ/" class="nav-link prev-link">← Geri</a> | <a href="../18_İnfopsisizm_ve_Dil_Felsefesi/" class="nav-link next-link">İleri →</a>
 </div>

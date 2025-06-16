@@ -11,5 +11,5 @@
 
 ---
 <div class="navigation-links">
-<a href="16_Infopsychismus_und_KI_Herausforderungen_und_Chancen.md" class="nav-link prev-link">← Zurück</a> | <a href="18_Infopsychismus_und_Sprachphilosophie.md" class="nav-link next-link">Weiter →</a>
+<a href="../16_Infopsychismus_und_KI_Herausforderungen_und_Chancen/" class="nav-link prev-link">← Zurück</a> | <a href="../18_Infopsychismus_und_Sprachphilosophie/" class="nav-link next-link">Weiter →</a>
 </div>

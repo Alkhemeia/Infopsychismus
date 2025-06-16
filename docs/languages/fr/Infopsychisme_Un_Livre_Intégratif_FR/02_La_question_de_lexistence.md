@@ -16,5 +16,5 @@ Bien qu'aucune réponse ne soit universellement acceptée, la question de l'exis
 
 ---
 <div class="navigation-links">
-<a href="01_Introduction.md" class="nav-link prev-link">← Précédent</a> | <a href="03_La_structure_de_la_réalité.md" class="nav-link next-link">Suivant →</a>
+<a href="../01_Introduction/" class="nav-link prev-link">← Précédent</a> | <a href="../03_La_structure_de_la_réalité/" class="nav-link next-link">Suivant →</a>
 </div>

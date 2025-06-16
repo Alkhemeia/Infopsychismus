@@ -6,5 +6,5 @@ Le sens évolue et s'adapte en fonction des expériences et des contextes. L'inf
 
 ---
 <div class="navigation-links">
-<a href="18_Infopsychisme_et_la_Philosophie_du_Langage.md" class="nav-link prev-link">← Précédent</a> | <a href="20_Glossaire.md" class="nav-link next-link">Suivant →</a>
+<a href="../18_Infopsychisme_et_la_Philosophie_du_Langage/" class="nav-link prev-link">← Précédent</a> | <a href="../20_Glossaire/" class="nav-link next-link">Suivant →</a>
 </div>

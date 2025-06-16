@@ -11,5 +11,5 @@ Aborder les critiques renforce le modèle et invite à un débat philosophique e
 
 ---
 <div class="navigation-links">
-<a href="11_Études_de_cas_et_applications_concrètes.md" class="nav-link prev-link">← Précédent</a> | <a href="13_Méthodologie_et_épistémologie.md" class="nav-link next-link">Suivant →</a>
+<a href="../11_Études_de_cas_et_applications_concrètes/" class="nav-link prev-link">← Précédent</a> | <a href="../13_Méthodologie_et_épistémologie/" class="nav-link next-link">Suivant →</a>
 </div>

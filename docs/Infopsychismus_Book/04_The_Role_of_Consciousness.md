@@ -22,5 +22,5 @@ From a comprehensive perspective, the most consistent view is that the world is 
 
 ---
 <div class="navigation-links">
-<a href="03_The_Structure_of_Reality.md" class="nav-link prev-link">← Back</a> | <a href="05_Why_Are_We_Conscious_Beings_Here.md" class="nav-link next-link">Next →</a>
+<a href="../03_The_Structure_of_Reality/" class="nav-link prev-link">← Back</a> | <a href="../05_Why_Are_We_Conscious_Beings_Here/" class="nav-link next-link">Next →</a>
 </div>

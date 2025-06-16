@@ -6,5 +6,5 @@ O sentido evolui e se adapta com base nas experiências e nos contextos. O infop
 
 ---
 <div class="navigation-links">
-<a href="18_Infopsiquismo_e_Filosofia_da_Linguagem.md" class="nav-link prev-link">← Voltar</a> | <a href="20_Glossário.md" class="nav-link next-link">Próximo →</a>
+<a href="../18_Infopsiquismo_e_Filosofia_da_Linguagem/" class="nav-link prev-link">← Voltar</a> | <a href="../20_Glossário/" class="nav-link next-link">Próximo →</a>
 </div>

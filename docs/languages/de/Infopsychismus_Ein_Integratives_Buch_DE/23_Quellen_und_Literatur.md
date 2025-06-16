@@ -12,5 +12,5 @@ _Dieses Buch ist ein lebendiges Dokument und lädt zur Weiterentwicklung, Diskus
 
 ---
 <div class="navigation-links">
-<a href="22_Change-Log.md" class="nav-link prev-link">← Zurück</a>
+<a href="../22_Change-Log/" class="nav-link prev-link">← Zurück</a>
 </div>

@@ -10,5 +10,5 @@ Infopsychismus fordert eine Ethik der Fürsorge, Verantwortung und kreativen Mit
 
 ---
 <div class="navigation-links">
-<a href="13_Methodik_und_Erkenntnistheorie.md" class="nav-link prev-link">← Zurück</a> | <a href="15_Anhang_und_weiterfuehrende_Literatur.md" class="nav-link next-link">Weiter →</a>
+<a href="../13_Methodik_und_Erkenntnistheorie/" class="nav-link prev-link">← Zurück</a> | <a href="../15_Anhang_und_weiterfuehrende_Literatur/" class="nav-link next-link">Weiter →</a>
 </div>

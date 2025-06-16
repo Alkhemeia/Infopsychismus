@@ -25,5 +25,5 @@
 23. [Quellen und Literatur](23_Quellen_und_Literatur.md)
 
 ---
-<div class="navigation-links"><a href="01_Einleitung.md" class="nav-link next-link">Weiter →</a>
+<div class="navigation-links"><a href="../01_Einleitung/" class="nav-link next-link">Weiter →</a>
 </div>

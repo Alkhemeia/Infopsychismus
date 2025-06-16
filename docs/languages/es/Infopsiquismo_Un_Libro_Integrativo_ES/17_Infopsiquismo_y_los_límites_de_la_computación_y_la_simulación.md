@@ -4,5 +4,5 @@ La computación y la simulación son herramientas poderosas para comprender la r
 
 ---
 <div class="navigation-links">
-<a href="16_Infopsiquismo_e_Inteligencia_Artificial_Desafíos_y_Oportunidades.md" class="nav-link prev-link">← Atrás</a> | <a href="18_Infopsiquismo_y_la_filosofía_del_lenguaje.md" class="nav-link next-link">Siguiente →</a>
+<a href="../16_Infopsiquismo_e_Inteligencia_Artificial_Desafíos_y_Oportunidades/" class="nav-link prev-link">← Atrás</a> | <a href="../18_Infopsiquismo_y_la_filosofía_del_lenguaje/" class="nav-link next-link">Siguiente →</a>
 </div>

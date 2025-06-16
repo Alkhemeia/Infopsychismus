@@ -4,5 +4,5 @@ Hay muchas preguntas que aún no tienen respuesta. ¿Cuál es la naturaleza de l
 
 ---
 <div class="navigation-links">
-<a href="08_El_futuro_de_la_conciencia_tecnología_sociedad_y_evolución.md" class="nav-link prev-link">← Atrás</a> | <a href="10_Contexto_histórico_y_linaje_intelectual.md" class="nav-link next-link">Siguiente →</a>
+<a href="../08_El_futuro_de_la_conciencia_tecnología_sociedad_y_evolución/" class="nav-link prev-link">← Atrás</a> | <a href="../10_Contexto_histórico_y_linaje_intelectual/" class="nav-link next-link">Siguiente →</a>
 </div>

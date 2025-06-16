@@ -4,5 +4,5 @@ Daha fazla keşfetmek isteyenler için ekler ve ek okumalar mevcuttur. Bu kaynak
 
 ---
 <div class="navigation-links">
-<a href="14_Etik_Derinlemesine_İnceleme.md" class="nav-link prev-link">← Geri</a> | <a href="16_İnfopsisizm_ve_Yapay_Zekâ.md" class="nav-link next-link">İleri →</a>
+<a href="../14_Etik_Derinlemesine_İnceleme/" class="nav-link prev-link">← Geri</a> | <a href="../16_İnfopsisizm_ve_Yapay_Zekâ/" class="nav-link next-link">İleri →</a>
 </div>

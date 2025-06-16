@@ -4,5 +4,5 @@ Bu bölüm, infopsisizmin gelişimine katkıda bulunan kişilerin isimlerini iç
 
 ---
 <div class="navigation-links">
-<a href="20_Terimler_Sözlüğü.md" class="nav-link prev-link">← Geri</a> | <a href="22_Değişiklik_Kaydı.md" class="nav-link next-link">İleri →</a>
+<a href="../20_Terimler_Sözlüğü/" class="nav-link prev-link">← Geri</a> | <a href="../22_Değişiklik_Kaydı/" class="nav-link next-link">İleri →</a>
 </div>

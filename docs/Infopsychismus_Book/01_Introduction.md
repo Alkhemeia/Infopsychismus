@@ -30,5 +30,5 @@ A: See the [Contributors](21_Contributors.md) section for information on how to 
 
 ---
 <div class="navigation-links">
-<a href="00_Table_of_Contents.md" class="nav-link prev-link">← Back</a> | <a href="02_The_Question_of_Existence.md" class="nav-link next-link">Next →</a>
+<a href="../00_Table_of_Contents/" class="nav-link prev-link">← Back</a> | <a href="../02_The_Question_of_Existence/" class="nav-link next-link">Next →</a>
 </div>

@@ -4,5 +4,5 @@ El sentido es una parte esencial del infopsiquismo. ¿Cómo podemos reflexionar 
 
 ---
 <div class="navigation-links">
-<a href="18_Infopsiquismo_y_la_filosofía_del_lenguaje.md" class="nav-link prev-link">← Atrás</a> | <a href="20_Glosario.md" class="nav-link next-link">Siguiente →</a>
+<a href="../18_Infopsiquismo_y_la_filosofía_del_lenguaje/" class="nav-link prev-link">← Atrás</a> | <a href="../20_Glosario/" class="nav-link next-link">Siguiente →</a>
 </div>

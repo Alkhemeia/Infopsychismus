@@ -25,5 +25,5 @@
 23. Kaynakça ve Referanslar
 
 ---
-<div class="navigation-links"><a href="01_Giriş.md" class="nav-link next-link">İleri →</a>
+<div class="navigation-links"><a href="../01_Giriş/" class="nav-link next-link">İleri →</a>
 </div>

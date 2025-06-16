@@ -11,5 +11,5 @@ Affrontare le critiche rafforza il modello e invita a un dibattito filosofico e 
 
 ---
 <div class="navigation-links">
-<a href="11_Studi_di_Caso_e_Applicazioni_Pratiche.md" class="nav-link prev-link">← Indietro</a> | <a href="13_Metodologia_ed_Epistemologia.md" class="nav-link next-link">Avanti →</a>
+<a href="../11_Studi_di_Caso_e_Applicazioni_Pratiche/" class="nav-link prev-link">← Indietro</a> | <a href="../13_Metodologia_ed_Epistemologia/" class="nav-link next-link">Avanti →</a>
 </div>

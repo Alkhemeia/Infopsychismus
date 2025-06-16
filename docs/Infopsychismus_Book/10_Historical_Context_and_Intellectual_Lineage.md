@@ -11,5 +11,5 @@ Infopsychismus synthesizes these traditions, integrating philosophy, science, an
 
 ---
 <div class="navigation-links">
-<a href="09_Open_Questions_and_Future_Research_Directions.md" class="nav-link prev-link">← Back</a> | <a href="11_Case_Studies_and_Real-World_Applications.md" class="nav-link next-link">Next →</a>
+<a href="../09_Open_Questions_and_Future_Research_Directions/" class="nav-link prev-link">← Back</a> | <a href="../11_Case_Studies_and_Real-World_Applications/" class="nav-link next-link">Next →</a>
 </div>

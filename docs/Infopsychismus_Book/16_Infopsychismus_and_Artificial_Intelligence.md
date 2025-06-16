@@ -19,5 +19,5 @@ The challenges and opportunities presented by AI require an integrative approach
 
 ---
 <div class="navigation-links">
-<a href="15_Annexes_and_Further_Reading.md" class="nav-link prev-link">← Back</a> | <a href="17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation.md" class="nav-link next-link">Next →</a>
+<a href="../15_Annexes_and_Further_Reading/" class="nav-link prev-link">← Back</a> | <a href="../17_Infopsychismus_and_the_Limits_of_Computation_and_Simulation/" class="nav-link next-link">Next →</a>
 </div>

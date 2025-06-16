@@ -4,5 +4,5 @@ A inteligência artificial apresenta oportunidades e desafios para o infopsiquis
 
 ---
 <div class="navigation-links">
-<a href="15_Anexos_e_Leituras_Complementares.md" class="nav-link prev-link">← Voltar</a> | <a href="17_Infopsiquismo_e_os_Limites_da_Computação.md" class="nav-link next-link">Próximo →</a>
+<a href="../15_Anexos_e_Leituras_Complementares/" class="nav-link prev-link">← Voltar</a> | <a href="../17_Infopsiquismo_e_os_Limites_da_Computação/" class="nav-link next-link">Próximo →</a>
 </div>

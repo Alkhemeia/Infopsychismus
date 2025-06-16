@@ -13,5 +13,5 @@ La ricerca del significato non è separata dalla struttura della realtà—è un
 
 ---
 <div class="navigation-links">
-<a href="04_Il_Ruolo_della_Coscienza.md" class="nav-link prev-link">← Indietro</a> | <a href="06_Il_Nostro_Compito_Reale.md" class="nav-link next-link">Avanti →</a>
+<a href="../04_Il_Ruolo_della_Coscienza/" class="nav-link prev-link">← Indietro</a> | <a href="../06_Il_Nostro_Compito_Reale/" class="nav-link next-link">Avanti →</a>
 </div>

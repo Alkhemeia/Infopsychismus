@@ -6,5 +6,5 @@ Dil, dünyayı algılayışımızı şekillendirir ve düşüncemizi etkiler. İ
 
 ---
 <div class="navigation-links">
-<a href="17_İnfopsisizm_ve_Hesaplama.md" class="nav-link prev-link">← Geri</a> | <a href="19_Anlam_Üzerine_Genişletilmiş_Düşünceler.md" class="nav-link next-link">İleri →</a>
+<a href="../17_İnfopsisizm_ve_Hesaplama/" class="nav-link prev-link">← Geri</a> | <a href="../19_Anlam_Üzerine_Genişletilmiş_Düşünceler/" class="nav-link next-link">İleri →</a>
 </div>

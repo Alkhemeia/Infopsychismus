@@ -19,5 +19,5 @@ From an Infopsychismus perspective, the limits of computation and simulation hig
 
 ---
 <div class="navigation-links">
-<a href="16_Infopsychismus_and_Artificial_Intelligence.md" class="nav-link prev-link">← Back</a> | <a href="18_Infopsychismus_and_Philosophy_of_Language.md" class="nav-link next-link">Next →</a>
+<a href="../16_Infopsychismus_and_Artificial_Intelligence/" class="nav-link prev-link">← Back</a> | <a href="../18_Infopsychismus_and_Philosophy_of_Language/" class="nav-link next-link">Next →</a>
 </div>

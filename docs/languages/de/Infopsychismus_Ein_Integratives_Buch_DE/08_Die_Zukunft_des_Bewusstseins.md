@@ -11,5 +11,5 @@ Die Zukunft des Bewusstseins könnte durch folgende Entwicklungen geprägt sein:
 
 ---
 <div class="navigation-links">
-<a href="07_Ausblick_und_ethische_Implikationen.md" class="nav-link prev-link">← Zurück</a> | <a href="09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen.md" class="nav-link next-link">Weiter →</a>
+<a href="../07_Ausblick_und_ethische_Implikationen/" class="nav-link prev-link">← Zurück</a> | <a href="../09_Offene_Fragen_und_zukuenftige_Forschungsrichtungen/" class="nav-link next-link">Weiter →</a>
 </div>

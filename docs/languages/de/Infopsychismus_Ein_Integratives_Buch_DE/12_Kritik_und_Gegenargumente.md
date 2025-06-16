@@ -11,5 +11,5 @@ Die Auseinandersetzung mit Kritik stärkt das Modell und lädt zu fortlaufender 
 
 ---
 <div class="navigation-links">
-<a href="11_Fallbeispiele_und_Anwendungen.md" class="nav-link prev-link">← Zurück</a> | <a href="13_Methodik_und_Erkenntnistheorie.md" class="nav-link next-link">Weiter →</a>
+<a href="../11_Fallbeispiele_und_Anwendungen/" class="nav-link prev-link">← Zurück</a> | <a href="../13_Methodik_und_Erkenntnistheorie/" class="nav-link next-link">Weiter →</a>
 </div>

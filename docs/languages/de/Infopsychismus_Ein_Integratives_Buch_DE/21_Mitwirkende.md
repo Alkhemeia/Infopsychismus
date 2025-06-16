@@ -4,5 +4,5 @@ Dieses Buch ist offen für Beiträge! Wenn du mitwirken möchtest, kontaktiere b
 
 ---
 <div class="navigation-links">
-<a href="20_Glossar.md" class="nav-link prev-link">← Zurück</a> | <a href="22_Change-Log.md" class="nav-link next-link">Weiter →</a>
+<a href="../20_Glossar/" class="nav-link prev-link">← Zurück</a> | <a href="../22_Change-Log/" class="nav-link next-link">Weiter →</a>
 </div>

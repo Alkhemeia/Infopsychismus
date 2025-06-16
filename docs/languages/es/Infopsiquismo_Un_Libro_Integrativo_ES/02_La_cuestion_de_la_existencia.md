@@ -4,5 +4,5 @@
 
 ---
 <div class="navigation-links">
-<a href="01_Introducción.md" class="nav-link prev-link">← Atrás</a> | <a href="03_La_estructura_de_la_realidad.md" class="nav-link next-link">Siguiente →</a>
+<a href="../01_Introducción/" class="nav-link prev-link">← Atrás</a> | <a href="../03_La_estructura_de_la_realidad/" class="nav-link next-link">Siguiente →</a>
 </div>

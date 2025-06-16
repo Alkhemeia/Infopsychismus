@@ -4,5 +4,5 @@ El infopsiquismo no es solo una teoría; es un marco que puede aplicarse a mucho
 
 ---
 <div class="navigation-links">
-<a href="10_Contexto_histórico_y_linaje_intelectual.md" class="nav-link prev-link">← Atrás</a> | <a href="12_Críticas_y_contraargumentos.md" class="nav-link next-link">Siguiente →</a>
+<a href="../10_Contexto_histórico_y_linaje_intelectual/" class="nav-link prev-link">← Atrás</a> | <a href="../12_Críticas_y_contraargumentos/" class="nav-link next-link">Siguiente →</a>
 </div>

@@ -4,5 +4,5 @@ Cette section contient les noms des contributeurs qui ont participé au dévelop
 
 ---
 <div class="navigation-links">
-<a href="20_Glossaire.md" class="nav-link prev-link">← Précédent</a> | <a href="22_Journal_des_Modifications.md" class="nav-link next-link">Suivant →</a>
+<a href="../20_Glossaire/" class="nav-link prev-link">← Précédent</a> | <a href="../22_Journal_des_Modifications/" class="nav-link next-link">Suivant →</a>
 </div>

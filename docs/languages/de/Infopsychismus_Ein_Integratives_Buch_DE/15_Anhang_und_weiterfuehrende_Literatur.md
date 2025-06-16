@@ -27,5 +27,5 @@ Diese Ressourcen bieten einen Einstieg für vertiefte Beschäftigung mit den The
 
 ---
 <div class="navigation-links">
-<a href="14_Vertiefte_ethische_Betrachtungen.md" class="nav-link prev-link">← Zurück</a> | <a href="16_Infopsychismus_und_KI_Herausforderungen_und_Chancen.md" class="nav-link next-link">Weiter →</a>
+<a href="../14_Vertiefte_ethische_Betrachtungen/" class="nav-link prev-link">← Zurück</a> | <a href="../16_Infopsychismus_und_KI_Herausforderungen_und_Chancen/" class="nav-link next-link">Weiter →</a>
 </div>

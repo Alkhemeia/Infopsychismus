@@ -4,5 +4,5 @@ A ética é uma parte essencial do infopsiquismo. Como podemos refletir sobre a 
 
 ---
 <div class="navigation-links">
-<a href="13_Metodologia_e_Epistemologia.md" class="nav-link prev-link">← Voltar</a> | <a href="15_Anexos_e_Leituras_Complementares.md" class="nav-link next-link">Próximo →</a>
+<a href="../13_Metodologia_e_Epistemologia/" class="nav-link prev-link">← Voltar</a> | <a href="../15_Anexos_e_Leituras_Complementares/" class="nav-link next-link">Próximo →</a>
 </div>

@@ -6,5 +6,5 @@ Varlık sorusu, felsefenin en temel ve en eski sorularından biridir. Neden var�
 
 ---
 <div class="navigation-links">
-<a href="01_Giriş.md" class="nav-link prev-link">← Geri</a> | <a href="03_Gerçekliğin_Yapısı.md" class="nav-link next-link">İleri →</a>
+<a href="../01_Giriş/" class="nav-link prev-link">← Geri</a> | <a href="../03_Gerçekliğin_Yapısı/" class="nav-link next-link">İleri →</a>
 </div>
