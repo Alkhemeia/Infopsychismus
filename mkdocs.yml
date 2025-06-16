@@ -12,7 +12,7 @@ nav:
       - 4. Why Are We Conscious Beings Here?: Infopsychismus_Book.md#4-why-are-we-conscious-beings-here
       - 5. Our Actual Task: Infopsychismus_Book.md#5-our-actual-task
       - 6. Outlook and Ethical Implications: Infopsychismus_Book.md#6-outlook-and-ethical-implications
-      - 7. The Future of Consciousness: Technology, Society, and Evolution: Infopsychismus_Book.md#7-the-future-of-consciousness-technology-society-and-evolution
+      - "7. The Future of Consciousness: Technology, Society, and Evolution": Infopsychismus_Book.md#7-the-future-of-consciousness-technology-society-and-evolution
       - 8. Toward Planetary and Cosmic Consciousness: Infopsychismus_Book.md#8-toward-planetary-and-cosmic-consciousness
       - 9. The Practice of Infopsychismus: Living the Model: Infopsychismus_Book.md#9-the-practice-of-infopsychismus-living-the-model
       - 10. Infopsychismus and the Future of Meaning: Infopsychismus_Book.md#10-infopsychismus-and-the-future-of-meaning
@@ -199,6 +199,54 @@ nav:
           - سجل التغييرات: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#سجل-التغييرات
           - المراجع والمصادر: languages/ar/Infopsychismus_Kitab_Takamuli_AR.md#المراجع-والمصادر
       - العربية (المشروع): languages/ar/README_AR.md
+      - Italiano (Libro):
+          - Introduzione: languages/it/Infopsichismo_Un_Libro_Integrativo_IT.md#introduzione
+          - Indice: languages/it/Infopsichismo_Un_Libro_Integrativo_IT.md#indice
+          - Glossario: languages/it/Infopsichismo_Un_Libro_Integrativo_IT.md#glossario
+          - Collaboratori: languages/it/Infopsichismo_Un_Libro_Integrativo_IT.md#collaboratori
+          - Registro delle modifiche: languages/it/Infopsichismo_Un_Libro_Integrativo_IT.md#registro-delle-modifiche
+          - Riferimenti e fonti: languages/it/Infopsichismo_Un_Libro_Integrativo_IT.md#riferimenti-e-fonti
+      - Italiano (Progetto): languages/it/README_IT.md
+      - Português (Livro):
+          - Introdução: languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT.md#introducao
+          - Índice: languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT.md#indice
+          - Glossário: languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT.md#glossario
+          - Colaboradores: languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT.md#colaboradores
+          - Registro de alterações: languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT.md#registro-de-alteracoes
+          - Referências e fontes: languages/pt/Infopsiquismo_Um_Livro_Integrativo_PT.md#referencias-e-fontes
+      - Português (Projeto): languages/pt/README_PT.md
+      - 日本語 (書籍):
+          - はじめに: languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA.md#はじめに
+          - 目次: languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA.md#目次
+          - 用語集: languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA.md#用語集
+          - 貢献者: languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA.md#貢献者
+          - 変更履歴: languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA.md#変更履歴
+          - 参考文献: languages/ja/Infopsychismus_Togo_Teki_Chosaku_JA.md#参考文献
+      - 日本語 (プロジェクト): languages/ja/README_JA.md
+      - 한국어 (책):
+          - 소개: languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO.md#소개
+          - 목차: languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO.md#목차
+          - 용어집: languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO.md#용어집
+          - 기여자: languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO.md#기여자
+          - 변경 기록: languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO.md#변경-기록
+          - 참고 문헌: languages/ko/Infopsychismus_Tonghapjeok_Jeojak_KO.md#참고-문헌
+      - 한국어 (프로젝트): languages/ko/README_KO.md
+      - हिन्दी (पुस्तक):
+          - परिचय: languages/hi/Infopsychismus_Samagra_Pustak_HI.md#परिचय
+          - सामग्री सूची: languages/hi/Infopsychismus_Samagra_Pustak_HI.md#सामग्री-सूची
+          - शब्दावली: languages/hi/Infopsychismus_Samagra_Pustak_HI.md#शब्दावली
+          - योगदानकर्ता: languages/hi/Infopsychismus_Samagra_Pustak_HI.md#योगदानकर्ता
+          - परिवर्तन लॉग: languages/hi/Infopsychismus_Samagra_Pustak_HI.md#परिवर्तन-लॉग
+          - संदर्भ और स्रोत: languages/hi/Infopsychismus_Samagra_Pustak_HI.md#संदर्भ-और-स्रोत
+      - हिन्दी (परियोजना): languages/hi/README_HI.md
+      - Türkçe (Kitap):
+          - Giriş: languages/tr/Infopsisizm_Butunleyici_Kitap_TR.md#giriş
+          - İçindekiler: languages/tr/Infopsisizm_Butunleyici_Kitap_TR.md#içindekiler
+          - Terimler Sözlüğü: languages/tr/Infopsisizm_Butunleyici_Kitap_TR.md#terimler-sözlüğü
+          - Katkıda Bulunanlar: languages/tr/Infopsisizm_Butunleyici_Kitap_TR.md#katkıda-bulunanlar
+          - Değişiklik Kaydı: languages/tr/Infopsisizm_Butunleyici_Kitap_TR.md#değişiklik-kaydı
+          - Kaynakça ve Referanslar: languages/tr/Infopsisizm_Butunleyici_Kitap_TR.md#kaynakça-ve-referanslar
+      - Türkçe (Proje): languages/tr/README_TR.md
 repo_url: https://github.com/alkhemeia/Infopsychismus
 theme:
   name: material
